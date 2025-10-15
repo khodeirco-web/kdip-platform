@@ -1,0 +1,1001 @@
+transaction_id,transaction_date,area,property_type,price_aed,buyer_name,seller_name,size_sqft,bedrooms,transaction_type,registration_fee,broker_name,developer_name
+f1d75c3f-882b-4fc9-8a33-894e6b97d041,2024-05-31,Jumeirah Village Circle,Apartment,975268,Buyer_4657,Seller_3286,6533,1.0,Mortgage,39010,Broker_858,Developer_21
+6e7f4822-0cc7-410b-b1e7-9cf342d7440a,2024-07-24,International City,Apartment,576686,Buyer_4811,Seller_9279,5431,1.0,Mortgage,23067,Broker_303,Developer_99
+57558522-a2da-492e-a9f3-f20f3d1a8a12,2024-03-24,Studio City,Office,1025170,Buyer_1106,Seller_3615,14848,,Lease,41006,Broker_384,
+8a1d2b0c-d5cc-4d23-a416-b8d58c473475,2025-03-30,Jumeirah Lake Towers,Apartment,611937,Buyer_6881,Seller_6635,5445,3.0,Sale,24477,Broker_847,
+6d5cd97f-23db-43b4-b987-b125a89bf699,2024-02-22,Jumeirah Village Circle,Office,906192,Buyer_6925,Seller_4150,3279,,Sale,36247,Broker_777,
+49bc9205-c466-4ee6-8d06-4ddab4e53b38,2025-03-22,DIFC,Apartment,1870160,Buyer_7227,Seller_5554,4214,6.0,Lease,74806,Broker_266,
+4c6cb654-bf49-4258-83a3-e39e884ee374,2025-05-21,Emirates Living,Plot,443442,Buyer_3803,Seller_9751,9021,,Sale,17737,Broker_573,
+5e84e638-af0d-4928-bd23-652349f93f25,2025-06-22,Studio City,Villa,2948074,Buyer_4752,Seller_1525,7094,3.0,Lease,117922,Broker_374,
+da9b5f3c-7816-45e5-9013-f67e037accff,2023-07-27,Jumeirah Lake Towers,Villa,2897017,Buyer_8517,Seller_3340,2669,2.0,Sale,115880,Broker_862,
+bb5532df-a911-47f4-9a8b-b8ad4b87c03e,2023-07-20,City Walk,Plot,554605,Buyer_6930,Seller_4593,5532,,Mortgage,22184,Broker_605,
+22784fb5-4be7-43d0-8066-f9b0fa03ed83,2024-11-21,Dubai Marina,Building,5825657,Buyer_7916,Seller_2040,13608,,Lease,233026,Broker_710,Developer_77
+49da9407-9258-4a52-9977-4beb83198cfc,2025-09-21,City Walk,Retail,1172291,Buyer_2876,Seller_9797,9743,,Mortgage,46891,Broker_448,
+e0df4c0e-8c64-4518-b991-ab585c5f5939,2024-04-23,International City,Villa,2544016,Buyer_9201,Seller_3927,4658,1.0,Mortgage,101760,Broker_405,Developer_74
+bbcc6e16-f7e5-4a31-938b-9a3a6f07251c,2024-11-18,Emirates Living,Villa,2404349,Buyer_9837,Seller_9689,504,5.0,Lease,96173,Broker_600,
+616a8eb1-11fe-46b0-ba26-1fcd4ec158e3,2024-06-11,Palm Jumeirah,Building,15809279,Buyer_1949,Seller_4946,19591,,Sale,632371,Broker_187,Developer_18
+febcf2e4-f979-40d7-9147-1f9bdd881fe1,2023-02-14,Studio City,Building,3940161,Buyer_3705,Seller_5342,18290,,Mortgage,157606,Broker_533,Developer_79
+da8e2e9b-6407-4060-a5d9-ac78315b501f,2023-09-11,Emirates Living,Plot,459100,Buyer_8177,Seller_9479,15794,,Sale,18364,Broker_353,
+33cdeff1-de3e-4cf0-ac43-30359f616d56,2024-06-30,Jumeirah Lake Towers,Apartment,889452,Buyer_4608,Seller_1117,1081,6.0,Mortgage,35578,Broker_160,
+b7fd74c6-6885-4912-9b8c-18aff21cb4bd,2022-11-27,Dubai Marina,Building,6984749,Buyer_4899,Seller_5562,16906,,Sale,279389,Broker_652,
+9d28a445-0966-4082-a293-d8547e7f3d12,2023-07-04,Motor City,Villa,3123083,Buyer_4119,Seller_2545,1294,6.0,Lease,124923,Broker_462,
+7a4d33ef-dcbe-4d88-b8a8-7d0530a98086,2025-03-27,Discovery Gardens,Building,6051765,Buyer_1993,Seller_7596,12118,,Sale,242070,Broker_354,
+14dd000c-246c-4742-934a-d98096e27c6e,2024-10-04,Studio City,Office,957753,Buyer_5563,Seller_8579,9185,,Sale,38310,Broker_553,Developer_80
+e6c51e6f-4074-4472-aff2-c25b66142785,2025-09-14,Jumeirah Village Circle,Apartment,925201,Buyer_2528,Seller_4872,1862,4.0,Lease,37008,Broker_592,
+2b619365-2f27-4aa9-b9ec-228e10ec3253,2025-10-10,Jumeirah Beach Residence,Apartment,652196,Buyer_7396,Seller_5345,6923,4.0,Lease,26087,Broker_533,
+fa9d99aa-9c75-42c7-a1fa-d62ce0177610,2024-12-01,Studio City,Plot,601442,Buyer_4111,Seller_5861,8133,,Sale,24057,Broker_693,Developer_17
+716053e5-e517-4934-852f-77f000f70b81,2023-02-11,Jumeirah Lake Towers,Apartment,588079,Buyer_9238,Seller_9701,1789,1.0,Mortgage,23523,Broker_182,Developer_18
+1d504c2c-5087-42be-bf2f-b3bcb3991ec8,2023-07-11,Downtown Dubai,Plot,1303273,Buyer_2964,Seller_5033,19970,,Mortgage,52130,Broker_140,
+8e21d09d-bed1-4fc4-bc32-fd9023285dc7,2022-11-09,International City,Plot,554285,Buyer_6183,Seller_5272,7693,,Mortgage,22171,Broker_833,
+60b382cd-5ec7-4392-ae9a-b363aa972c50,2024-02-08,City Walk,Office,949937,Buyer_8491,Seller_6180,3377,,Sale,37997,Broker_569,
+52702017-343d-4a2f-80f0-f2b476a4329d,2022-12-13,Jumeirah Village Circle,Apartment,861075,Buyer_5345,Seller_3170,3359,1.0,Sale,34443,Broker_478,
+56088224-b2c4-4517-aa2f-c36a8c9d0aee,2024-02-03,Discovery Gardens,Building,5401262,Buyer_9666,Seller_1128,19173,,Lease,216050,Broker_779,
+dbf1b562-60f1-43c0-891c-1242c22b07f6,2025-03-09,Dubai Investment Park,Townhouse,1405440,Buyer_3546,Seller_5462,2808,5.0,Sale,56217,Broker_834,
+137e5300-f281-489f-a0d4-e9dabf6a082a,2025-07-02,City Walk,Retail,937775,Buyer_2512,Seller_7939,10066,,Sale,37511,Broker_103,
+e2000713-4794-4681-a363-64b54a9e36e1,2024-11-18,Dubai Investment Park,Plot,692929,Buyer_8239,Seller_8007,19379,,Sale,27717,Broker_214,
+d6bc9b0d-1730-49ac-95ac-0ee7f32eccbf,2023-09-19,Dubai Investment Park,Retail,652697,Buyer_3426,Seller_8041,5176,,Sale,26107,Broker_415,
+66246617-4474-4d4a-9384-3eda4285fdec,2024-05-21,Dubai Marina,Townhouse,2287044,Buyer_2684,Seller_6794,6890,5.0,Lease,91481,Broker_735,Developer_40
+58d1fac6-3a78-43b6-9fb3-51ba08aaf62f,2023-06-23,Arabian Ranches,Building,6337701,Buyer_1406,Seller_3938,11885,,Lease,253508,Broker_921,
+44a1ce11-df55-4d0a-b9c8-35699f7b2ab8,2025-03-07,Dubai Hills Estate,Townhouse,2044824,Buyer_7267,Seller_1634,7533,4.0,Sale,81792,Broker_304,Developer_68
+a5d0381b-cfa1-4951-a222-58012c09d3f3,2024-07-05,Palm Jumeirah,Townhouse,5734689,Buyer_4652,Seller_1387,5906,2.0,Lease,229387,Broker_436,
+34259333-35de-4b39-a7d7-898e05a78db9,2022-12-06,Downtown Dubai,Building,8953874,Buyer_7548,Seller_9785,11851,,Sale,358154,Broker_218,Developer_43
+e97b88d2-3cd9-4566-bf6b-a40815acccf4,2024-04-19,Arabian Ranches,Retail,1236396,Buyer_1626,Seller_2776,15239,,Lease,49455,Broker_846,Developer_65
+d58acbe0-b490-426b-8d4f-83f0e0a87216,2024-09-20,Sports City,Apartment,775709,Buyer_5173,Seller_1727,6306,4.0,Sale,31028,Broker_632,Developer_78
+7d978b16-78d2-48d6-ad62-c94133a24195,2023-12-08,Emirates Living,Townhouse,1803434,Buyer_6143,Seller_3041,6396,3.0,Mortgage,72137,Broker_416,
+f3cfbf13-d4a5-419d-88c4-a2605451e3ab,2025-01-27,Jumeirah Lake Towers,Office,1425655,Buyer_4143,Seller_7888,13423,,Mortgage,57026,Broker_866,Developer_88
+a718b447-643a-4338-ac67-e155df8009a4,2025-10-14,DIFC,Office,2340481,Buyer_5978,Seller_5700,7887,,Lease,93619,Broker_904,
+b90d4c44-108c-4f7d-83eb-3e197abfee55,2024-08-03,Jumeirah Lake Towers,Office,1211100,Buyer_9375,Seller_8752,6560,,Mortgage,48444,Broker_186,
+ec92552f-0908-4d55-b2ec-d56143c3612f,2024-06-20,Jumeirah Lake Towers,Apartment,1018317,Buyer_6085,Seller_4680,7107,2.0,Sale,40732,Broker_125,
+8c3d21e1-5c67-4ef4-9562-1b66f09a9926,2025-05-18,Motor City,Retail,1165334,Buyer_8461,Seller_7790,19863,,Sale,46613,Broker_835,
+23b582ae-f85a-4b9c-86f3-bef5874e5502,2025-10-03,Motor City,Office,1044946,Buyer_2746,Seller_7965,8170,,Sale,41797,Broker_923,Developer_76
+e1b308f1-5034-4094-b071-696dd7ba8343,2025-02-08,Discovery Gardens,Apartment,872147,Buyer_8478,Seller_3184,7065,4.0,Mortgage,34885,Broker_643,Developer_86
+61762129-4bde-4747-a3a7-90225cc17907,2022-12-16,Jumeirah Lake Towers,Building,6619990,Buyer_7991,Seller_9976,15611,,Sale,264799,Broker_861,Developer_67
+4abce18f-1df6-4214-a42d-12917ae82f2d,2024-03-26,City Walk,Building,4365339,Buyer_9540,Seller_8939,8839,,Lease,174613,Broker_550,
+c88a4a43-f74e-4732-84f8-0cc5f530308c,2023-12-30,DIFC,Villa,4005902,Buyer_9849,Seller_2320,1633,2.0,Sale,160236,Broker_492,
+b720b855-d31f-4517-8277-13d614e6f8e4,2023-12-07,Emirates Living,Apartment,792326,Buyer_9890,Seller_8633,3906,1.0,Sale,31693,Broker_952,
+c6c3bde0-da52-4a0c-a73e-e4d6c7391264,2023-08-27,Business Bay,Building,8556987,Buyer_8814,Seller_1096,12526,,Lease,342279,Broker_871,
+1a7bf62f-f1f0-47a6-9246-5d45ac5ece3c,2024-07-20,International City,Retail,1100934,Buyer_8999,Seller_4595,9943,,Lease,44037,Broker_597,
+adaf0200-ac42-4f56-8237-ed95dcbe79e2,2023-07-09,Jumeirah Lake Towers,Plot,587699,Buyer_3704,Seller_8657,5182,,Mortgage,23507,Broker_646,
+3cbf7575-3119-488f-81cc-fcc09b53d79a,2025-08-20,Jumeirah Beach Residence,Retail,985566,Buyer_2375,Seller_8022,5446,,Lease,39422,Broker_286,
+8f3bee52-145f-4397-b4cf-f0e73941339d,2023-12-15,Jumeirah Beach Residence,Townhouse,1526691,Buyer_6529,Seller_7211,2779,4.0,Lease,61067,Broker_954,
+d989cab5-f9fa-47c0-9c06-079579091c12,2023-10-29,Business Bay,Plot,700435,Buyer_4673,Seller_2124,2319,,Sale,28017,Broker_353,
+527e8b8c-7f35-43b8-be3b-f22f10f09e0d,2025-01-29,Business Bay,Retail,943801,Buyer_8758,Seller_2874,19480,,Sale,37752,Broker_576,
+9bd3ca87-c586-42ed-b359-82105d1bd05d,2025-02-22,Palm Jumeirah,Villa,7025780,Buyer_3683,Seller_6096,1385,5.0,Sale,281031,Broker_419,
+a96f87d1-1e2b-4648-8be8-b7fc7cbd7da8,2024-09-03,Jumeirah Beach Residence,Office,1630835,Buyer_2245,Seller_4978,4339,,Mortgage,65233,Broker_891,
+ecf157b7-691b-4742-8db9-482428db8e4e,2025-07-22,Jumeirah Village Circle,Building,6943455,Buyer_6688,Seller_9728,15037,,Mortgage,277738,Broker_479,
+38cd309e-d7a8-4ab8-8ff3-9b99d7f1a7ad,2023-01-15,Jumeirah Lake Towers,Apartment,1035762,Buyer_2729,Seller_8102,3467,6.0,Lease,41430,Broker_824,
+8e879baf-0812-407d-84e7-731b5806aa8c,2024-04-09,Arabian Ranches,Plot,532611,Buyer_9817,Seller_8921,16232,,Lease,21304,Broker_945,Developer_44
+cc672b9b-b518-4a4f-9138-0bdac9db6744,2025-04-20,Jumeirah Lake Towers,Building,4359233,Buyer_5569,Seller_8385,8990,,Lease,174369,Broker_683,
+c6705046-00c6-4013-b7a8-822a36ae6140,2023-12-19,Jumeirah Beach Residence,Townhouse,1296161,Buyer_3979,Seller_8988,2237,3.0,Lease,51846,Broker_448,
+baf494df-5ad0-4d7b-b5b1-f4877c801c37,2024-09-18,City Walk,Retail,636395,Buyer_2402,Seller_4954,14317,,Lease,25455,Broker_668,Developer_98
+b64740bf-e1a3-4694-9d20-19a2ccc7b016,2023-04-11,Motor City,Plot,599144,Buyer_1282,Seller_2524,10641,,Sale,23965,Broker_514,
+aa813fef-2a50-4bb0-bab0-85c0373f8851,2023-02-18,DIFC,Plot,996380,Buyer_9698,Seller_6632,14942,,Mortgage,39855,Broker_663,
+eda514aa-368e-4551-a323-4a8529b2254b,2024-06-29,Discovery Gardens,Townhouse,1646344,Buyer_2976,Seller_4155,3084,1.0,Mortgage,65853,Broker_648,Developer_98
+202e223b-3a71-4b2a-8dd2-33bc77a1ad9d,2023-01-27,Arabian Ranches,Villa,2128673,Buyer_5530,Seller_9595,5388,3.0,Sale,85146,Broker_952,
+3533a8f6-6093-4a7b-97dd-5c1eda0a5d2a,2025-09-16,Dubai Hills Estate,Townhouse,2080534,Buyer_9751,Seller_3073,2747,1.0,Sale,83221,Broker_666,
+589ddca5-449e-4d9a-a13c-2209241d8990,2023-01-13,Dubai Investment Park,Plot,653961,Buyer_2680,Seller_1200,19810,,Lease,26158,Broker_580,
+683c9853-f9f1-4169-9943-2b84603e7497,2024-05-15,Jumeirah Lake Towers,Villa,3439620,Buyer_8827,Seller_2869,7234,1.0,Lease,137584,Broker_603,
+f64864f2-9b43-465e-adba-c011fb68f31b,2024-01-31,Dubai Marina,Villa,3016643,Buyer_2395,Seller_5066,1470,5.0,Lease,120665,Broker_720,
+dc90bb57-9080-4693-91ea-9d399591642c,2023-04-06,Dubai Hills Estate,Building,7460605,Buyer_8253,Seller_5871,15051,,Lease,298424,Broker_682,
+18ab4aa6-a587-4372-a2de-d781f00c26e0,2024-08-08,Jumeirah Village Circle,Building,4227257,Buyer_5335,Seller_2330,6146,,Sale,169090,Broker_277,
+a1431dbf-29d5-4602-8de4-7e1bfb3b53cf,2023-02-25,Arabian Ranches,Apartment,788769,Buyer_5771,Seller_1534,2396,3.0,Mortgage,31550,Broker_389,Developer_68
+52d1a897-db00-48a0-a0eb-90c3a375504d,2024-04-21,Downtown Dubai,Plot,863396,Buyer_4241,Seller_7965,4760,,Mortgage,34535,Broker_330,
+c941285f-47e3-4528-a805-d34871fda02f,2025-06-14,City Walk,Building,3997826,Buyer_3718,Seller_6039,19651,,Lease,159913,Broker_549,
+a919bb14-49f8-4c62-978c-84068de92f7f,2024-04-05,DIFC,Plot,883580,Buyer_9199,Seller_9847,17180,,Lease,35343,Broker_182,
+65054dd4-be2b-4feb-ab73-acddc82ba142,2024-05-20,International City,Plot,462812,Buyer_1423,Seller_2496,8501,,Mortgage,18512,Broker_956,Developer_85
+69436c01-a761-472c-99c8-e5bebbe6eca3,2024-04-11,Business Bay,Building,7608881,Buyer_1659,Seller_3870,16417,,Mortgage,304355,Broker_767,
+f889a61c-e290-4c9a-8a49-55eb215dce4c,2023-05-06,City Walk,Villa,3494654,Buyer_9056,Seller_2494,4350,3.0,Lease,139786,Broker_441,
+f4d70b9c-203d-4077-a367-5f118031cd2c,2023-06-24,Jumeirah Village Circle,Building,4062886,Buyer_9117,Seller_5722,14122,,Mortgage,162515,Broker_137,
+19c96c44-dc2d-415a-99f7-446d4786d1eb,2023-07-10,Jumeirah Lake Towers,Townhouse,1667324,Buyer_9431,Seller_1018,5887,5.0,Lease,66692,Broker_523,
+c40552d1-75f8-4da1-8c8e-6deb65e66629,2022-12-29,Sports City,Townhouse,2044518,Buyer_8242,Seller_1845,2167,3.0,Mortgage,81780,Broker_234,Developer_66
+6f8818ee-134f-4278-b9d3-cd52a7d5d8d9,2024-06-11,Motor City,Apartment,576166,Buyer_3594,Seller_6091,5012,1.0,Mortgage,23046,Broker_517,
+09600cc9-8bc6-4366-88e0-07c5200d4d26,2024-12-03,Jumeirah Village Circle,Office,1635531,Buyer_9165,Seller_5781,17674,,Mortgage,65421,Broker_379,
+f4e5ac40-e37c-44d3-8d28-fb7979d99129,2024-12-22,Motor City,Office,1044733,Buyer_7284,Seller_4122,17654,,Mortgage,41789,Broker_239,Developer_45
+43cbee70-524e-42e7-aa45-ec4dc193c978,2022-12-10,International City,Townhouse,2437152,Buyer_5377,Seller_1042,2817,6.0,Lease,97486,Broker_957,
+c3053127-7549-4374-9fcb-f9c440ef642b,2023-01-27,Motor City,Building,4020083,Buyer_6654,Seller_6446,19085,,Mortgage,160803,Broker_486,
+57999aa5-9374-42e8-9b85-a58072072205,2024-06-12,Jumeirah Lake Towers,Building,4160283,Buyer_7274,Seller_4826,14460,,Sale,166411,Broker_425,Developer_58
+5d8f317f-35d0-4e64-9180-408640212cb9,2024-12-07,Jumeirah Beach Residence,Plot,627337,Buyer_9115,Seller_1606,5136,,Mortgage,25093,Broker_704,
+1dbffc3b-31b4-4e85-b737-5cc20ccefad2,2025-03-24,Jumeirah Village Circle,Building,6457637,Buyer_9617,Seller_8486,1502,,Mortgage,258305,Broker_247,
+b6844b70-3767-473a-9a45-c57883dfc0fb,2024-04-20,Dubai Investment Park,Apartment,822914,Buyer_6546,Seller_7512,5823,1.0,Lease,32916,Broker_972,
+d0e6e1e1-d162-4f24-8680-7ea9c5c7ff7e,2023-01-19,Studio City,Office,1641477,Buyer_9864,Seller_1588,3242,,Sale,65659,Broker_746,
+985eb3ba-f12b-4a70-99aa-156a3ce4bd1a,2023-05-10,DIFC,Villa,5502314,Buyer_2612,Seller_2646,4134,2.0,Mortgage,220092,Broker_406,Developer_15
+00153c7b-bc4c-4513-b330-e3ca2c26addf,2023-10-11,Jumeirah Lake Towers,Building,3696417,Buyer_7141,Seller_8056,5770,,Sale,147856,Broker_643,
+055f6c79-2660-4a2e-b3ed-76e44ee86fd0,2023-08-23,Arabian Ranches,Villa,2056371,Buyer_4945,Seller_9153,7977,5.0,Sale,82254,Broker_337,
+043ff88d-acc3-4e4f-b23e-2d5be58fc491,2025-09-25,City Walk,Office,1054474,Buyer_8622,Seller_5712,18910,,Sale,42178,Broker_175,
+8ffe0d3d-9ebd-4c52-a52c-9b1e1b5b374d,2023-05-30,Palm Jumeirah,Retail,2046167,Buyer_5097,Seller_8484,10899,,Sale,81846,Broker_493,Developer_23
+bb821c3a-ca92-4475-a07a-324eeb4cf2d5,2024-02-17,Dubai Hills Estate,Office,1848581,Buyer_5837,Seller_1359,13969,,Lease,73943,Broker_108,
+f01192a8-430b-4a53-9a5e-07f5fc0588a4,2024-03-07,Dubai Marina,Retail,1649187,Buyer_4770,Seller_6772,8176,,Mortgage,65967,Broker_294,
+a711c054-26cf-4edb-8d0f-8267694089aa,2025-07-26,Dubai Investment Park,Plot,384007,Buyer_6061,Seller_8222,2093,,Mortgage,15360,Broker_473,Developer_21
+d3a5b8a3-c98a-426e-88d7-db34a42bc6a3,2024-10-20,DIFC,Townhouse,3963286,Buyer_4289,Seller_3165,6943,5.0,Lease,158531,Broker_643,
+91c99c93-e757-44d0-8d52-72990c3e351f,2023-02-01,City Walk,Building,4075905,Buyer_5835,Seller_6549,4773,,Lease,163036,Broker_177,
+2393080c-1968-42e6-828b-15d78295b694,2023-07-24,Dubai Hills Estate,Building,8213986,Buyer_6992,Seller_2479,13929,,Sale,328559,Broker_370,
+83b3220f-b613-4747-9ec2-aa272685d565,2024-04-26,Discovery Gardens,Townhouse,2107763,Buyer_7242,Seller_7086,1387,6.0,Sale,84310,Broker_582,
+12ef4102-9c9c-447f-a8b4-c35ff921bb67,2024-07-18,Studio City,Townhouse,2413222,Buyer_2035,Seller_8606,7949,6.0,Lease,96528,Broker_764,
+2fd15687-2032-41f4-83bf-6734c9a0ca7f,2024-01-30,Dubai Investment Park,Apartment,1089906,Buyer_9071,Seller_2902,1296,2.0,Mortgage,43596,Broker_238,
+84a4a478-fe96-4694-a6c2-6b5521b98895,2023-06-09,Palm Jumeirah,Plot,1705708,Buyer_3531,Seller_7797,4244,,Lease,68228,Broker_730,
+3d0bf94a-bb0c-45bf-b108-ef5e83991737,2024-07-27,City Walk,Apartment,946557,Buyer_8264,Seller_8285,2434,3.0,Sale,37862,Broker_802,
+a960c475-732e-47e3-97ba-70dde702438b,2024-09-21,Palm Jumeirah,Apartment,1957395,Buyer_3001,Seller_8450,1250,6.0,Sale,78295,Broker_757,
+e6fa6fb3-19a9-4207-8be6-e48d1ec8a3e5,2024-06-03,Business Bay,Apartment,1300786,Buyer_3063,Seller_4362,1062,5.0,Sale,52031,Broker_700,
+d1890e71-bd0e-41f8-9c43-b86c97d20429,2025-10-09,Dubai Hills Estate,Townhouse,3129986,Buyer_5542,Seller_3370,1564,5.0,Lease,125199,Broker_917,
+19d3640a-3d4c-4a60-a939-2021f2f9eedf,2024-06-14,Business Bay,Villa,2308807,Buyer_6304,Seller_1258,1927,3.0,Sale,92352,Broker_229,Developer_77
+cdc93e12-d3c9-4450-a5ca-5c03f4270dc0,2023-04-10,Jumeirah Village Circle,Plot,372245,Buyer_6931,Seller_9408,4573,,Lease,14889,Broker_615,
+b73392fc-56d7-4f89-bcce-13157c55038c,2022-11-12,Dubai Marina,Plot,936194,Buyer_5941,Seller_8504,2020,,Sale,37447,Broker_590,Developer_64
+e211d2aa-4148-4adf-9559-b1c961fdef09,2023-04-20,Jumeirah Village Circle,Office,1438417,Buyer_2204,Seller_2323,11554,,Mortgage,57536,Broker_251,
+a507a707-0f9c-4630-9efb-9774eb58074f,2023-12-19,City Walk,Retail,1028838,Buyer_7240,Seller_9692,10663,,Lease,41153,Broker_617,
+8819bdae-ec9b-4b93-be0e-d1f4e6bd5253,2024-07-31,Jumeirah Village Circle,Building,5956227,Buyer_8046,Seller_8398,8487,,Lease,238249,Broker_447,Developer_61
+82ec5658-9230-445d-ad2e-1a1d45ccc9d7,2023-05-24,International City,Plot,383280,Buyer_6120,Seller_5176,13265,,Sale,15331,Broker_803,Developer_18
+6ff8f036-84b0-4719-9602-0fedc173d831,2023-05-14,Downtown Dubai,Building,7597550,Buyer_2582,Seller_7105,5263,,Mortgage,303902,Broker_161,
+e0e10aee-6dda-41d3-a5f2-9bf4dee48ecc,2025-02-06,Studio City,Retail,837676,Buyer_7730,Seller_6793,14858,,Mortgage,33507,Broker_152,Developer_86
+80433f31-7e18-495b-90f7-97105e816f53,2022-12-10,DIFC,Townhouse,2502966,Buyer_4485,Seller_3535,5879,4.0,Sale,100118,Broker_967,
+0fb74361-66b0-41cb-a008-66900fece24c,2024-03-23,Studio City,Townhouse,1404755,Buyer_4705,Seller_8030,7423,5.0,Mortgage,56190,Broker_728,
+b7d8a52f-da22-4e0f-8357-d2a4506404fe,2024-04-15,Studio City,Apartment,901037,Buyer_1474,Seller_3955,2738,6.0,Lease,36041,Broker_447,
+274d3828-6077-453a-8643-cbc810aa1c67,2023-07-17,Arabian Ranches,Building,4001380,Buyer_2140,Seller_3324,2004,,Sale,160055,Broker_864,
+d132dfbc-93d7-4ed4-91a2-d72658f443db,2024-11-26,Jumeirah Beach Residence,Office,1221062,Buyer_7062,Seller_6105,11629,,Mortgage,48842,Broker_710,
+7b183803-b6f3-4e8a-a33f-59787d24eee3,2025-07-05,Dubai Marina,Villa,3038200,Buyer_2336,Seller_5458,4129,6.0,Lease,121528,Broker_597,
+204b7db4-836e-4d18-80fd-0344243ce798,2022-11-30,International City,Townhouse,1531616,Buyer_2864,Seller_6655,4021,1.0,Lease,61264,Broker_794,
+3ef65d6e-a5d2-4c66-9f7f-1584293e1c50,2025-07-13,Motor City,Retail,1050293,Buyer_4612,Seller_7475,2795,,Sale,42011,Broker_309,
+6c931623-4925-4d46-ab05-9c01230bd465,2024-05-09,Emirates Living,Building,3980321,Buyer_5742,Seller_6375,4931,,Sale,159212,Broker_609,Developer_32
+691d784b-c25d-4462-847d-1d4d5ca5f86f,2024-06-30,Dubai Investment Park,Office,1287369,Buyer_9196,Seller_6802,3361,,Lease,51494,Broker_982,Developer_65
+9708e6c3-ebd3-4c3d-a423-3e576db82f3d,2024-01-12,Business Bay,Office,2097909,Buyer_8033,Seller_7626,14686,,Lease,83916,Broker_217,
+98c4193f-85ac-404a-b20d-45a8077b97f7,2023-03-17,Jumeirah Lake Towers,Villa,3152313,Buyer_6928,Seller_2443,4077,1.0,Sale,126092,Broker_546,
+c68c3a11-f15a-4dbc-98c3-125621850ab9,2024-01-18,Sports City,Apartment,781629,Buyer_6562,Seller_4630,3228,2.0,Sale,31265,Broker_622,
+7f151864-094a-43e5-a61b-d67d7a127a0a,2023-10-30,Sports City,Retail,752159,Buyer_6752,Seller_3419,8742,,Sale,30086,Broker_249,
+3fcb2682-5417-4d16-9712-b2fae5684442,2025-05-13,Arabian Ranches,Retail,726307,Buyer_3902,Seller_9095,16202,,Mortgage,29052,Broker_878,
+2d2cb471-ee7c-495a-a44f-7f5e3b9624d9,2024-01-06,Jumeirah Lake Towers,Building,6898405,Buyer_3473,Seller_8205,3237,,Lease,275936,Broker_552,
+aecdee19-f17b-472f-88c1-796332154fc4,2022-12-10,City Walk,Retail,665388,Buyer_2215,Seller_6085,16130,,Lease,26615,Broker_138,
+a7f4542e-655c-4916-b0c6-a60ab8c463ba,2025-04-13,DIFC,Apartment,1657823,Buyer_9307,Seller_7299,4290,5.0,Mortgage,66312,Broker_910,Developer_15
+4a38af68-f64d-4c3b-b813-28c502f933ed,2024-09-24,Discovery Gardens,Building,5500798,Buyer_6267,Seller_8792,17428,,Sale,220031,Broker_163,
+9ee886bd-de17-4e06-afb1-7276f90b5a92,2024-10-26,Jumeirah Lake Towers,Plot,379515,Buyer_1641,Seller_5059,15344,,Lease,15180,Broker_636,
+25893301-0600-49f0-b261-e8c3006a6ba9,2024-03-14,Arabian Ranches,Townhouse,1729793,Buyer_7347,Seller_7697,6844,3.0,Mortgage,69191,Broker_712,
+18422739-776e-4b3d-8f3c-2fe29d10cb62,2023-08-15,Jumeirah Lake Towers,Apartment,744626,Buyer_5655,Seller_5128,6428,6.0,Mortgage,29785,Broker_994,
+6c114632-fdf8-47ca-97d8-cda74e1a4174,2023-10-29,Downtown Dubai,Retail,2096151,Buyer_6082,Seller_7421,5225,,Mortgage,83846,Broker_825,Developer_49
+0e49c780-2f92-4890-acc2-aa7f9cb6a8ff,2023-12-12,Studio City,Office,1380534,Buyer_3093,Seller_9624,4062,,Mortgage,55221,Broker_786,
+051c1688-6ad3-475a-aa79-aee02a3f0faa,2024-10-10,Palm Jumeirah,Apartment,1907636,Buyer_4509,Seller_6598,6776,4.0,Sale,76305,Broker_331,Developer_29
+98f4f1c6-19ca-457b-8d69-e7824b4d12fc,2025-03-21,Downtown Dubai,Townhouse,4647959,Buyer_9317,Seller_9843,7341,6.0,Mortgage,185918,Broker_138,
+700823d3-2677-438c-860a-37316aca0922,2024-11-16,Dubai Investment Park,Retail,867333,Buyer_3962,Seller_3712,15341,,Sale,34693,Broker_520,
+ad8f215a-93b5-4ea9-a146-3fcdf16fc26d,2023-04-09,Dubai Hills Estate,Office,1894060,Buyer_4833,Seller_9749,8837,,Lease,75762,Broker_928,Developer_34
+20d46455-f1f7-4f76-b00d-6b6f58216bb2,2023-04-26,Palm Jumeirah,Plot,1703738,Buyer_8564,Seller_5616,13513,,Mortgage,68149,Broker_640,
+c79b6cb8-8022-410c-9c01-ac423991c409,2025-01-04,Arabian Ranches,Building,4198942,Buyer_5096,Seller_1854,16747,,Lease,167957,Broker_667,Developer_76
+5044b4ed-f32a-4ed1-9776-b8af72461da3,2024-11-20,Jumeirah Village Circle,Townhouse,1365682,Buyer_5469,Seller_8361,7916,5.0,Sale,54627,Broker_950,
+30593e29-f536-4a8c-b86b-2a25bd5b5f6e,2023-10-30,Dubai Hills Estate,Building,7110527,Buyer_1436,Seller_7797,2745,,Lease,284421,Broker_614,
+8adfbd54-157b-4dcc-b115-365e457bd6da,2025-08-18,Jumeirah Beach Residence,Apartment,769951,Buyer_6221,Seller_2623,7374,6.0,Mortgage,30798,Broker_443,Developer_27
+39a9b7e6-02f1-4164-96cf-906ebd6cf38e,2023-02-20,Dubai Marina,Townhouse,3623878,Buyer_3273,Seller_8685,4174,5.0,Sale,144955,Broker_181,
+120aed88-c280-4ae4-8428-89f314a7a5a9,2022-10-30,Emirates Living,Building,4023318,Buyer_7934,Seller_2821,10440,,Sale,160932,Broker_408,
+53d95645-09c4-4e0d-9081-3122a3f3c498,2023-03-23,Dubai Hills Estate,Office,1927407,Buyer_2029,Seller_2816,17378,,Mortgage,77096,Broker_648,
+3c6b5e1b-d020-42ee-a7c3-66f4ee78ee0c,2024-12-24,Sports City,Retail,782421,Buyer_5772,Seller_8032,1051,,Mortgage,31296,Broker_461,
+339d8983-5d8d-4071-8f88-8ac9403ad104,2025-04-22,International City,Villa,2912649,Buyer_9576,Seller_6908,1054,5.0,Mortgage,116505,Broker_619,Developer_74
+41413f57-cbcd-4810-a442-109cfecec826,2023-02-25,Studio City,Apartment,778654,Buyer_1713,Seller_7338,3558,3.0,Mortgage,31146,Broker_116,
+35e0ca04-7bfb-480b-a1df-5be90fb5ac81,2025-03-16,Downtown Dubai,Townhouse,3127637,Buyer_6447,Seller_3185,863,3.0,Mortgage,125105,Broker_446,Developer_32
+a2603b52-1ed1-497a-90ce-002cafc08206,2024-10-06,Discovery Gardens,Plot,517485,Buyer_3209,Seller_2033,15997,,Sale,20699,Broker_400,
+14b19ed9-7acc-4662-af1a-11556709a357,2024-01-18,Emirates Living,Apartment,736733,Buyer_9444,Seller_7524,7179,5.0,Lease,29469,Broker_359,
+7c5ccffa-6124-49bc-9578-59a38bd041af,2025-07-09,Emirates Living,Townhouse,1709787,Buyer_6438,Seller_5476,1519,3.0,Lease,68391,Broker_509,Developer_59
+05553c43-a53c-49ba-80d3-b9e8f145489f,2022-12-31,Jumeirah Lake Towers,Villa,2618355,Buyer_7018,Seller_9507,2684,1.0,Mortgage,104734,Broker_534,
+1d03a0a3-baa0-4e10-a961-b2c2abc02d7e,2025-03-18,Arabian Ranches,Retail,815072,Buyer_2311,Seller_6372,10687,,Lease,32602,Broker_556,
+d4a876cb-665e-4eac-9cc5-1432ef2d28be,2023-10-26,International City,Villa,2957088,Buyer_8325,Seller_1693,6454,3.0,Mortgage,118283,Broker_545,
+e4dee2af-572b-4556-95b3-16a515dec7fc,2023-07-06,Dubai Marina,Apartment,1403794,Buyer_6952,Seller_9406,7062,6.0,Mortgage,56151,Broker_263,Developer_28
+831247ac-0a18-4432-a815-8f50d28fae99,2024-06-18,Discovery Gardens,Apartment,630688,Buyer_7001,Seller_6933,3636,5.0,Sale,25227,Broker_719,
+4aa8e267-9e37-46ed-ac42-ae7117a5f90b,2025-05-10,Discovery Gardens,Townhouse,1728736,Buyer_3255,Seller_9674,3506,4.0,Lease,69149,Broker_765,
+15504dcb-0b26-4f95-83b3-d7f64b6dc646,2022-12-27,Jumeirah Village Circle,Apartment,971977,Buyer_9482,Seller_7340,7983,5.0,Sale,38879,Broker_368,Developer_67
+b254537c-1415-44d9-9173-a3a26d9a3c50,2023-01-13,Emirates Living,Retail,809913,Buyer_4279,Seller_3009,5447,,Sale,32396,Broker_562,
+27b3103f-682e-417a-ab78-7d8413237985,2023-12-30,Discovery Gardens,Apartment,1013887,Buyer_6692,Seller_2063,5005,5.0,Lease,40555,Broker_407,Developer_99
+7264e9e4-857d-4bdd-9168-61ee6200b000,2024-07-12,Arabian Ranches,Building,4765222,Buyer_2988,Seller_4292,5550,,Sale,190608,Broker_909,
+982513e9-db94-4b2d-8158-3d04885ed424,2023-03-02,Palm Jumeirah,Retail,2476336,Buyer_3126,Seller_2412,3154,,Lease,99053,Broker_507,Developer_71
+0ae29ada-a62c-4e4f-b7a3-5196427e5267,2025-05-16,Sports City,Office,1486098,Buyer_3053,Seller_6194,3430,,Lease,59443,Broker_577,
+88a84d46-f217-41ce-9331-a90d411fe2b2,2024-10-07,Palm Jumeirah,Villa,8216075,Buyer_3114,Seller_8088,4619,1.0,Sale,328643,Broker_630,
+e373e9e9-cd0c-4870-8b5e-76c6047e8b1b,2024-07-10,Arabian Ranches,Villa,2314656,Buyer_6669,Seller_9501,7831,3.0,Sale,92586,Broker_356,
+c439ac66-e352-40d7-975e-c82adb872253,2024-02-02,Studio City,Townhouse,1417714,Buyer_9740,Seller_2530,4617,6.0,Sale,56708,Broker_706,Developer_29
+73f56dcb-83b3-4951-af03-08ea1388c8b5,2023-11-23,Arabian Ranches,Plot,568567,Buyer_1674,Seller_1464,3661,,Sale,22742,Broker_756,Developer_43
+d00eada8-f7fc-48d0-b43c-00b02da3525f,2025-08-13,Emirates Living,Building,5502480,Buyer_9159,Seller_9938,10491,,Mortgage,220099,Broker_409,
+188d021e-f434-4d12-b5e2-2e20a933c771,2025-06-14,Jumeirah Beach Residence,Townhouse,1831465,Buyer_3589,Seller_8202,3904,4.0,Lease,73258,Broker_308,
+7271cbe5-3c52-4795-a31a-6d030f9b95dc,2023-12-31,Dubai Investment Park,Townhouse,2345471,Buyer_6658,Seller_7532,1571,3.0,Mortgage,93818,Broker_675,
+4ed34fc5-d667-432c-b9e2-a57b237f929d,2023-04-08,Dubai Hills Estate,Office,1320085,Buyer_5061,Seller_3308,4172,,Sale,52803,Broker_397,Developer_88
+69933fd5-9c5c-42be-a300-b85e430a1996,2024-11-21,International City,Villa,3434700,Buyer_6364,Seller_6123,2055,2.0,Lease,137388,Broker_627,
+acbed5bc-1c4f-4cae-bdb0-48ec6a374593,2023-08-01,DIFC,Office,1547042,Buyer_9281,Seller_8491,8888,,Sale,61881,Broker_697,
+5c3c05f6-00b0-4d48-b8c4-41ed11b2e735,2023-02-24,Dubai Marina,Townhouse,2825350,Buyer_5681,Seller_9793,566,1.0,Lease,113014,Broker_237,Developer_56
+4ccfb029-3fb2-4536-9505-894b349521ca,2025-07-02,Jumeirah Beach Residence,Townhouse,1317005,Buyer_4189,Seller_6939,5032,3.0,Sale,52680,Broker_495,
+218494c6-5667-44f6-9e77-1193c2ea4e33,2025-02-13,Studio City,Townhouse,2299892,Buyer_3108,Seller_2584,3726,3.0,Lease,91995,Broker_671,Developer_28
+7cbd9185-ecc0-490c-91b5-72e2eb9c3cc7,2022-12-25,Emirates Living,Retail,950747,Buyer_1659,Seller_1742,2275,,Sale,38029,Broker_830,
+8835eaf4-4793-4764-bc1f-d57181e9db0a,2022-11-24,Motor City,Retail,917902,Buyer_3290,Seller_6373,11437,,Sale,36716,Broker_502,Developer_48
+fe954924-b83b-410c-a34d-681492c1a0ef,2022-10-20,Jumeirah Lake Towers,Retail,1151822,Buyer_9025,Seller_5911,16561,,Sale,46072,Broker_477,
+40fccd9f-b454-4e54-8144-0464d178864a,2025-08-21,Jumeirah Village Circle,Office,1330309,Buyer_8775,Seller_5350,19955,,Mortgage,53212,Broker_333,Developer_84
+c8cc499a-645a-4f27-b45d-69407244c4b9,2023-08-28,Motor City,Villa,2667406,Buyer_3421,Seller_4968,758,5.0,Mortgage,106696,Broker_212,
+a1b36499-ee81-47f8-a8e7-ea1eee315c19,2023-06-22,Discovery Gardens,Townhouse,1787663,Buyer_4340,Seller_7723,4610,5.0,Lease,71506,Broker_993,Developer_17
+e666ec15-4287-47cb-9a7c-bd5b5e43014e,2023-12-19,Dubai Investment Park,Retail,760625,Buyer_8837,Seller_9609,13347,,Lease,30425,Broker_277,
+1e90f521-aada-4725-9d14-502f36a3a2f4,2024-04-21,Studio City,Townhouse,1948304,Buyer_8932,Seller_4150,2519,3.0,Mortgage,77932,Broker_405,
+0db1c38b-b8e8-438a-86e5-0695ea0c13f4,2024-08-16,DIFC,Building,8120726,Buyer_9011,Seller_6194,16722,,Lease,324829,Broker_673,Developer_45
+d9dbcec9-ff07-4f16-8ec8-62b942a59d3b,2023-08-29,DIFC,Apartment,1586064,Buyer_7464,Seller_6654,6832,2.0,Lease,63442,Broker_143,
+a564a9e2-d960-473c-a7b7-7aeb22435acc,2024-05-07,Downtown Dubai,Townhouse,4848504,Buyer_8849,Seller_4505,2155,5.0,Lease,193940,Broker_675,
+97a244d1-fee8-4681-92bf-0c6b075a4951,2024-06-11,Dubai Investment Park,Apartment,904779,Buyer_4972,Seller_1831,5987,5.0,Sale,36191,Broker_753,
+31cd98a6-8cc5-4b5f-ab26-1ad0795e8c63,2023-02-20,Jumeirah Village Circle,Office,1117446,Buyer_2647,Seller_3252,1169,,Mortgage,44697,Broker_261,
+87a4fa39-54ed-441f-9d0a-2dc9636d6abe,2024-03-05,Motor City,Office,1386452,Buyer_6262,Seller_5676,2938,,Sale,55458,Broker_767,
+2e9a4069-1b9c-4e91-9ac8-2e9152439918,2025-07-30,Studio City,Plot,603091,Buyer_3868,Seller_7846,6760,,Sale,24123,Broker_956,
+7217b6da-e353-419a-a3aa-bdaf3d26ab91,2024-03-01,Motor City,Villa,3389065,Buyer_1613,Seller_1151,2944,5.0,Mortgage,135562,Broker_209,Developer_52
+a51f1a7a-3b4a-482b-a007-0ad8e8e18a18,2022-11-06,DIFC,Office,3007518,Buyer_9092,Seller_3198,17522,,Lease,120300,Broker_379,
+e31daf9b-3737-46f0-8d96-75e710afa9c8,2023-03-20,Jumeirah Village Circle,Townhouse,1464742,Buyer_5215,Seller_4050,615,6.0,Lease,58589,Broker_909,
+63175931-da57-45e9-bde7-2b3f328ba511,2023-07-07,Emirates Living,Villa,2819170,Buyer_8007,Seller_9442,3186,1.0,Lease,112766,Broker_785,
+b87bbae9-2a4f-4dd6-a9cc-60887ae9d5aa,2024-05-24,Dubai Investment Park,Office,1111825,Buyer_1111,Seller_5272,13568,,Sale,44473,Broker_557,Developer_52
+923358e2-19b7-483f-9c25-ae7dd6fbb03a,2025-09-21,DIFC,Retail,1953748,Buyer_5285,Seller_6890,8743,,Sale,78149,Broker_783,
+2d86231a-28bd-411f-afec-f1105cf8cb10,2022-12-20,DIFC,Villa,4427062,Buyer_6095,Seller_2923,5732,3.0,Lease,177082,Broker_729,
+5c206f28-ecac-4532-ae7d-7cb929769eda,2023-09-10,Dubai Investment Park,Office,968675,Buyer_7813,Seller_9998,16428,,Mortgage,38747,Broker_921,
+6c8919d7-e7cb-494b-aae9-e528c35a2df7,2025-04-30,Emirates Living,Building,4366129,Buyer_9609,Seller_8319,18307,,Mortgage,174645,Broker_470,
+31ae9616-d8e8-4fab-96d1-a27cba7026b3,2022-12-14,Jumeirah Village Circle,Apartment,1024113,Buyer_4312,Seller_9792,1727,2.0,Lease,40964,Broker_974,
+6e66fa12-3522-4472-907c-f97c4434dc69,2023-01-17,Jumeirah Village Circle,Plot,421890,Buyer_2489,Seller_9361,15597,,Sale,16875,Broker_564,
+52d2e3d1-63da-4c23-82f5-c02f2eb4d434,2023-03-13,International City,Office,1313685,Buyer_6049,Seller_1356,13974,,Lease,52547,Broker_936,
+f3194fc4-ce5b-4ce0-ae9a-c7b5ee6b75ef,2023-05-31,Emirates Living,Retail,676008,Buyer_6644,Seller_2044,18732,,Sale,27040,Broker_170,Developer_70
+716965a5-aaef-4209-a5e9-b4938d1f9893,2025-01-10,Dubai Marina,Townhouse,2662758,Buyer_7887,Seller_7135,7801,4.0,Lease,106510,Broker_990,Developer_58
+6a32582a-6ad0-4ba0-b7d6-057b082365a5,2025-01-15,Jumeirah Beach Residence,Apartment,942328,Buyer_6697,Seller_2943,1962,5.0,Lease,37693,Broker_641,
+197958a2-e461-4b65-9adf-e676404ab1ae,2025-08-29,Dubai Hills Estate,Building,4917019,Buyer_5888,Seller_8585,18840,,Lease,196680,Broker_644,
+71e2e15e-e4be-4665-acee-3268ba01babe,2024-12-01,Dubai Hills Estate,Villa,3578531,Buyer_5516,Seller_4088,7669,6.0,Sale,143141,Broker_132,Developer_63
+8d954fb0-98a5-4f7d-891f-d23d658e0d8b,2025-03-22,Business Bay,Villa,2743835,Buyer_1550,Seller_8314,5397,6.0,Mortgage,109753,Broker_993,
+2a7c9ac8-5422-4a26-af75-3eae1b3d26f9,2024-07-27,Dubai Marina,Office,1813093,Buyer_1924,Seller_3295,17511,,Lease,72523,Broker_339,Developer_83
+a3903112-4eb4-47d8-b413-2c6eccf0bd17,2023-12-28,Jumeirah Lake Towers,Retail,1006688,Buyer_4881,Seller_5944,5694,,Mortgage,40267,Broker_633,
+3d145298-6a3e-42b6-9fa7-31ac82dc0b49,2024-10-21,DIFC,Townhouse,2406251,Buyer_7999,Seller_9120,884,3.0,Mortgage,96250,Broker_787,
+8c1e6b50-4b55-4371-be81-bd9053a449cc,2023-07-01,Sports City,Townhouse,2137348,Buyer_3444,Seller_5913,3583,2.0,Mortgage,85493,Broker_584,
+aa41dc7a-ca8e-47d1-92c3-87980776b8a3,2024-12-23,Dubai Hills Estate,Townhouse,3276702,Buyer_8586,Seller_1944,5107,4.0,Lease,131068,Broker_670,
+c865bc6f-28d5-4cb0-bcb9-24a77d6aa0df,2023-12-08,Jumeirah Beach Residence,Villa,2196242,Buyer_2295,Seller_8369,7439,3.0,Sale,87849,Broker_648,Developer_34
+c558181c-3db3-4783-90b8-2bdc02369465,2025-07-26,Dubai Marina,Townhouse,2602847,Buyer_2192,Seller_4082,7091,5.0,Mortgage,104113,Broker_787,
+bb1d2969-569e-4254-b99f-2ce26164797f,2023-12-03,Motor City,Villa,3271579,Buyer_5967,Seller_1251,2235,2.0,Mortgage,130863,Broker_220,Developer_71
+6a937833-8004-4bc0-95a8-ae755ccbd30d,2024-08-22,Dubai Hills Estate,Plot,786156,Buyer_7498,Seller_4921,19090,,Lease,31446,Broker_894,
+465e433b-1840-4819-b4b3-0a7da4a64f77,2024-01-22,Discovery Gardens,Retail,1038694,Buyer_5285,Seller_6892,17803,,Lease,41547,Broker_577,
+82ce0f18-8860-4f9a-b6d3-b5ae729d6818,2024-08-24,Motor City,Building,6439059,Buyer_7073,Seller_6126,14563,,Sale,257562,Broker_676,Developer_28
+e09c6eeb-3acc-4111-a6fa-a8c247eec6f8,2023-06-12,Business Bay,Townhouse,2544324,Buyer_5836,Seller_3497,2107,3.0,Sale,101772,Broker_488,
+041878c4-811d-4836-8aef-2e66a215dccb,2023-11-23,Dubai Hills Estate,Office,1823555,Buyer_5216,Seller_9005,17075,,Lease,72942,Broker_272,Developer_55
+9dd516e3-666d-4e09-be10-8d0dfe9a2d63,2023-01-18,Arabian Ranches,Villa,3010548,Buyer_4015,Seller_9882,5757,1.0,Mortgage,120421,Broker_134,Developer_19
+929d36bb-1d76-45b4-8cec-6ad15f69f0cb,2025-01-06,Dubai Marina,Building,5283515,Buyer_4791,Seller_2113,5948,,Sale,211340,Broker_323,
+c3200cda-2403-48a0-a558-dcf631b50908,2023-01-29,Palm Jumeirah,Apartment,2264969,Buyer_8993,Seller_1257,554,5.0,Mortgage,90598,Broker_521,
+fbb70a58-d10b-43f7-af2f-a805341e4804,2024-03-06,Sports City,Plot,446159,Buyer_1280,Seller_9228,15109,,Sale,17846,Broker_209,Developer_77
+1d4aa7ee-1a4e-4a4f-91b5-5618505d5936,2022-11-01,Dubai Investment Park,Villa,2085881,Buyer_5135,Seller_6807,2689,4.0,Sale,83435,Broker_482,Developer_68
+232d46ed-0359-47bf-9d83-ae9c87542a8d,2025-05-02,Dubai Hills Estate,Plot,600670,Buyer_1519,Seller_2531,14280,,Lease,24026,Broker_486,
+62416167-10f7-4729-aadd-2a7cfe8915dc,2024-10-29,Dubai Marina,Plot,529961,Buyer_2354,Seller_9189,15218,,Mortgage,21198,Broker_903,
+eeaeb4e8-4cdc-4792-93e4-0f3cdcce1ba5,2024-07-01,Jumeirah Village Circle,Retail,1209065,Buyer_4463,Seller_8790,9883,,Sale,48362,Broker_176,
+f3ae91b4-be8e-42aa-8c70-4dfe82bafbb5,2025-08-08,City Walk,Retail,985011,Buyer_3938,Seller_6152,1513,,Sale,39400,Broker_701,
+af48b19a-0cac-4dd3-bdb6-cc5e2651dff4,2024-06-09,Jumeirah Beach Residence,Apartment,727595,Buyer_7375,Seller_9856,3217,4.0,Mortgage,29103,Broker_243,Developer_98
+554e2e25-b40b-4581-9aa2-b853cffde428,2023-11-06,Downtown Dubai,Retail,2199275,Buyer_1879,Seller_2600,15322,,Sale,87971,Broker_958,
+354c0ab6-91ec-43b1-90cf-fece2e6633a2,2024-04-03,Jumeirah Beach Residence,Building,4642318,Buyer_8381,Seller_9038,8475,,Lease,185692,Broker_666,Developer_65
+75a4538e-37dc-4403-bf4c-4793a70b7192,2023-08-28,Arabian Ranches,Plot,555056,Buyer_2404,Seller_5839,9075,,Mortgage,22202,Broker_175,
+e00bea70-11e8-478b-8a3a-bfb5f7dfe064,2024-12-03,Dubai Investment Park,Office,1437808,Buyer_7383,Seller_6188,12819,,Sale,57512,Broker_193,
+bb945231-8639-456f-a017-081b505d4fb0,2024-04-10,DIFC,Office,2056195,Buyer_2674,Seller_3170,3860,,Sale,82247,Broker_541,
+ee933b61-2296-4863-b45a-583b83adcef5,2025-08-22,Studio City,Retail,887067,Buyer_2468,Seller_6798,19160,,Sale,35482,Broker_711,
+8d92d7a7-7633-45b0-9a02-52381a5e032b,2024-02-25,Jumeirah Lake Towers,Building,4848332,Buyer_7779,Seller_7353,3775,,Mortgage,193933,Broker_672,Developer_41
+59967f24-9e75-4d8e-b9a4-ceccd45fd5f9,2024-11-01,Sports City,Villa,2949302,Buyer_3274,Seller_5405,2966,3.0,Lease,117972,Broker_249,
+480b1ce7-12c9-4afa-97dc-d3fd8c21ef95,2023-01-27,International City,Townhouse,1790588,Buyer_2260,Seller_6916,2561,2.0,Mortgage,71623,Broker_740,
+5287b6c6-c920-46c6-af44-1a6d53d55c49,2024-01-30,Emirates Living,Office,929856,Buyer_1110,Seller_7483,11886,,Mortgage,37194,Broker_489,Developer_52
+6b914d80-b767-4b66-afc8-9559b1b9e791,2025-01-09,Discovery Gardens,Townhouse,1802576,Buyer_5922,Seller_6253,5441,6.0,Sale,72103,Broker_590,
+8eb75485-8019-4c4e-85ee-612c42dd1de0,2023-01-13,Jumeirah Beach Residence,Townhouse,1627224,Buyer_4971,Seller_6339,3580,3.0,Lease,65088,Broker_473,
+8eebf5eb-c162-409e-8f18-2d5267930914,2024-10-11,Emirates Living,Retail,1258276,Buyer_1440,Seller_8563,7869,,Lease,50331,Broker_916,
+978ddfb0-3dae-40f3-8f73-f2b2b8045d8e,2023-06-30,Downtown Dubai,Building,12934515,Buyer_9180,Seller_3280,10923,,Sale,517380,Broker_358,
+cbdaa74c-a174-4fa5-b7d7-a00d9ac0ea69,2023-04-09,International City,Building,4819467,Buyer_8851,Seller_7566,18510,,Mortgage,192778,Broker_990,
+ff9fde05-b792-452e-920d-bb693c737621,2023-10-09,Studio City,Apartment,1002803,Buyer_9796,Seller_2392,1395,2.0,Mortgage,40112,Broker_780,
+f38731d2-8ebb-4a4c-92d0-6764c3d3096d,2023-07-19,Dubai Marina,Retail,1874509,Buyer_6432,Seller_8052,4471,,Sale,74980,Broker_200,
+59047711-e46c-484f-9776-5980a0b731a0,2024-07-19,Sports City,Plot,531579,Buyer_8303,Seller_7129,13816,,Lease,21263,Broker_890,
+8c73ca57-efc0-409e-998e-dad7bd2eac19,2025-08-25,Sports City,Villa,2353692,Buyer_8909,Seller_2712,2920,4.0,Sale,94147,Broker_218,Developer_28
+17f902a5-eb86-4172-8bce-290f12b99cbd,2024-08-17,Palm Jumeirah,Townhouse,4230660,Buyer_9537,Seller_8912,3353,4.0,Sale,169226,Broker_548,Developer_67
+0ed36aab-46e9-4cdf-9ba2-4c6de977b3f5,2025-02-21,Jumeirah Lake Towers,Apartment,728147,Buyer_1370,Seller_6620,5808,1.0,Mortgage,29125,Broker_919,
+caa33d92-73e4-43fe-b50f-9772dcc72680,2024-11-21,Dubai Hills Estate,Retail,1035867,Buyer_6422,Seller_7985,16140,,Sale,41434,Broker_916,
+f6e7b536-181e-4d52-9aab-580c4e066a8c,2023-05-13,Arabian Ranches,Villa,2870838,Buyer_7481,Seller_1478,6540,5.0,Sale,114833,Broker_560,
+0717aeaa-832d-4a8a-abe7-2636f2274202,2024-08-19,Jumeirah Beach Residence,Apartment,954651,Buyer_5560,Seller_2025,5229,1.0,Mortgage,38186,Broker_291,
+3c9235ab-397c-4b3a-99c5-6c8eac5c0072,2023-01-16,Emirates Living,Office,935722,Buyer_9646,Seller_6134,13734,,Mortgage,37428,Broker_501,
+4811a1ff-be51-45ae-a5fc-de2f5710ab00,2024-10-26,Palm Jumeirah,Townhouse,5813381,Buyer_5873,Seller_2388,6005,2.0,Lease,232535,Broker_220,
+25d5acc5-b553-4df7-88d7-327f22b6827a,2024-12-29,Jumeirah Village Circle,Villa,2403285,Buyer_9369,Seller_7364,3926,5.0,Sale,96131,Broker_688,
+d756a02b-569f-495b-884a-05b635e08dd3,2024-10-25,Arabian Ranches,Office,1373821,Buyer_3733,Seller_9022,10464,,Sale,54952,Broker_291,
+11745590-ebef-4b67-a7c2-ebf14782db46,2023-10-10,Discovery Gardens,Retail,663775,Buyer_1157,Seller_8939,5473,,Sale,26551,Broker_934,
+67001380-7a1f-41f3-92a6-1f171b7c9065,2023-06-30,Studio City,Retail,1041433,Buyer_9056,Seller_7809,15544,,Lease,41657,Broker_271,
+5ab1fa62-f046-4cd3-94b3-62f7b549edf2,2024-02-24,Business Bay,Building,8012807,Buyer_1535,Seller_5503,8367,,Mortgage,320512,Broker_395,
+00712261-fdd5-47cb-8947-40b96252aaa3,2023-01-04,Discovery Gardens,Retail,1097786,Buyer_9369,Seller_2854,19766,,Sale,43911,Broker_374,Developer_56
+3183b701-7407-401b-81c7-d86e597db5db,2023-04-25,Studio City,Building,6148751,Buyer_9951,Seller_4580,14931,,Sale,245950,Broker_853,Developer_41
+8312eacc-e0b8-4770-a127-285e0610433b,2023-04-07,DIFC,Building,12595669,Buyer_5305,Seller_6711,3850,,Lease,503826,Broker_986,Developer_40
+3ea986e9-9510-4e98-baca-5c4da79ee408,2023-10-27,Emirates Living,Building,6081645,Buyer_8015,Seller_3719,5562,,Sale,243265,Broker_933,
+e2a72a88-52b9-42e6-b9ab-7b9085e51cf8,2024-03-18,Dubai Marina,Retail,1276520,Buyer_9827,Seller_3758,11605,,Mortgage,51060,Broker_399,
+d69053a4-0802-4ad6-b08f-d7ef56fe47ba,2025-04-02,City Walk,Building,5300452,Buyer_3221,Seller_7743,2942,,Lease,212018,Broker_987,
+28bb2eda-b315-4672-bb9a-a81aaa84291d,2023-12-25,Dubai Investment Park,Villa,2005926,Buyer_5055,Seller_7434,4509,2.0,Mortgage,80237,Broker_747,
+0357e8ba-fd3b-4c17-8f2d-209c9d94c82e,2025-04-07,International City,Office,1219673,Buyer_7600,Seller_9447,10116,,Mortgage,48786,Broker_998,
+135c7edd-5ce9-46b7-a2d6-632c219c143e,2025-04-07,Motor City,Townhouse,1993263,Buyer_8511,Seller_6869,7464,1.0,Mortgage,79730,Broker_507,
+3a34e117-1a52-4095-b17c-203f2c807433,2024-04-13,International City,Building,4241480,Buyer_6289,Seller_5646,12067,,Mortgage,169659,Broker_691,
+e10afb85-3777-4956-a59b-96c6afbf1ee4,2025-07-07,Motor City,Building,4703088,Buyer_1752,Seller_2631,16059,,Sale,188123,Broker_227,Developer_30
+80d28740-5a10-44c2-8dd0-f4d7857b79c7,2023-05-22,Discovery Gardens,Office,840567,Buyer_4314,Seller_3161,10891,,Sale,33622,Broker_995,Developer_45
+72ada062-e280-46f4-a1b8-e2376052292f,2025-04-29,Downtown Dubai,Plot,952304,Buyer_7092,Seller_3711,2696,,Lease,38092,Broker_740,
+79be1f4a-2642-4f59-b192-a470b77925c2,2025-04-03,Dubai Hills Estate,Office,1946850,Buyer_1017,Seller_4496,16624,,Sale,77874,Broker_235,
+0c2af362-ed56-455f-ab2e-650a90a4cdb6,2025-09-28,Sports City,Plot,505773,Buyer_6629,Seller_2975,14838,,Mortgage,20230,Broker_235,
+e1e704f3-6071-4f73-a7e8-e76334f01494,2025-03-19,Dubai Hills Estate,Office,1281053,Buyer_2690,Seller_6133,13044,,Lease,51242,Broker_240,
+fa419b52-0099-44c9-9aee-7b167e7b8bce,2024-12-26,Dubai Investment Park,Plot,697529,Buyer_2120,Seller_9691,19457,,Sale,27901,Broker_724,
+174afa3d-9b42-41bd-a281-299694f79b72,2024-12-08,Discovery Gardens,Townhouse,2170264,Buyer_7745,Seller_8248,7544,2.0,Sale,86810,Broker_202,
+b2bc93ca-86a7-4160-890f-9840fa0973fc,2023-10-26,Jumeirah Village Circle,Retail,1089905,Buyer_8035,Seller_6152,5581,,Sale,43596,Broker_383,
+fd99f71a-dde5-4da5-a453-a3c9c723734c,2024-03-10,Dubai Hills Estate,Retail,1412081,Buyer_1439,Seller_5942,7732,,Mortgage,56483,Broker_721,
+38c6ffc0-03b5-4135-b182-b31c55ed66d7,2024-06-11,Jumeirah Beach Residence,Townhouse,2074173,Buyer_9108,Seller_7322,1423,2.0,Lease,82966,Broker_753,
+1bd0f78a-e704-4063-b217-37e3a4e8ff06,2024-01-05,Sports City,Apartment,1112654,Buyer_3162,Seller_7337,7551,5.0,Lease,44506,Broker_474,
+2347f916-7fe1-4662-8f4c-3855a34826e5,2025-05-18,Arabian Ranches,Building,5148551,Buyer_1273,Seller_2106,1451,,Lease,205942,Broker_320,
+5ac5daee-c4e1-482d-ad60-06468206ff7e,2024-03-07,Dubai Marina,Building,7339368,Buyer_9209,Seller_7806,14879,,Mortgage,293574,Broker_511,
+a6e25b8b-75db-4dca-b282-5172641abeef,2024-03-25,Studio City,Retail,1018109,Buyer_2369,Seller_6077,3589,,Mortgage,40724,Broker_308,Developer_29
+583316ba-cbc0-44ea-a89e-021b27ca7236,2025-06-01,Studio City,Townhouse,1752321,Buyer_6081,Seller_8167,6479,2.0,Sale,70092,Broker_350,
+d519516d-c9f3-479f-86fc-ec2f95a91518,2025-06-24,International City,Apartment,813888,Buyer_6067,Seller_3877,1478,1.0,Mortgage,32555,Broker_240,Developer_30
+60a8659b-b767-4be7-877e-607a57faa48c,2024-05-02,Motor City,Townhouse,1918986,Buyer_3735,Seller_7092,1539,6.0,Lease,76759,Broker_850,Developer_13
+8816b8d2-77f3-4cab-9be0-3a086469d414,2022-11-07,Jumeirah Lake Towers,Building,5002635,Buyer_2046,Seller_5308,19895,,Mortgage,200105,Broker_178,
+6765f08e-55ca-46f7-a534-24c6c98776da,2024-11-07,Sports City,Townhouse,1329853,Buyer_7024,Seller_3577,2589,1.0,Mortgage,53194,Broker_790,Developer_39
+bb191492-a657-4101-b205-eab31da9a2bf,2025-09-19,Sports City,Apartment,584661,Buyer_5006,Seller_1753,4364,3.0,Lease,23386,Broker_253,
+d5da38f0-b117-435e-852e-0b562de20edb,2023-06-09,Dubai Marina,Retail,1703944,Buyer_4678,Seller_6272,9135,,Lease,68157,Broker_837,
+0dc281fb-e7a6-43c8-b41f-9c28e7c7b657,2022-12-21,Downtown Dubai,Retail,1729738,Buyer_1862,Seller_3938,8313,,Mortgage,69189,Broker_147,Developer_18
+b094543a-5a91-4511-a5ae-2954112c7ea1,2024-01-17,Discovery Gardens,Building,4488074,Buyer_6362,Seller_2415,19123,,Lease,179522,Broker_108,
+0181bf40-7305-4d2e-b6ae-a996cebf8ba7,2024-06-05,DIFC,Retail,2023631,Buyer_8600,Seller_7033,17166,,Sale,80945,Broker_850,Developer_41
+fdbb601b-93ad-4d79-a3f2-55fe8f3bdf44,2025-08-27,Dubai Investment Park,Apartment,1082142,Buyer_4817,Seller_9872,3337,6.0,Mortgage,43285,Broker_998,
+a8210a50-7e0b-4de1-8c76-66857a9de65d,2023-09-05,Jumeirah Lake Towers,Apartment,985000,Buyer_6038,Seller_2703,2180,5.0,Sale,39400,Broker_529,
+a19e05cc-d527-4f55-8c30-6e22d5a9c86f,2025-04-07,Dubai Marina,Villa,4493087,Buyer_1719,Seller_4792,7850,5.0,Lease,179723,Broker_817,Developer_68
+548a96d0-722f-4e76-aaee-40c017359614,2025-01-14,Downtown Dubai,Retail,1380427,Buyer_7461,Seller_2226,19606,,Sale,55217,Broker_545,
+7f3276e0-8ffc-40c2-9868-0a6a24624cb7,2024-01-08,Dubai Investment Park,Villa,2260433,Buyer_7438,Seller_6345,3105,4.0,Lease,90417,Broker_339,
+d7a4d480-1996-4db0-a38b-6e51050b10d0,2025-03-05,Emirates Living,Villa,3114889,Buyer_3546,Seller_2731,1846,4.0,Lease,124595,Broker_421,
+79d6aedf-6547-40cb-a0ba-9e513a265385,2024-08-15,Studio City,Townhouse,2475439,Buyer_8404,Seller_6051,4295,3.0,Sale,99017,Broker_192,
+d647ed3b-f60b-47cf-b0d5-cbc3650ce1a1,2025-07-24,DIFC,Building,10739640,Buyer_4522,Seller_6370,5860,,Sale,429585,Broker_828,
+d0cd2157-c99c-47ba-87d3-431777521d70,2024-02-10,Palm Jumeirah,Office,3178265,Buyer_5262,Seller_3848,2018,,Lease,127130,Broker_975,
+2e1d28bc-ce6c-4f4c-9a36-118611819e03,2025-03-20,Studio City,Villa,1915769,Buyer_3290,Seller_2989,597,1.0,Sale,76630,Broker_233,
+9d2b3c17-32d8-4132-a268-75528164dd1a,2025-04-25,Jumeirah Beach Residence,Townhouse,2124719,Buyer_5240,Seller_2228,678,1.0,Sale,84988,Broker_761,
+95c78bc4-e5e7-4a0c-b243-76f079df88cc,2023-12-05,Dubai Investment Park,Apartment,1066843,Buyer_3007,Seller_1699,4276,1.0,Sale,42673,Broker_687,
+153f9325-c22e-4de4-a59b-f3b9abe4f211,2023-05-25,Jumeirah Beach Residence,Office,864765,Buyer_3831,Seller_6799,8035,,Sale,34590,Broker_381,
+fd363bb8-1818-4104-a4b6-f930238d87d2,2024-05-29,Dubai Investment Park,Apartment,903899,Buyer_5835,Seller_9173,3875,5.0,Lease,36155,Broker_162,
+2f387d29-a298-484b-b894-9e5f33f20075,2022-11-03,Jumeirah Beach Residence,Villa,2483660,Buyer_5082,Seller_9907,7011,1.0,Lease,99346,Broker_900,Developer_71
+f71f1f74-c758-46f7-ae95-e3028cac7909,2022-12-21,Studio City,Building,5196378,Buyer_6269,Seller_7363,9861,,Sale,207855,Broker_126,
+fd65bb53-7893-4c51-ad14-84d0199d9d5d,2024-03-18,Dubai Hills Estate,Apartment,1486279,Buyer_1959,Seller_8728,4837,3.0,Mortgage,59451,Broker_338,Developer_22
+896fba45-21e1-4a68-a01b-b85ed6875d58,2022-10-18,Dubai Hills Estate,Plot,608164,Buyer_1916,Seller_4594,19864,,Lease,24326,Broker_463,Developer_32
+b1c5f2ca-013e-4f94-a115-89394e970ef8,2023-10-11,Arabian Ranches,Villa,2786909,Buyer_1462,Seller_6761,5150,5.0,Sale,111476,Broker_676,Developer_73
+c92ef81e-73b7-4438-8cad-9c4e27c0b768,2025-07-29,Studio City,Townhouse,1481201,Buyer_2478,Seller_1920,2405,5.0,Sale,59248,Broker_120,
+24455d95-a43d-47c7-bbc8-a609aa1ca412,2024-08-28,Business Bay,Townhouse,3141513,Buyer_3137,Seller_6582,6373,2.0,Lease,125660,Broker_160,
+477e42bc-f450-44b9-95bc-bcbfb49bbd73,2022-11-02,Dubai Investment Park,Building,3888222,Buyer_6978,Seller_2188,13241,,Mortgage,155528,Broker_778,
+1bcd2ab4-9b74-46dc-9305-4ebd68fa4f70,2025-01-08,Jumeirah Village Circle,Townhouse,1640224,Buyer_3580,Seller_8157,6986,6.0,Lease,65608,Broker_764,
+1e6b260d-7d3c-4af6-928e-fef706de1eb3,2023-10-15,Studio City,Plot,661360,Buyer_4657,Seller_3872,13398,,Lease,26454,Broker_851,
+23ce290e-aaf1-487b-b16c-3436a99d681a,2023-08-05,Dubai Investment Park,Villa,3025454,Buyer_1530,Seller_3983,5434,3.0,Mortgage,121018,Broker_326,
+52ffebfe-cb2a-446a-a4cb-9983f580110c,2025-05-08,Jumeirah Village Circle,Office,958140,Buyer_4899,Seller_6682,11469,,Sale,38325,Broker_751,Developer_21
+51d3fb6d-34a7-4ae0-9c3b-872ee06895c8,2024-08-11,Jumeirah Lake Towers,Office,849572,Buyer_5088,Seller_2110,12484,,Lease,33982,Broker_905,
+9d3095ba-5ea5-4aed-ab8c-c32438fa5eb8,2023-06-08,Business Bay,Apartment,1008962,Buyer_3725,Seller_7783,4539,4.0,Lease,40358,Broker_659,
+13cc74ac-0fdf-4998-9729-e68000c98387,2024-07-10,Motor City,Building,6524177,Buyer_3664,Seller_8393,3415,,Sale,260967,Broker_401,
+9e9770a8-d4ee-4511-ab15-41aa9b1ef600,2024-10-31,City Walk,Apartment,601552,Buyer_7151,Seller_3636,6496,1.0,Mortgage,24062,Broker_195,
+a7dad555-7efc-42bd-80b2-742968cfede8,2024-11-11,Motor City,Plot,360847,Buyer_8113,Seller_3573,2754,,Sale,14433,Broker_439,
+82c4bffb-54a6-45f0-bf23-16ecbc9b6ab1,2024-04-19,Emirates Living,Office,1425645,Buyer_5612,Seller_5872,8783,,Sale,57025,Broker_150,
+c53dd9de-e864-42e7-ba4a-18158af6361b,2025-06-25,Studio City,Building,5218318,Buyer_6911,Seller_1062,15011,,Sale,208732,Broker_401,Developer_90
+7a205dfe-2483-4420-9cc6-70cf88a8ce13,2024-08-17,Motor City,Villa,1919727,Buyer_3798,Seller_5781,1171,4.0,Sale,76789,Broker_415,Developer_70
+3d133dea-542f-4709-ac1d-47c4b5e043a0,2023-08-13,Motor City,Plot,442751,Buyer_4029,Seller_7078,13499,,Lease,17710,Broker_291,
+9e374430-4c92-481b-8f3d-903699ccc0e6,2024-07-08,City Walk,Office,1230648,Buyer_5400,Seller_2009,5952,,Mortgage,49225,Broker_783,
+eef13869-ebcf-4ab5-980f-9d30605b3337,2024-07-06,Palm Jumeirah,Building,13487678,Buyer_1999,Seller_7342,18123,,Lease,539507,Broker_648,
+5ec8e290-0e48-4035-ba09-15b480f2f13e,2023-02-12,Motor City,Retail,1185441,Buyer_5896,Seller_2293,13936,,Mortgage,47417,Broker_135,
+16d01b1f-6304-47b7-904a-8d1b90ccc102,2024-12-17,Sports City,Building,5500198,Buyer_2970,Seller_8357,6664,,Sale,220007,Broker_316,Developer_26
+9f97ca57-3533-44b6-8fb0-f4fda4b8825f,2023-05-07,Dubai Marina,Office,1358744,Buyer_4308,Seller_3422,9450,,Lease,54349,Broker_844,Developer_18
+1469cb5a-ac74-4452-a06c-3a31f62638a1,2023-12-17,Downtown Dubai,Office,2614691,Buyer_5525,Seller_9514,16012,,Sale,104587,Broker_905,Developer_85
+8cef437b-1460-4c17-ab74-33aa13d625c7,2023-06-19,Sports City,Building,4968578,Buyer_3451,Seller_3428,19566,,Mortgage,198743,Broker_696,Developer_22
+769e24aa-96bc-492c-8053-d3bd119fb9c2,2024-03-08,Jumeirah Village Circle,Retail,1121113,Buyer_9775,Seller_6633,14464,,Lease,44844,Broker_492,
+dd75117f-4538-46ad-a6b8-8b68fd84c761,2023-07-12,Motor City,Apartment,656431,Buyer_3356,Seller_7581,817,4.0,Lease,26257,Broker_807,
+aab912c5-b17c-41df-a469-8d59e0bbbb81,2025-09-03,Motor City,Townhouse,2390259,Buyer_6535,Seller_5965,3047,3.0,Lease,95610,Broker_978,
+8b46d99d-a308-4ee0-9e8c-3e6aba6b42b3,2024-02-07,Jumeirah Village Circle,Building,4297850,Buyer_8259,Seller_6257,9828,,Mortgage,171914,Broker_526,
+155e3dfa-2e34-4351-8f3b-e8dd0b2c97e1,2023-07-04,Downtown Dubai,Villa,5046008,Buyer_8937,Seller_9462,7604,3.0,Sale,201840,Broker_627,Developer_18
+52284e2a-551a-4fcd-8104-14191c0ff176,2025-01-10,DIFC,Plot,949281,Buyer_9589,Seller_1474,6693,,Sale,37971,Broker_996,Developer_17
+86b34efc-378a-429d-96e2-43fbead1bdf4,2023-10-07,Dubai Hills Estate,Apartment,1141855,Buyer_4262,Seller_5488,3517,4.0,Mortgage,45674,Broker_506,
+6af3f017-dd1b-4ab0-b412-478036d356e5,2023-09-13,Jumeirah Village Circle,Plot,360697,Buyer_9008,Seller_8308,6819,,Lease,14427,Broker_700,
+ace154ae-496b-4607-8e2f-2342ac05b309,2024-05-03,Palm Jumeirah,Villa,8039735,Buyer_2480,Seller_5670,724,4.0,Sale,321589,Broker_266,Developer_37
+ad857d65-a952-4f2c-a35b-bb3ab653796f,2024-08-17,Dubai Hills Estate,Plot,600304,Buyer_5408,Seller_7709,17819,,Sale,24012,Broker_985,Developer_97
+d85b05ab-a8d2-40f5-b534-5f29aefccf11,2024-10-25,Business Bay,Office,2087374,Buyer_1138,Seller_4666,9270,,Mortgage,83494,Broker_924,Developer_92
+256e4bc6-d53e-4ea0-ae87-e6a03106d65a,2023-10-31,City Walk,Office,1592205,Buyer_8520,Seller_5128,8150,,Lease,63688,Broker_409,
+05afd8f8-57f5-4012-aaee-37275cd80614,2022-12-02,Jumeirah Beach Residence,Retail,694456,Buyer_7131,Seller_5631,10780,,Mortgage,27778,Broker_210,
+e4a6e0c4-1479-46a9-ad87-fd76f03f4e40,2024-03-26,Jumeirah Lake Towers,Townhouse,2067149,Buyer_5278,Seller_5895,2043,2.0,Mortgage,82685,Broker_883,
+5766dee2-5e72-42a2-a664-9be4470f803b,2023-07-10,Dubai Marina,Building,9750905,Buyer_6236,Seller_3292,1834,,Mortgage,390036,Broker_609,Developer_43
+e8ad009c-a7b2-468c-9021-235dab9cc0d3,2025-08-03,International City,Office,1166150,Buyer_4111,Seller_6622,8286,,Mortgage,46646,Broker_647,
+f610fd5f-4d1a-4e52-bc16-06a0a485305c,2024-02-08,Motor City,Plot,475473,Buyer_3785,Seller_3967,10626,,Sale,19018,Broker_582,
+adec3dc4-e23a-4aad-b5d8-3dee26491349,2024-10-05,City Walk,Plot,632920,Buyer_6499,Seller_2463,8282,,Lease,25316,Broker_328,Developer_49
+68bbaf6c-d981-44c5-b3eb-af80901baf92,2023-09-14,International City,Building,6603952,Buyer_5269,Seller_5817,16196,,Sale,264158,Broker_581,
+f2e63718-654b-4d6a-a13e-41d56bd3456e,2022-12-25,Downtown Dubai,Office,3174235,Buyer_2963,Seller_7253,18361,,Lease,126969,Broker_523,
+d7b2b15e-c17b-4dce-89e9-1128b9fbed6d,2023-11-13,Dubai Investment Park,Villa,3486608,Buyer_7704,Seller_8496,1673,3.0,Mortgage,139464,Broker_284,Developer_72
+749f2340-1a26-437d-a347-7728d03b062f,2024-01-12,Jumeirah Lake Towers,Plot,695324,Buyer_1950,Seller_1077,15812,,Lease,27812,Broker_314,Developer_31
+1ab594da-68c7-4f9b-8f3d-3bcac8719cc3,2025-04-17,Arabian Ranches,Office,1499577,Buyer_3120,Seller_8105,15070,,Lease,59983,Broker_539,Developer_59
+06a604b9-8b1d-458b-84a5-a47f446dc465,2023-09-11,Business Bay,Apartment,1116593,Buyer_1230,Seller_6279,6700,5.0,Sale,44663,Broker_118,
+24d3c700-b786-4e49-8362-50bb68f2a9c1,2023-11-09,Dubai Hills Estate,Villa,4149135,Buyer_6113,Seller_3112,1341,4.0,Mortgage,165965,Broker_702,
+eb9465e9-3650-4a3a-9c60-c4ab219e4310,2024-02-27,Downtown Dubai,Building,7320028,Buyer_8469,Seller_9524,18174,,Lease,292801,Broker_544,Developer_27
+f632da31-59a8-407c-95c3-7f4d5fa77fa4,2024-09-24,Jumeirah Lake Towers,Office,1141770,Buyer_3701,Seller_7609,1626,,Sale,45670,Broker_329,Developer_26
+9d32ad88-2a24-4cbb-815b-c788ed2bf161,2022-12-16,Emirates Living,Plot,357669,Buyer_3768,Seller_3017,13012,,Mortgage,14306,Broker_766,Developer_58
+b55ae08f-285a-42d0-8c5e-65aa121c7eea,2025-07-07,City Walk,Building,5371567,Buyer_1785,Seller_2771,1646,,Sale,214862,Broker_806,
+86f5becd-4cf6-46af-9359-d2a65dc10052,2024-05-15,Discovery Gardens,Office,943819,Buyer_8772,Seller_3508,7733,,Mortgage,37752,Broker_802,
+b38ef6ee-a253-4582-a638-612d923a30a1,2022-11-14,DIFC,Office,2512436,Buyer_5423,Seller_3247,14724,,Sale,100497,Broker_623,Developer_25
+e7772db3-f89d-4c04-af4b-cf690bb6aef6,2022-12-30,DIFC,Apartment,1799038,Buyer_4254,Seller_4272,6873,3.0,Mortgage,71961,Broker_306,
+36c07216-f292-4870-ad0e-ba4fcd1a24eb,2023-01-02,International City,Townhouse,1462070,Buyer_4402,Seller_8875,3208,2.0,Sale,58482,Broker_113,
+a8598c76-9f66-4445-bfd7-64379620ed65,2023-01-07,Jumeirah Village Circle,Building,5509534,Buyer_3443,Seller_2475,17767,,Sale,220381,Broker_840,Developer_42
+665cb78b-fd94-449e-b17f-decaa517288c,2024-02-16,Dubai Hills Estate,Office,2338671,Buyer_5327,Seller_8606,2641,,Sale,93546,Broker_932,
+8dc6b492-b31a-4279-96f4-ffea101a7181,2024-01-13,Dubai Marina,Building,6775477,Buyer_7979,Seller_2898,4112,,Sale,271019,Broker_109,Developer_94
+1a708235-c736-46c7-b96f-6a8c8236cc76,2023-05-02,Arabian Ranches,Townhouse,1710484,Buyer_5395,Seller_2522,3552,3.0,Sale,68419,Broker_216,
+0dd6aecc-bf75-42f3-8644-92ce352f00d1,2023-02-08,Discovery Gardens,Townhouse,2312992,Buyer_7909,Seller_3732,1426,2.0,Mortgage,92519,Broker_843,
+9e0af582-9964-4450-a1e1-98b978fa57fc,2023-01-30,Arabian Ranches,Apartment,792975,Buyer_8178,Seller_3969,5507,4.0,Lease,31719,Broker_726,
+e14ee352-6f56-453b-8020-8fd63576c1bc,2025-02-25,Dubai Investment Park,Office,1613134,Buyer_7738,Seller_8220,2506,,Sale,64525,Broker_367,
+fffbb7d4-3466-4aaf-b30b-f53474ed60db,2022-11-05,Business Bay,Plot,850091,Buyer_4669,Seller_6542,18009,,Mortgage,34003,Broker_804,Developer_22
+553ed15d-0fda-4e46-b82c-4aa2dc7ec84e,2023-02-01,International City,Plot,604328,Buyer_6664,Seller_7305,5871,,Mortgage,24173,Broker_727,
+802b6f63-2188-40b1-8e0e-eac50591b610,2023-01-03,Arabian Ranches,Retail,1164772,Buyer_3709,Seller_2226,17110,,Lease,46590,Broker_346,
+72255146-89cf-4d49-9be6-824fba235933,2023-08-31,City Walk,Apartment,843880,Buyer_7607,Seller_4850,1145,4.0,Lease,33755,Broker_920,
+515a1522-148e-43d8-9168-f5123443c74d,2024-01-06,Downtown Dubai,Building,10489193,Buyer_2944,Seller_9148,1582,,Sale,419567,Broker_513,
+cfff814f-ac8a-4abe-a471-03eeb2eb62b8,2025-04-11,Studio City,Retail,630106,Buyer_5990,Seller_9328,19426,,Sale,25204,Broker_770,
+640f7a9c-34dd-489b-b08f-598c4653e893,2024-07-15,Jumeirah Lake Towers,Townhouse,2299891,Buyer_8445,Seller_6439,5088,5.0,Mortgage,91995,Broker_584,Developer_56
+407c6b48-3e92-497c-ae81-9ec5ff3e6fed,2024-07-17,Discovery Gardens,Apartment,614564,Buyer_1035,Seller_6592,3409,6.0,Lease,24582,Broker_660,
+eb957fe9-ed82-4b5f-b4f8-4cde2fb43b6b,2023-01-10,Jumeirah Village Circle,Apartment,1062251,Buyer_3301,Seller_7704,1376,3.0,Mortgage,42490,Broker_300,
+c59a912b-0cbf-48e6-9b74-38b453306406,2024-09-19,Jumeirah Beach Residence,Villa,2549830,Buyer_6536,Seller_2765,6702,4.0,Sale,101993,Broker_748,Developer_85
+12786f61-8de8-4e42-93f8-f4106052945f,2023-03-23,Jumeirah Village Circle,Building,6621140,Buyer_9260,Seller_3205,17345,,Sale,264845,Broker_643,Developer_80
+b28e06cf-3e07-45f2-ab37-e7b93fc3aeb6,2022-12-08,International City,Building,5547922,Buyer_3903,Seller_3845,5206,,Sale,221916,Broker_496,
+bf53dbfd-543a-48fb-ab81-f204eb0b78be,2023-06-10,Jumeirah Lake Towers,Retail,1185276,Buyer_5067,Seller_5482,14037,,Lease,47411,Broker_401,
+3e92c486-bcaf-44fd-89ce-ea95227bef9d,2022-11-30,Dubai Investment Park,Villa,2472304,Buyer_5897,Seller_9975,7550,3.0,Mortgage,98892,Broker_854,Developer_90
+a4e7e744-8c89-4084-b0d3-fb41e1265588,2024-02-27,Emirates Living,Villa,2116997,Buyer_6657,Seller_3173,6319,6.0,Sale,84679,Broker_615,
+31074e68-8af3-44a4-892c-209df32baae8,2023-10-24,Jumeirah Lake Towers,Plot,390391,Buyer_8870,Seller_7839,18494,,Lease,15615,Broker_998,Developer_11
+b262745b-d7b5-4b99-9b07-b0c0f3d7c4b7,2024-12-21,Sports City,Apartment,574152,Buyer_1869,Seller_1927,2137,3.0,Sale,22966,Broker_393,
+a2957557-c5eb-4a51-9d82-153cd7fe4c5e,2024-02-18,Dubai Investment Park,Building,3717114,Buyer_4342,Seller_9866,2058,,Lease,148684,Broker_933,
+6aaa2bab-ebf9-4da6-a99c-58f2060592e2,2023-08-10,Studio City,Building,4285075,Buyer_4892,Seller_9370,10425,,Mortgage,171403,Broker_780,
+a1f971fd-1eaf-4656-83d8-2b32621982d6,2024-01-13,Jumeirah Beach Residence,Office,1189915,Buyer_1881,Seller_1212,9235,,Sale,47596,Broker_735,Developer_66
+3f7a53a9-1221-4875-a0ff-2737666f797e,2023-09-22,Dubai Hills Estate,Plot,835268,Buyer_9955,Seller_4218,7340,,Lease,33410,Broker_559,
+22a0d3e0-0d98-4a0d-9624-4e6f0a27c435,2022-11-27,Downtown Dubai,Villa,6868663,Buyer_2955,Seller_7180,832,4.0,Lease,274746,Broker_669,
+c6286824-ea61-4048-9d0f-c18c2e15456f,2025-10-03,Arabian Ranches,Retail,1162988,Buyer_6415,Seller_8640,6072,,Sale,46519,Broker_257,Developer_86
+379e914a-d6d7-47b6-bef8-e8cfc644c9c4,2024-02-06,Dubai Marina,Building,10145004,Buyer_9037,Seller_6866,3388,,Mortgage,405800,Broker_425,
+a937a55b-953e-49e6-b524-19a4cee4d628,2022-12-15,Arabian Ranches,Retail,672951,Buyer_3611,Seller_7814,18795,,Mortgage,26918,Broker_513,
+0061d66e-dae0-4676-88b1-0929b112d45a,2023-12-06,Dubai Hills Estate,Villa,4075169,Buyer_6911,Seller_5809,2289,5.0,Mortgage,163006,Broker_586,Developer_93
+9ad3ad53-5c39-47fd-a999-9dccd9e9e3f6,2023-04-16,Business Bay,Apartment,1214987,Buyer_4937,Seller_4994,826,6.0,Lease,48599,Broker_490,Developer_24
+3d64fd00-4977-489c-bb99-f221e3a60a4d,2024-03-14,Jumeirah Beach Residence,Townhouse,1940699,Buyer_1404,Seller_9468,7234,3.0,Mortgage,77627,Broker_922,
+65a78ca9-d435-434f-8f1a-1b4128e9ecd2,2024-09-15,Motor City,Apartment,726003,Buyer_6248,Seller_9419,1174,1.0,Sale,29040,Broker_891,
+a0e83f3c-4896-4047-9ea5-d80578c24670,2024-08-04,Business Bay,Plot,484789,Buyer_7950,Seller_2702,7736,,Mortgage,19391,Broker_948,Developer_65
+2d142f2d-fd7c-49ed-a29f-34a0e526cf37,2025-08-27,Downtown Dubai,Plot,1180230,Buyer_8523,Seller_6434,2241,,Sale,47209,Broker_175,
+535cefb9-f617-412a-b66b-e73f8bd885fa,2024-07-05,City Walk,Retail,674378,Buyer_5237,Seller_7678,13715,,Lease,26975,Broker_745,
+90c8f9b5-f169-4eae-a597-32975018b84f,2025-02-14,Jumeirah Lake Towers,Apartment,778121,Buyer_9762,Seller_1096,5754,6.0,Mortgage,31124,Broker_164,Developer_84
+dd178d49-50c2-41e7-9823-4b5252a5a729,2023-10-13,Dubai Marina,Plot,970331,Buyer_9238,Seller_2738,10497,,Mortgage,38813,Broker_408,
+78698d8e-11cd-41f4-a837-def0a23e84cf,2023-08-25,DIFC,Building,12138152,Buyer_7473,Seller_1504,16531,,Sale,485526,Broker_646,
+caf9d77e-b302-4f75-af2d-94d9c0f69d38,2024-02-18,Jumeirah Beach Residence,Building,6291196,Buyer_3360,Seller_5883,13226,,Sale,251647,Broker_666,Developer_28
+ed665d26-8383-42f3-ba91-9bc43991f4c0,2023-07-30,Jumeirah Village Circle,Apartment,562816,Buyer_9800,Seller_9970,1197,3.0,Sale,22512,Broker_866,Developer_54
+e6391d0d-a85c-4bdd-981c-f8aa60e55df0,2022-11-30,Emirates Living,Office,1600727,Buyer_3333,Seller_3637,7029,,Sale,64029,Broker_731,Developer_34
+89371ba4-4149-41b1-9815-5284eea9454e,2025-06-25,Jumeirah Village Circle,Villa,2924211,Buyer_9992,Seller_8557,5781,5.0,Sale,116968,Broker_397,
+68bbbad5-6e3a-467d-91f8-215eadb49444,2023-01-21,City Walk,Apartment,670553,Buyer_6420,Seller_6851,1550,6.0,Mortgage,26822,Broker_340,
+2b000dd3-6c29-42c2-be64-defb36781e54,2023-04-06,Downtown Dubai,Villa,4612250,Buyer_6379,Seller_6008,6180,5.0,Sale,184490,Broker_679,
+a95bd26e-cde9-45b0-bde4-de18bb16bcf1,2024-01-12,Jumeirah Lake Towers,Office,981657,Buyer_5033,Seller_4629,15290,,Lease,39266,Broker_960,
+2ac4dd8c-09f4-47ea-9aed-3c7e7a3fca4e,2023-10-11,Jumeirah Lake Towers,Office,1228792,Buyer_6004,Seller_8978,19077,,Sale,49151,Broker_279,
+e9b8d4cf-962c-4572-8a17-fd70562e1e10,2025-01-01,Downtown Dubai,Building,8964311,Buyer_9824,Seller_4218,9625,,Mortgage,358572,Broker_741,
+45d083bb-2435-45ea-92b3-a68cc4f4b139,2025-08-12,Downtown Dubai,Apartment,2071537,Buyer_7637,Seller_4485,7924,1.0,Mortgage,82861,Broker_366,
+43e80b43-cd1a-4c22-8ea2-bd02ba100455,2024-12-14,Studio City,Office,1389282,Buyer_6993,Seller_7430,8317,,Mortgage,55571,Broker_850,Developer_27
+b0875246-e760-42f2-bd0a-60f7502d4241,2023-07-25,Discovery Gardens,Retail,951559,Buyer_6961,Seller_9227,1347,,Mortgage,38062,Broker_344,Developer_88
+71f02736-2087-4ab0-9801-af85bb31994f,2023-04-15,Arabian Ranches,Building,5299478,Buyer_3608,Seller_3935,19558,,Mortgage,211979,Broker_775,Developer_28
+a3d754ee-ae4b-4517-a6af-2328382c6c59,2023-01-20,Motor City,Townhouse,1310928,Buyer_4796,Seller_2029,2665,3.0,Sale,52437,Broker_143,
+f7ae048d-4b0f-490d-b7ab-0f374125a4a9,2023-02-26,Sports City,Building,4764379,Buyer_8448,Seller_1760,2307,,Mortgage,190575,Broker_431,
+344da897-b370-4c4f-9d5b-feb6f17c17f6,2024-04-23,Sports City,Plot,640376,Buyer_9918,Seller_3848,13342,,Mortgage,25615,Broker_487,
+6ca1eff1-c43a-46d5-acbe-2dab8a0779c8,2024-07-15,Downtown Dubai,Retail,1576998,Buyer_9460,Seller_7649,12563,,Lease,63079,Broker_598,Developer_87
+62f4d3ae-32f6-4af4-99ed-c8efe2ff90f8,2023-04-28,Business Bay,Retail,1541386,Buyer_3713,Seller_4768,3526,,Mortgage,61655,Broker_758,
+32c96368-5697-44e2-9686-3863f707b3be,2025-02-14,Dubai Investment Park,Villa,2025375,Buyer_4773,Seller_7793,7145,3.0,Mortgage,81015,Broker_216,
+e3e0b067-18ac-469e-95e9-2ccf573c9322,2024-11-18,Motor City,Office,1016991,Buyer_7732,Seller_1367,8984,,Sale,40679,Broker_230,
+3f4f2591-0aad-46e9-8628-96985ab7164f,2025-07-26,Arabian Ranches,Villa,2851695,Buyer_3406,Seller_1916,1862,3.0,Sale,114067,Broker_629,Developer_86
+a2b833eb-7f96-4928-9e89-7afc1f00e37f,2024-03-13,Business Bay,Plot,786228,Buyer_2404,Seller_4548,15719,,Mortgage,31449,Broker_582,Developer_31
+b12d1442-a6a6-49a8-b6ce-751f2b93e66a,2024-12-26,Dubai Hills Estate,Building,6912757,Buyer_3979,Seller_9369,9667,,Sale,276510,Broker_841,
+5482ac28-a275-4aba-82f2-1d4271a8dcc2,2024-07-01,Discovery Gardens,Retail,1002075,Buyer_7196,Seller_7315,5332,,Sale,40083,Broker_116,
+e5cdc698-b58b-4df0-b04c-49634bff4fa9,2024-12-12,Sports City,Plot,496928,Buyer_2577,Seller_3906,16593,,Mortgage,19877,Broker_714,
+bb690a96-8554-47dc-b93d-f0fd1ebabb99,2025-04-07,Studio City,Retail,1104001,Buyer_8901,Seller_3135,18671,,Sale,44160,Broker_893,
+9a03d88d-d2c3-4258-9f02-d01e2cc3354a,2025-07-18,International City,Retail,895030,Buyer_9680,Seller_8028,8519,,Lease,35801,Broker_908,Developer_54
+2e202685-00ff-4a55-85c0-1eae2476143f,2023-02-10,Jumeirah Village Circle,Office,952461,Buyer_4809,Seller_2373,10282,,Mortgage,38098,Broker_997,
+41a77d64-37d0-4c70-b263-16e96ff53832,2025-09-30,City Walk,Villa,1759571,Buyer_9561,Seller_2930,4757,1.0,Lease,70382,Broker_770,
+de1b3954-f880-4d48-98f0-4ebb294749fe,2024-12-02,Jumeirah Lake Towers,Office,1144306,Buyer_7980,Seller_5155,9562,,Mortgage,45772,Broker_533,
+2a3f4611-03bd-4e32-a1af-aae0b5aabacf,2024-08-23,City Walk,Plot,489108,Buyer_7770,Seller_8904,6856,,Lease,19564,Broker_672,
+32136e0e-dc15-4687-a885-9df15e90b33a,2023-07-22,City Walk,Townhouse,1987840,Buyer_3262,Seller_2951,6626,2.0,Lease,79513,Broker_901,
+ecabd847-15b5-4104-bb53-b413f66801ce,2023-07-17,Arabian Ranches,Apartment,680096,Buyer_6544,Seller_1852,1816,4.0,Mortgage,27203,Broker_105,Developer_28
+2177ec16-749c-4c7e-9558-29437e04044f,2025-06-05,Motor City,Retail,904287,Buyer_5310,Seller_4633,13151,,Sale,36171,Broker_723,
+49bc772f-0671-4262-a9fa-c3107e368def,2022-11-12,Jumeirah Beach Residence,Office,1355731,Buyer_5693,Seller_1941,6743,,Mortgage,54229,Broker_606,
+5d731748-b922-49eb-a12e-30eb86b4512e,2022-11-18,Emirates Living,Building,5799094,Buyer_5685,Seller_4190,2101,,Mortgage,231963,Broker_622,
+b7da4b01-1dfa-4ef5-b0d9-e7241f503611,2025-08-02,Dubai Hills Estate,Retail,1031483,Buyer_6893,Seller_4919,1009,,Sale,41259,Broker_188,Developer_61
+0e987edf-0104-4f4c-a0e4-a86b63eaec1f,2024-08-30,Palm Jumeirah,Plot,1220750,Buyer_9482,Seller_1251,3248,,Sale,48830,Broker_662,
+11452523-07f9-4092-82b1-c6c62d67c130,2024-03-27,Studio City,Retail,849300,Buyer_4707,Seller_4187,15901,,Lease,33972,Broker_688,
+e8c6d41b-e97a-42a0-bd09-60b2b553d673,2025-05-19,Arabian Ranches,Office,1265240,Buyer_9243,Seller_5821,12140,,Sale,50609,Broker_922,
+7b88f775-7a85-43bd-a3af-ab9366acd32f,2024-05-20,City Walk,Retail,1142282,Buyer_8254,Seller_7178,19453,,Lease,45691,Broker_888,
+cd0d3065-1cc7-4964-a708-e9f22f7e41eb,2023-03-16,Jumeirah Lake Towers,Building,5105969,Buyer_1448,Seller_8896,4809,,Lease,204238,Broker_169,
+ccc34d2e-1576-4d7c-a9da-52fa0e9c6457,2024-01-07,Dubai Hills Estate,Plot,833576,Buyer_7757,Seller_6785,17924,,Mortgage,33343,Broker_109,Developer_43
+7545003a-a7a5-4562-8020-8026102bae19,2023-11-14,Dubai Hills Estate,Townhouse,1928068,Buyer_2245,Seller_3924,4403,3.0,Lease,77122,Broker_323,Developer_44
+f9eb0d30-de45-4845-ba22-610d0d45cb39,2024-09-20,Arabian Ranches,Plot,589087,Buyer_9175,Seller_4271,8695,,Mortgage,23563,Broker_347,Developer_36
+ff68ba1e-3d1f-41b2-92d1-bb4565d357e8,2023-10-16,Dubai Hills Estate,Villa,4495604,Buyer_3555,Seller_2747,1482,1.0,Mortgage,179824,Broker_779,
+046b1125-3625-4ce2-a8ba-5eac96d36e51,2025-07-20,Business Bay,Building,8449756,Buyer_8901,Seller_7081,11335,,Lease,337990,Broker_688,Developer_72
+f127eb45-0baa-4118-b8c0-016d0b805624,2024-03-20,Arabian Ranches,Building,6706023,Buyer_7518,Seller_4638,19896,,Sale,268240,Broker_155,
+ec0ec0c7-92df-49ef-9e21-f9362b29b4a3,2025-08-09,International City,Office,1629309,Buyer_9232,Seller_6689,13901,,Mortgage,65172,Broker_894,
+81e87989-8982-4905-bb20-87508f274582,2024-01-07,Jumeirah Village Circle,Plot,531371,Buyer_1137,Seller_1193,7905,,Lease,21254,Broker_694,
+18c7d5ee-c8f4-42d3-8c56-aae243322422,2024-09-26,Palm Jumeirah,Retail,2932401,Buyer_9987,Seller_5306,8770,,Lease,117296,Broker_582,Developer_53
+b7704bb9-081a-48b1-8f98-e82e3f0b3c2c,2024-08-09,Palm Jumeirah,Villa,6557118,Buyer_7866,Seller_7099,3490,4.0,Lease,262284,Broker_561,
+863dc5ff-16ac-4896-9c77-e5b219ab6776,2025-03-24,Dubai Investment Park,Retail,1062187,Buyer_5422,Seller_4863,19197,,Lease,42487,Broker_976,
+ad22648a-f6ab-44a1-a851-d08354178d0f,2024-12-12,Dubai Investment Park,Building,6857017,Buyer_8749,Seller_1159,6787,,Lease,274280,Broker_611,
+c8450d06-5ad6-46e7-ba77-9dd72a40c37b,2023-01-22,Sports City,Retail,1083953,Buyer_5915,Seller_5111,19420,,Mortgage,43358,Broker_148,
+f1556f60-65eb-40c3-8e85-c91b6664cafd,2024-05-12,Arabian Ranches,Apartment,680661,Buyer_8807,Seller_2577,4185,6.0,Lease,27226,Broker_366,
+55277664-8888-4bd8-82a2-f23b42fb8315,2024-05-05,Studio City,Retail,1217062,Buyer_6638,Seller_1324,14492,,Sale,48682,Broker_459,Developer_87
+8b1b34be-ebcb-4085-a7e4-f5ca7391f88e,2024-10-22,Emirates Living,Retail,992813,Buyer_5663,Seller_6818,11652,,Mortgage,39712,Broker_622,
+cce82d9b-d42f-4c75-a049-b937f706e050,2024-03-07,Discovery Gardens,Apartment,773399,Buyer_8598,Seller_3373,7612,2.0,Mortgage,30935,Broker_927,Developer_63
+07c0ffd4-27d6-4186-8a08-5ec4bb9846f6,2025-05-05,Jumeirah Beach Residence,Building,6674755,Buyer_3654,Seller_6629,8478,,Lease,266990,Broker_424,
+d714f88c-4a83-4140-81eb-dae13179d693,2024-04-07,City Walk,Retail,1036125,Buyer_8289,Seller_6950,18070,,Lease,41445,Broker_523,
+f48ccf3a-9073-42ec-aab1-de6b6bbf6f95,2024-05-17,Business Bay,Villa,3930682,Buyer_2311,Seller_4450,1867,4.0,Sale,157227,Broker_197,
+07959298-3d90-4429-bf2d-848ceb2d38d0,2023-07-24,Motor City,Retail,663910,Buyer_9584,Seller_2363,4405,,Lease,26556,Broker_732,
+a05086c7-056d-46f2-8599-cbd4c0db2142,2024-03-12,Jumeirah Beach Residence,Townhouse,1548988,Buyer_8260,Seller_3071,1575,5.0,Sale,61959,Broker_129,
+febde692-c44f-4567-8e8d-7c2a6fabfa7e,2023-02-12,Palm Jumeirah,Building,16758633,Buyer_8654,Seller_9856,9926,,Mortgage,670345,Broker_555,
+d0324f11-3d73-4734-8ec8-0618e9265c02,2023-03-24,Studio City,Villa,2783954,Buyer_8126,Seller_9576,5741,6.0,Mortgage,111358,Broker_417,Developer_71
+8b197cd3-4d9a-40d5-8e8e-9ed6d5039f35,2023-04-24,Studio City,Villa,3158238,Buyer_6044,Seller_6992,3876,3.0,Sale,126329,Broker_410,
+6cf4b07c-c2a3-49da-bbbd-cbc28f89698d,2025-01-08,Sports City,Building,6154027,Buyer_6634,Seller_5698,16374,,Mortgage,246161,Broker_108,
+1d4e8c56-89ed-4421-9349-3fd98b9fb08c,2025-09-26,Motor City,Building,5169734,Buyer_8052,Seller_5799,8576,,Sale,206789,Broker_661,
+851e5a31-b0cc-4e4e-9ef0-8207da32d237,2024-05-21,International City,Retail,905377,Buyer_3675,Seller_7385,13398,,Sale,36215,Broker_369,
+0e26b7a0-a541-4670-b20b-9d491c2131cb,2024-04-06,Dubai Hills Estate,Retail,1556322,Buyer_5664,Seller_9715,9808,,Lease,62252,Broker_292,Developer_33
+7a094e22-01a8-47b3-941f-454c0b21d93a,2023-03-27,Dubai Investment Park,Townhouse,1399049,Buyer_8418,Seller_5458,6238,5.0,Lease,55961,Broker_292,
+3a88da7f-18c7-4df1-a393-9ced80c1ca90,2025-08-30,Dubai Investment Park,Apartment,1103041,Buyer_4046,Seller_2675,2811,3.0,Sale,44121,Broker_832,
+481f2bcd-8701-4374-84f8-063f6cd7711b,2025-09-14,Business Bay,Villa,2480198,Buyer_9086,Seller_4558,3300,4.0,Lease,99207,Broker_904,Developer_57
+b88d9ddc-f998-4461-a0b3-10221f7fbf9d,2023-12-08,Discovery Gardens,Plot,626998,Buyer_2314,Seller_3393,2836,,Lease,25079,Broker_894,
+91504e61-e36e-4f93-aabb-c190019c3b4e,2024-05-20,Studio City,Office,992547,Buyer_7251,Seller_1206,4996,,Mortgage,39701,Broker_354,
+62001063-8a97-4793-8a1e-0ce0d271fdb0,2025-08-07,Discovery Gardens,Villa,3040833,Buyer_4263,Seller_8550,6523,1.0,Mortgage,121633,Broker_781,Developer_70
+ad24f84f-3efc-42e1-aff6-6b1da3bd6d24,2023-12-23,Jumeirah Beach Residence,Plot,686424,Buyer_3598,Seller_1691,19008,,Mortgage,27456,Broker_225,
+26881400-eb10-421d-8b2d-1c0fd1c4702a,2025-06-30,DIFC,Villa,4285343,Buyer_4568,Seller_2850,2433,6.0,Lease,171413,Broker_432,
+1e549b1a-9bd3-4f09-bfb0-3dc638ee43a4,2024-06-04,City Walk,Retail,705379,Buyer_1146,Seller_1688,16573,,Mortgage,28215,Broker_710,
+1598f099-0902-43da-b5bf-d546cad9392c,2025-04-10,Downtown Dubai,Villa,4051944,Buyer_6544,Seller_1983,989,3.0,Mortgage,162077,Broker_257,Developer_23
+5181fd36-5a63-4159-8e9b-e3e48f1429ee,2023-11-03,Dubai Investment Park,Office,1035446,Buyer_8187,Seller_4161,1699,,Mortgage,41417,Broker_486,
+435f5d68-3c15-41f3-aa07-62ba8d3823bf,2023-01-25,Dubai Investment Park,Townhouse,2392315,Buyer_8168,Seller_5828,4946,6.0,Lease,95692,Broker_294,
+caca2707-155b-4885-9d43-91338893b30a,2023-02-28,Studio City,Townhouse,1667837,Buyer_5510,Seller_3627,1064,5.0,Sale,66713,Broker_560,
+0cd1ed6f-5451-428a-838e-e8da8f6c83e2,2025-10-13,City Walk,Retail,861281,Buyer_9289,Seller_7210,7079,,Sale,34451,Broker_734,Developer_89
+66f94a38-6b01-4943-927a-2c2a6388e609,2023-08-13,Dubai Hills Estate,Townhouse,3035850,Buyer_4110,Seller_9586,6096,4.0,Mortgage,121434,Broker_257,
+5c4ebbff-a999-42d0-8c7f-3c33b2ceac1a,2025-03-02,Jumeirah Lake Towers,Office,1378359,Buyer_2577,Seller_9572,3184,,Sale,55134,Broker_955,Developer_32
+42a7e6c2-b79a-47c0-8743-b75cc791d8ea,2024-09-17,Dubai Marina,Villa,2906019,Buyer_2617,Seller_1521,5177,6.0,Lease,116240,Broker_773,
+1d4247c8-d094-423a-a188-8894d2bdf7cc,2025-05-22,City Walk,Apartment,765158,Buyer_1214,Seller_4419,5871,4.0,Sale,30606,Broker_579,Developer_17
+e7e50457-22b2-49ff-a3c1-905864b422f3,2023-06-16,Palm Jumeirah,Retail,2745976,Buyer_7046,Seller_1955,9710,,Mortgage,109839,Broker_141,Developer_48
+a6fcf6bc-d850-4a8a-95ce-2374c606bfc2,2025-03-30,Downtown Dubai,Villa,6862053,Buyer_2658,Seller_4784,4855,4.0,Sale,274482,Broker_297,
+2ab54d85-0f13-478b-8cb3-d5832c11bba3,2024-10-13,Dubai Hills Estate,Retail,1433536,Buyer_7802,Seller_2728,19892,,Lease,57341,Broker_790,
+43e88746-9d83-4a40-b41c-cfd5cd98de5d,2024-10-10,International City,Apartment,653413,Buyer_7579,Seller_9268,3264,6.0,Sale,26136,Broker_646,Developer_66
+089e7a0f-3026-4ad9-95f6-d5adda044cef,2023-12-20,Palm Jumeirah,Townhouse,4882756,Buyer_7090,Seller_7755,6760,6.0,Lease,195310,Broker_945,Developer_87
+f809a78c-3a70-4e5f-9c72-662883ea3ba7,2023-09-07,Dubai Hills Estate,Retail,1363242,Buyer_5162,Seller_6898,15824,,Lease,54529,Broker_506,
+af4e90e9-3aaa-49de-a25b-eeb132f7e417,2022-11-19,Dubai Marina,Townhouse,3015991,Buyer_3213,Seller_5945,553,3.0,Sale,120639,Broker_319,Developer_12
+75f63c37-ad0c-429d-a3fd-f1a9e34115d1,2024-12-02,City Walk,Retail,952101,Buyer_2544,Seller_1618,16085,,Lease,38084,Broker_259,
+2dc18528-8e75-4b4d-8476-43cb933d4777,2024-05-08,Palm Jumeirah,Retail,1968524,Buyer_5920,Seller_2505,19693,,Lease,78740,Broker_682,Developer_19
+898412f2-cd5e-4d4f-993c-9c0c4b736ce8,2023-01-19,Jumeirah Lake Towers,Building,5188866,Buyer_2562,Seller_5921,2224,,Mortgage,207554,Broker_927,
+cb7af474-5955-4fd7-bdae-291fb7b0d98e,2023-11-30,Downtown Dubai,Building,7391458,Buyer_6700,Seller_8115,14648,,Sale,295658,Broker_990,Developer_93
+8b471d96-80d9-4dee-8c3f-81817da39c0e,2023-08-23,Business Bay,Plot,808725,Buyer_1886,Seller_5993,18182,,Sale,32349,Broker_426,
+6178eb10-396a-4984-9c06-b3e125f8c6da,2024-07-19,Dubai Investment Park,Townhouse,1893026,Buyer_3509,Seller_1827,6018,6.0,Lease,75721,Broker_556,Developer_83
+81fc4fa1-b480-4071-b9da-86f3f2203bb6,2024-02-29,Sports City,Apartment,684367,Buyer_7460,Seller_3425,1582,3.0,Sale,27374,Broker_587,
+03e0652f-b627-431a-a75a-9c3bb9be6425,2025-04-23,Dubai Marina,Retail,1322235,Buyer_7529,Seller_9221,15237,,Mortgage,52889,Broker_233,Developer_71
+e436034e-35e8-4321-bafe-d59d53cc6f4c,2024-09-08,Studio City,Villa,2603756,Buyer_9589,Seller_5034,2485,1.0,Lease,104150,Broker_895,
+8d37c567-4287-4667-9e74-37d446f046e6,2023-05-31,Downtown Dubai,Apartment,1872357,Buyer_6984,Seller_6706,2060,3.0,Lease,74894,Broker_708,
+48d80377-4957-4e8e-b6b1-abe004e715ff,2023-04-23,DIFC,Villa,6261103,Buyer_3389,Seller_8216,867,2.0,Sale,250444,Broker_801,
+d840be81-f16d-474c-aaf7-bf250caa0d3f,2024-06-04,Downtown Dubai,Apartment,1948331,Buyer_3419,Seller_5713,612,3.0,Mortgage,77933,Broker_923,
+53bc1916-558c-4308-a701-2138375b6897,2024-08-12,Discovery Gardens,Office,859108,Buyer_9814,Seller_4471,7678,,Mortgage,34364,Broker_635,Developer_80
+fda674f3-f3c8-4e32-aac0-9c17cd5ae949,2024-12-29,Motor City,Retail,1089851,Buyer_1301,Seller_7170,18262,,Sale,43594,Broker_361,
+582a4414-c901-402a-80a8-604b24bb5fa2,2024-04-07,DIFC,Villa,5635943,Buyer_1869,Seller_8617,5863,1.0,Sale,225437,Broker_497,
+6e20f264-6e55-4d51-b52d-131fc0c23981,2024-02-23,Palm Jumeirah,Building,9694050,Buyer_7332,Seller_4787,13474,,Mortgage,387762,Broker_826,
+ac918bd0-4314-4dd7-beea-9b70c8201f63,2022-10-22,Jumeirah Lake Towers,Office,1568089,Buyer_2442,Seller_4054,7516,,Mortgage,62723,Broker_568,
+176ddc58-4541-4b5f-8bef-9941e1924e16,2022-10-26,Business Bay,Apartment,908101,Buyer_5995,Seller_6465,4513,4.0,Mortgage,36324,Broker_260,
+4c970014-e308-4a55-b5cd-61eaf74b5af0,2024-06-18,Palm Jumeirah,Townhouse,5119477,Buyer_9212,Seller_5519,7151,1.0,Mortgage,204779,Broker_363,Developer_13
+e212f4d8-1139-4528-827d-f5082e854a5c,2023-11-15,Studio City,Townhouse,1544234,Buyer_7436,Seller_3248,1219,6.0,Lease,61769,Broker_633,Developer_88
+5601ff9a-c739-46cc-befd-698aa9736908,2024-12-06,Dubai Hills Estate,Office,1458664,Buyer_7987,Seller_6118,11790,,Lease,58346,Broker_655,
+b89cf43d-3c34-48c1-bf80-b564417be422,2024-08-26,Dubai Investment Park,Retail,971052,Buyer_3262,Seller_6062,18164,,Sale,38842,Broker_540,Developer_28
+f748a8bd-c2bd-4e1f-ad38-ac9d497cebd9,2022-10-19,Arabian Ranches,Townhouse,1345445,Buyer_2939,Seller_4016,3101,2.0,Mortgage,53817,Broker_130,Developer_62
+bd3a2bf3-5482-4ce9-88a1-e39f0879845a,2024-04-02,International City,Townhouse,1818185,Buyer_3489,Seller_4079,1374,2.0,Sale,72727,Broker_126,Developer_88
+ed8a97d6-e72c-459b-bb7b-3a1cb6bee39f,2024-06-29,City Walk,Retail,987237,Buyer_4804,Seller_4783,1854,,Lease,39489,Broker_181,
+596c74b8-c336-4b46-8b6f-4f7db1bab9de,2023-02-27,Motor City,Villa,2629068,Buyer_7126,Seller_4014,7480,4.0,Lease,105162,Broker_585,
+93bfbf3c-6749-40c5-ab2a-4257c1d5c066,2025-09-14,Emirates Living,Villa,1806401,Buyer_5421,Seller_7767,2323,6.0,Mortgage,72256,Broker_307,Developer_18
+a7cb384b-1213-4f99-b55a-6f30761c46cd,2023-01-15,Arabian Ranches,Office,1568388,Buyer_6323,Seller_8496,9086,,Lease,62735,Broker_514,Developer_87
+34a74964-ccac-4035-9893-005ea4a9186a,2022-11-04,Jumeirah Beach Residence,Plot,459514,Buyer_1630,Seller_9530,4582,,Lease,18380,Broker_567,Developer_15
+b48b0a4c-a05a-40a4-84b5-d7a1f245c77f,2025-07-26,Dubai Hills Estate,Retail,1356400,Buyer_7347,Seller_9456,2615,,Sale,54256,Broker_398,
+f08f1c9c-1e30-486d-9579-642a4ce78b01,2023-03-15,DIFC,Building,11514012,Buyer_3727,Seller_7921,10647,,Mortgage,460560,Broker_155,
+20a7d106-fdde-4a65-be7a-84823b0cade7,2023-04-03,Dubai Investment Park,Office,1537110,Buyer_2481,Seller_9202,4708,,Sale,61484,Broker_897,
+945749c6-c7b2-44c9-8c79-132799961e7e,2023-12-22,Studio City,Villa,2437866,Buyer_8387,Seller_1408,1965,4.0,Mortgage,97514,Broker_829,Developer_68
+401c8dd3-0d6c-4711-a136-f7cdb55261e9,2024-11-13,Downtown Dubai,Townhouse,3336668,Buyer_3024,Seller_2494,1435,6.0,Lease,133466,Broker_749,
+a21aedb9-7891-4875-9809-dda5495186c8,2022-12-02,Sports City,Plot,484430,Buyer_3619,Seller_7204,19033,,Lease,19377,Broker_144,Developer_52
+f7f0bc04-ce00-45ab-966c-7af3e4f6df05,2024-10-13,Dubai Investment Park,Villa,3270432,Buyer_1840,Seller_7874,3023,3.0,Mortgage,130817,Broker_887,Developer_46
+526d7853-4b62-42dd-ba6a-da59ef612500,2024-08-25,Arabian Ranches,Apartment,1063183,Buyer_1057,Seller_5146,600,4.0,Lease,42527,Broker_975,
+447b5c0b-0beb-4a48-a76a-d4db6ec9ab8b,2024-06-14,Business Bay,Retail,1541933,Buyer_4553,Seller_8794,15868,,Lease,61677,Broker_552,
+ea5078b8-c0cb-4ccf-bf29-b532c449b152,2024-03-24,Business Bay,Villa,4281931,Buyer_4401,Seller_1801,2014,2.0,Sale,171277,Broker_768,
+7d27b11e-614c-4ecd-9dba-5d9ccd83699f,2024-02-11,Dubai Investment Park,Building,3613512,Buyer_6424,Seller_2436,2606,,Sale,144540,Broker_526,Developer_30
+649b370a-5611-4eae-851e-1eba13c61e94,2024-10-16,DIFC,Retail,1883488,Buyer_8460,Seller_6901,2174,,Sale,75339,Broker_886,
+df0bb2e1-5f13-4076-bfd0-c6b834acf02e,2023-05-23,Palm Jumeirah,Office,3822555,Buyer_2063,Seller_5797,16427,,Sale,152902,Broker_224,
+2830fa38-71bb-4f28-929b-10dad10f3cfa,2022-11-05,City Walk,Townhouse,1924086,Buyer_4438,Seller_4425,5513,1.0,Sale,76963,Broker_685,Developer_90
+87deaedf-5ffe-4ab5-8bc0-3c76bfda835f,2024-03-05,Sports City,Apartment,830851,Buyer_7996,Seller_6185,2627,5.0,Mortgage,33234,Broker_738,
+75933a83-ba1c-4f77-ba77-f4061ac9d436,2022-11-15,Dubai Investment Park,Retail,984459,Buyer_9154,Seller_9069,6895,,Mortgage,39378,Broker_338,Developer_34
+45dbab9c-7b1f-49bc-ae25-1ab058ebb38c,2025-02-15,Business Bay,Apartment,745462,Buyer_4396,Seller_7793,3891,1.0,Lease,29818,Broker_458,
+c8c4bcb6-3b97-4a46-9195-a2181bffa999,2024-03-17,Emirates Living,Apartment,918746,Buyer_5168,Seller_2111,3021,3.0,Mortgage,36749,Broker_663,
+6b1052b3-6451-4394-98c3-7e82c0f27d5c,2023-11-15,Business Bay,Apartment,1227288,Buyer_7488,Seller_1477,7316,2.0,Sale,49091,Broker_438,Developer_96
+bd2582b2-7f1a-4c9b-a3f5-aec04bd46a4f,2025-01-09,Motor City,Office,1509693,Buyer_8888,Seller_3545,16093,,Mortgage,60387,Broker_443,
+9ab6feef-b15c-4860-8114-614a5f0c5815,2022-11-12,International City,Plot,369607,Buyer_5904,Seller_6169,19192,,Mortgage,14784,Broker_119,
+78212cb0-3d23-42ea-9eda-9d4ded9743a2,2023-10-21,Jumeirah Lake Towers,Building,6706652,Buyer_2084,Seller_3446,10190,,Sale,268266,Broker_447,Developer_90
+b84bfd64-a40c-4d42-b4ae-b9755130b85d,2023-08-09,Studio City,Building,4080893,Buyer_4070,Seller_2914,11101,,Mortgage,163235,Broker_978,
+4c5e299e-5da2-4bff-9aff-3baece1e9f7d,2023-01-01,Dubai Marina,Townhouse,2672213,Buyer_4893,Seller_7088,4202,3.0,Sale,106888,Broker_637,
+f0a5d9e6-3b59-457e-bb4c-b769d08bce0d,2024-08-27,Jumeirah Village Circle,Townhouse,2249029,Buyer_2517,Seller_8270,4645,1.0,Lease,89961,Broker_612,
+9736de42-04bf-46ec-8093-57b7de2dabf3,2022-11-07,Jumeirah Lake Towers,Office,1455250,Buyer_6084,Seller_6363,5695,,Sale,58210,Broker_941,Developer_76
+74c6b94e-84f0-47b5-a96c-f2c884ee7282,2023-03-19,Dubai Investment Park,Villa,3017998,Buyer_7350,Seller_9558,1448,1.0,Lease,120719,Broker_145,
+3ac7c8a7-b2b5-4e50-ba6e-2a9f6db9154e,2025-07-12,Downtown Dubai,Townhouse,3696527,Buyer_2689,Seller_9529,6776,6.0,Mortgage,147861,Broker_419,
+db07db04-51ab-42ed-b05d-75321a83d703,2023-12-27,DIFC,Plot,1192045,Buyer_4285,Seller_4154,10390,,Lease,47681,Broker_645,
+b8d7232a-1e19-4966-b6d5-9f2fc34dc8c5,2024-12-13,Discovery Gardens,Plot,391177,Buyer_3580,Seller_5483,4750,,Sale,15647,Broker_737,
+5cce5990-0c3b-4a99-a10a-17b890312e0e,2024-01-01,Jumeirah Village Circle,Villa,2699425,Buyer_5440,Seller_3319,6270,3.0,Mortgage,107977,Broker_350,
+f9ee9a9f-0409-4dff-ba3b-0b74edf1f1e6,2023-04-20,DIFC,Retail,2145803,Buyer_1831,Seller_3131,1950,,Lease,85832,Broker_791,
+120afac8-2f13-4b9e-9043-74bf1b2c220c,2023-08-04,Jumeirah Beach Residence,Apartment,608226,Buyer_3932,Seller_8304,5548,3.0,Lease,24329,Broker_440,Developer_95
+2e7ae73c-0772-4c17-8ba9-9e170a6ad7ef,2023-03-06,Studio City,Apartment,1105261,Buyer_3159,Seller_2522,7158,6.0,Lease,44210,Broker_199,
+d8fa959b-7b74-4d07-bf8d-90fe4324f66d,2024-07-13,Discovery Gardens,Office,1034623,Buyer_3354,Seller_5227,12909,,Lease,41384,Broker_287,
+388983f1-f27d-442c-b502-a1add3d692ca,2023-12-19,Jumeirah Lake Towers,Building,6512770,Buyer_8426,Seller_8987,1991,,Sale,260510,Broker_586,
+f9500137-8f56-4720-9a80-8b6b92fccc90,2024-03-15,Motor City,Office,1550443,Buyer_6711,Seller_3087,17644,,Sale,62017,Broker_515,Developer_23
+396c7d68-8956-4a60-b191-138ecf890307,2024-02-04,Jumeirah Lake Towers,Retail,1039154,Buyer_9728,Seller_8552,14133,,Mortgage,41566,Broker_523,
+bd470a2b-bcb2-4005-a675-d4fe68a4510d,2023-01-31,Dubai Hills Estate,Retail,1022255,Buyer_7288,Seller_2082,12164,,Sale,40890,Broker_933,
+ffd8c71e-eabb-4b87-b0f8-cd2684c9b18b,2023-11-14,International City,Building,6930718,Buyer_9921,Seller_4869,6671,,Mortgage,277228,Broker_785,
+7917aefb-aea9-4592-9798-e8406cffc70b,2023-03-11,Motor City,Apartment,891611,Buyer_6330,Seller_2599,7234,4.0,Sale,35664,Broker_415,Developer_18
+28b6903b-b09c-4016-80d8-057c4751b561,2023-08-30,Jumeirah Village Circle,Plot,634923,Buyer_6364,Seller_9098,3014,,Sale,25396,Broker_322,Developer_84
+6d42c1d7-f37a-4f5b-be57-28cc6b18782e,2024-12-13,Business Bay,Building,5217600,Buyer_8421,Seller_9704,10551,,Lease,208704,Broker_730,
+af8bbcde-a5f3-4ea4-98a7-67272268a90b,2024-01-05,Emirates Living,Villa,2942654,Buyer_5910,Seller_5989,4061,6.0,Lease,117706,Broker_191,
+a73a9ef2-1c86-4726-9f9c-c62b68e2a412,2024-02-20,Sports City,Office,1552014,Buyer_2022,Seller_7049,18985,,Sale,62080,Broker_100,Developer_55
+60d47f99-ac50-4d29-9afe-5894bc6f87e6,2025-08-12,Jumeirah Village Circle,Building,4487732,Buyer_4854,Seller_8073,13919,,Mortgage,179509,Broker_425,Developer_61
+81d7859e-bedc-44b4-b0eb-d472d72c10d9,2024-10-24,Jumeirah Beach Residence,Office,1297899,Buyer_8780,Seller_3278,7167,,Mortgage,51915,Broker_493,Developer_56
+1c6638fe-84d5-40ad-9590-62f5081f16e2,2025-01-30,International City,Villa,2254824,Buyer_3200,Seller_1190,1087,6.0,Sale,90192,Broker_247,Developer_72
+52ed29e6-979f-4ab8-b998-0a67957f0d31,2023-06-16,International City,Villa,1898161,Buyer_8471,Seller_7974,5605,2.0,Lease,75926,Broker_621,
+3b860f63-cc99-41e7-ae31-8de96e3cfbb8,2024-09-29,Discovery Gardens,Office,1138458,Buyer_7959,Seller_1121,19937,,Lease,45538,Broker_967,Developer_74
+333e19db-2fab-40c1-b9d7-05304643fa48,2023-09-24,City Walk,Office,1618314,Buyer_1548,Seller_1620,19617,,Lease,64732,Broker_821,
+99ede804-8d76-42bc-ba94-90d6aba3dae9,2022-11-01,Motor City,Plot,378022,Buyer_5578,Seller_8617,17939,,Sale,15120,Broker_635,Developer_21
+ef302a32-15e5-4abe-b084-2f3cf662e680,2025-05-08,Dubai Hills Estate,Office,1917659,Buyer_9834,Seller_6119,2729,,Lease,76706,Broker_647,Developer_70
+4b986dcd-1af1-421d-a14d-c3d3b8305a80,2023-12-06,Discovery Gardens,Retail,1200814,Buyer_7897,Seller_6782,10654,,Lease,48032,Broker_271,
+3cce9672-b260-4d5d-85bd-0604676ad978,2024-04-29,DIFC,Plot,1124563,Buyer_2006,Seller_8752,19944,,Sale,44982,Broker_686,
+c9ddab9a-70db-401f-a34e-a1a8532f61aa,2025-08-20,DIFC,Building,10945494,Buyer_5699,Seller_8942,3703,,Sale,437819,Broker_617,
+401534f7-4fd7-4869-8a92-12ba2bde519a,2024-03-18,City Walk,Townhouse,1426998,Buyer_5509,Seller_5209,616,6.0,Sale,57079,Broker_718,
+58ce7f1a-166c-4999-a4bb-03b1b0cde2d9,2024-10-20,Dubai Investment Park,Plot,506328,Buyer_5280,Seller_4869,16889,,Sale,20253,Broker_918,
+1281bd20-555a-41d0-a62c-a9d2452aa85c,2024-12-21,Dubai Marina,Townhouse,3749895,Buyer_3525,Seller_9125,6666,4.0,Lease,149995,Broker_343,
+9a886f10-fcf7-4c83-9180-4d02acc259fc,2023-11-08,Arabian Ranches,Villa,2761075,Buyer_1890,Seller_5331,6688,1.0,Sale,110443,Broker_271,
+d1cf4a77-3fef-41c2-8099-3abc87bda6e4,2022-10-20,Motor City,Townhouse,1860095,Buyer_4828,Seller_7222,6099,6.0,Lease,74403,Broker_585,
+376c4ce3-7db8-449a-8432-416ae01455e9,2024-03-02,Sports City,Building,5021570,Buyer_8353,Seller_7258,11344,,Mortgage,200862,Broker_799,Developer_22
+b2d8d318-0ef5-423b-80a7-e668fae4c80c,2023-05-14,Studio City,Plot,473839,Buyer_5466,Seller_6488,9858,,Lease,18953,Broker_921,
+8dc5121c-e191-4428-bde6-820947038064,2024-06-06,Jumeirah Beach Residence,Office,1489446,Buyer_4193,Seller_9518,12056,,Mortgage,59577,Broker_806,Developer_50
+5eaacc34-3061-4042-a781-be216094fda9,2025-05-28,Studio City,Apartment,936769,Buyer_1195,Seller_7737,1300,5.0,Sale,37470,Broker_801,
+1738a531-6b1e-4d14-b6dc-b01fe702180a,2024-09-14,Dubai Hills Estate,Plot,628815,Buyer_1557,Seller_1388,4012,,Sale,25152,Broker_708,
+d2881a34-3720-45b3-95f3-0fb6ff0c3066,2025-02-11,Emirates Living,Retail,1031992,Buyer_2415,Seller_3128,13319,,Mortgage,41279,Broker_882,Developer_82
+a057ac4f-523e-45b0-b1c7-eb0b7a30cc72,2024-05-14,Arabian Ranches,Apartment,949566,Buyer_5826,Seller_8650,5910,1.0,Mortgage,37982,Broker_564,Developer_45
+e17adeea-7cd6-4724-8ec3-6acf9ee3500f,2023-12-22,International City,Plot,666187,Buyer_5216,Seller_3653,3424,,Lease,26647,Broker_895,
+ce28dcbe-a807-496c-95de-4c6b01d86f58,2024-05-04,Jumeirah Beach Residence,Townhouse,2514907,Buyer_5336,Seller_3915,4109,1.0,Lease,100596,Broker_305,
+c7e84d74-23ec-4d89-b2f3-7540cb14f2c4,2024-12-24,Arabian Ranches,Plot,522220,Buyer_9857,Seller_8065,8156,,Mortgage,20888,Broker_758,
+b4b284c9-55c2-44d9-a3d0-e2a0dc9fc5b2,2025-08-04,Discovery Gardens,Plot,440648,Buyer_2194,Seller_2153,19721,,Mortgage,17625,Broker_356,Developer_12
+6c30ab19-3d66-40af-853c-255f543164d4,2025-10-13,Motor City,Villa,2892514,Buyer_1619,Seller_7397,2682,2.0,Mortgage,115700,Broker_437,Developer_83
+082c788a-d851-4456-ab9b-f2b298d9033f,2023-01-14,Business Bay,Retail,1398529,Buyer_8833,Seller_8144,14235,,Mortgage,55941,Broker_899,Developer_18
+4fc4b7e9-df3f-4b65-896d-73f93eae1e03,2023-01-31,Studio City,Villa,1755787,Buyer_2985,Seller_9770,3440,3.0,Mortgage,70231,Broker_410,
+9e5a1e9d-5068-4f8b-823e-4513ac156f30,2023-11-18,Downtown Dubai,Townhouse,3867258,Buyer_2318,Seller_8530,6729,3.0,Mortgage,154690,Broker_307,
+a625cb2a-dd45-4ba2-9110-b3fd688f28b2,2024-02-10,Dubai Marina,Office,2092524,Buyer_7391,Seller_2749,12772,,Lease,83700,Broker_186,Developer_66
+7aa8985c-5f70-4a2e-980d-56b4fb33a46f,2025-08-24,Emirates Living,Villa,1812472,Buyer_4907,Seller_9015,3684,1.0,Mortgage,72498,Broker_758,
+9ed01970-7888-4948-b386-25ab738f27de,2025-09-11,Studio City,Building,6341223,Buyer_1606,Seller_6558,2836,,Lease,253648,Broker_906,Developer_61
+2fc3237c-4de8-418f-b03e-3a67734fd441,2022-11-08,Jumeirah Village Circle,Villa,3162431,Buyer_8509,Seller_9791,1720,6.0,Mortgage,126497,Broker_338,Developer_14
+912f0fcc-03eb-4057-bddf-e0a82bba98e6,2023-02-22,Dubai Investment Park,Office,1389218,Buyer_1750,Seller_4976,5277,,Sale,55568,Broker_276,
+ae277c6b-eb3a-4fd7-ad0e-1cc19a5a1af6,2023-03-25,DIFC,Building,11300291,Buyer_3796,Seller_2047,4484,,Sale,452011,Broker_609,
+e3e3058c-a021-4e32-a9cf-23055e19aab0,2023-05-26,Dubai Hills Estate,Apartment,1414691,Buyer_6527,Seller_7586,3156,1.0,Mortgage,56587,Broker_689,
+e247b6be-336d-4717-8b34-62992cb60cec,2024-08-04,Jumeirah Lake Towers,Building,6876423,Buyer_1746,Seller_3841,11993,,Sale,275056,Broker_223,
+70b3261d-5c1b-4de6-92ae-ccc09c107cea,2024-11-11,International City,Villa,2968517,Buyer_8187,Seller_4991,5267,1.0,Sale,118740,Broker_202,Developer_90
+9add7296-3dc9-4c1d-afef-6b894eb7c5d5,2023-01-21,Jumeirah Beach Residence,Building,4052137,Buyer_2322,Seller_1104,1236,,Sale,162085,Broker_191,Developer_85
+c652b554-6ffc-4c1a-8cc1-0785863fad35,2023-02-13,DIFC,Office,2560577,Buyer_3079,Seller_4377,5688,,Mortgage,102423,Broker_377,
+775c53f6-2124-4bef-a623-5e79ff3960c6,2025-07-29,International City,Villa,3391656,Buyer_3949,Seller_9190,5513,1.0,Mortgage,135666,Broker_946,Developer_54
+9edb351c-b7eb-4c83-9851-4403923d6a7e,2024-09-16,International City,Apartment,872317,Buyer_2925,Seller_9686,1283,5.0,Lease,34892,Broker_983,Developer_79
+fd46b83c-3af4-4ad3-8264-5613c9594a68,2024-08-14,Sports City,Villa,2562378,Buyer_5528,Seller_1869,2086,1.0,Sale,102495,Broker_801,Developer_70
+7bcc4b83-0316-4ec8-ac33-76ad0f55de94,2025-07-18,Motor City,Villa,2029579,Buyer_1885,Seller_6966,2835,2.0,Lease,81183,Broker_357,
+92368d80-2c09-4668-adcc-c85fba6c755f,2025-06-29,Discovery Gardens,Apartment,618475,Buyer_9804,Seller_3881,1794,1.0,Lease,24739,Broker_627,
+e5e631eb-bd7c-48dc-bdf9-5e1e1a3104fe,2023-12-17,Dubai Hills Estate,Plot,707962,Buyer_7865,Seller_4256,11672,,Sale,28318,Broker_897,
+37360ef5-2fd3-45e8-83dd-d10dc304fbf4,2023-06-23,Dubai Hills Estate,Apartment,969900,Buyer_4276,Seller_7152,7802,2.0,Sale,38796,Broker_582,
+2c1a67ca-9ef0-4db7-9ed3-85cefc066f03,2023-03-28,Dubai Marina,Office,1442626,Buyer_3917,Seller_7346,13238,,Sale,57705,Broker_568,Developer_90
+0798f3a9-125e-4bc5-b086-e10caed18703,2025-01-27,Palm Jumeirah,Townhouse,3786964,Buyer_1525,Seller_1977,2798,2.0,Sale,151478,Broker_972,
+42a1a215-3113-4427-a368-ce5d754e8864,2024-07-21,International City,Villa,3080594,Buyer_5835,Seller_3568,6967,6.0,Mortgage,123223,Broker_274,
+977909fa-edcf-4f64-85b4-375593a5e402,2023-06-24,Studio City,Building,4303958,Buyer_9548,Seller_9015,8092,,Mortgage,172158,Broker_584,Developer_45
+01ad187f-b38a-43f6-9c99-74c88fcff68f,2024-05-27,Business Bay,Plot,649790,Buyer_5060,Seller_6362,15229,,Mortgage,25991,Broker_327,Developer_85
+40c870ad-45d8-4626-9096-d21dcede0c9d,2023-06-12,Dubai Investment Park,Retail,1195898,Buyer_1724,Seller_1656,16422,,Mortgage,47835,Broker_887,
+2a25762f-3a7b-4618-be44-9dd161a24f5d,2025-03-28,International City,Retail,878421,Buyer_8412,Seller_9114,8881,,Sale,35136,Broker_671,Developer_98
+3d244ddc-8d8c-4dcf-8ad0-70d029129f15,2024-02-17,International City,Villa,1982246,Buyer_4916,Seller_2486,630,4.0,Mortgage,79289,Broker_412,
+a511542c-4fc0-49d6-8248-6fccf4081dfb,2025-08-26,Discovery Gardens,Building,5496332,Buyer_8452,Seller_8598,5542,,Mortgage,219853,Broker_515,
+b4844fb8-123f-484a-954c-e3960b0f7928,2025-10-12,Palm Jumeirah,Plot,1281258,Buyer_2158,Seller_7305,11908,,Mortgage,51250,Broker_133,
+c23dad96-b9c3-47f1-9028-14f83fbe1bf1,2024-08-16,City Walk,Plot,681133,Buyer_2326,Seller_6500,2796,,Mortgage,27245,Broker_790,
+f9d3c309-e5f2-4831-a851-eff325144360,2023-03-06,Dubai Marina,Apartment,1161682,Buyer_1669,Seller_6989,3501,2.0,Mortgage,46467,Broker_672,Developer_81
+b7f2002c-58a1-4f60-abdb-631f47b4e5ae,2024-06-13,Emirates Living,Villa,3467190,Buyer_9841,Seller_2860,5816,4.0,Mortgage,138687,Broker_870,
+38cf4646-f1f3-4597-b90e-1ecf882e40d5,2024-07-10,Emirates Living,Building,6107558,Buyer_6250,Seller_6778,9760,,Mortgage,244302,Broker_796,
+3dc8e28c-d35f-4a01-b2b2-62b3e386b535,2023-04-02,Dubai Marina,Apartment,1153163,Buyer_8966,Seller_9215,4814,1.0,Lease,46126,Broker_826,
+f678cf68-e6c9-4725-a7b9-283af03b3d89,2023-09-22,Studio City,Townhouse,1829492,Buyer_2075,Seller_4085,7806,4.0,Sale,73179,Broker_182,
+97bbcb1c-fc5f-49e3-8271-8ae446178463,2025-05-10,Arabian Ranches,Townhouse,2467403,Buyer_2791,Seller_3699,2760,1.0,Mortgage,98696,Broker_251,
+a4415788-03df-486f-9e08-4d6bc83aa4bd,2025-08-29,Emirates Living,Retail,1229826,Buyer_5803,Seller_7824,18741,,Sale,49193,Broker_585,
+55867bad-de76-4f57-95f7-e8167628cffe,2024-02-25,Discovery Gardens,Plot,575639,Buyer_4097,Seller_2031,1722,,Sale,23025,Broker_954,Developer_92
+67946510-db71-4dd5-acf6-ee7b97a7a2a5,2023-12-16,Jumeirah Lake Towers,Office,1326111,Buyer_8965,Seller_9686,18972,,Lease,53044,Broker_568,
+89ab7519-3b9e-4c9a-8ae4-7c32afa69bd6,2024-04-30,Dubai Investment Park,Building,4572732,Buyer_4715,Seller_8933,13186,,Lease,182909,Broker_888,Developer_28
+4dd7af1d-1d49-4306-9dce-0f8afcfc5a89,2024-11-08,Palm Jumeirah,Townhouse,4586168,Buyer_3634,Seller_9770,2836,2.0,Sale,183446,Broker_959,Developer_95
+db9b7d0f-ed6a-4a71-8147-cc7e6c24964c,2025-07-22,Dubai Investment Park,Villa,2166334,Buyer_6187,Seller_3072,4111,3.0,Lease,86653,Broker_288,
+92f10c8c-f4a1-4fea-bd9a-cd948ee06d3c,2023-11-10,Dubai Marina,Plot,691395,Buyer_3423,Seller_7109,15694,,Mortgage,27655,Broker_266,
+bd457fd1-e438-4d37-b618-7dc4b0c49cd9,2022-12-27,Jumeirah Village Circle,Apartment,786554,Buyer_3381,Seller_8504,3123,2.0,Sale,31462,Broker_856,
+61b0f242-5990-4017-8f16-cfccc3f6f7ed,2024-02-17,Sports City,Townhouse,2075527,Buyer_8764,Seller_5748,6678,5.0,Mortgage,83021,Broker_250,Developer_66
+70c1f499-081d-49c3-92c0-500ea45af918,2023-02-07,Jumeirah Lake Towers,Plot,389310,Buyer_1656,Seller_3284,19053,,Sale,15572,Broker_415,
+e545b86c-6c95-43e6-9fce-131a8ff25357,2023-12-16,Dubai Hills Estate,Office,1596294,Buyer_1901,Seller_4197,18250,,Sale,63851,Broker_900,Developer_45
+882af122-0f83-440d-af12-ae039f3de73e,2023-04-16,Emirates Living,Apartment,606810,Buyer_2431,Seller_9385,3731,2.0,Lease,24272,Broker_425,
+affb74e1-2df7-4414-8958-dbc93f79d3e5,2023-10-06,Sports City,Apartment,1068730,Buyer_7513,Seller_3423,6365,4.0,Lease,42749,Broker_495,
+d6af7a1e-73a6-4a82-8e69-ff5b643fa5b6,2023-04-16,DIFC,Townhouse,3064873,Buyer_2435,Seller_4533,6462,4.0,Mortgage,122594,Broker_525,Developer_46
+d92234d1-8276-4d4d-af3e-5c2fb4a12204,2023-05-30,Arabian Ranches,Building,6048002,Buyer_7786,Seller_3286,3820,,Sale,241920,Broker_312,
+91562a71-42f0-47ee-a046-14579015d60f,2023-09-06,Sports City,Townhouse,1343305,Buyer_2449,Seller_1108,3854,6.0,Lease,53732,Broker_524,
+c97ccd1c-6b4f-453b-804c-ad7c80a99798,2025-01-07,Discovery Gardens,Plot,548770,Buyer_4264,Seller_4047,13509,,Lease,21950,Broker_667,
+1b3131e0-94e1-4a8b-b9dc-3dd21291f1f6,2023-01-07,DIFC,Building,9986812,Buyer_8593,Seller_4678,1879,,Sale,399472,Broker_257,
+4dc64990-d585-4047-ac8c-82c05d4bf809,2024-03-04,Motor City,Apartment,926135,Buyer_7834,Seller_3938,4529,6.0,Mortgage,37045,Broker_350,
+4df116b3-74f6-41ab-9040-3189f415dae9,2025-05-31,City Walk,Office,1675239,Buyer_6927,Seller_8872,19532,,Lease,67009,Broker_989,
+811a99e8-8ded-478e-bddb-994cf0b06661,2023-09-11,Motor City,Plot,636398,Buyer_9397,Seller_1287,9504,,Sale,25455,Broker_695,
+79b3b5c7-4e3d-4230-aafb-6e61edf485ee,2025-01-10,Jumeirah Lake Towers,Office,1577786,Buyer_6855,Seller_3675,2733,,Lease,63111,Broker_469,
+d5c5e96e-cb8f-452e-b886-dc9d204dd6f3,2022-10-26,Palm Jumeirah,Apartment,1805798,Buyer_2258,Seller_9419,2087,6.0,Sale,72231,Broker_883,
+9ad3a8d3-35c4-45fc-9ba4-7a0399b3e5f0,2024-01-06,Arabian Ranches,Retail,833242,Buyer_5932,Seller_5447,12879,,Sale,33329,Broker_647,
+85b28a0c-3c4a-4d10-b8fc-3fea6ed8cb9a,2024-03-17,Dubai Investment Park,Apartment,636691,Buyer_7111,Seller_8944,3875,3.0,Sale,25467,Broker_204,
+459ae5f9-262b-4b83-9f28-56a22b476d7a,2022-11-03,Sports City,Villa,3205253,Buyer_9717,Seller_2867,3918,4.0,Sale,128210,Broker_219,Developer_12
+49a9cf57-0208-4257-84e4-f66c5db3365d,2023-10-03,Motor City,Townhouse,1652582,Buyer_3277,Seller_8240,7788,5.0,Mortgage,66103,Broker_881,Developer_32
+b67b1827-e030-49de-b138-6de91fad2a76,2025-02-14,DIFC,Apartment,1758415,Buyer_4643,Seller_3108,7519,6.0,Sale,70336,Broker_804,
+334fff7d-1581-481a-9bca-b3c850a0c440,2025-05-07,Dubai Investment Park,Villa,1977881,Buyer_7960,Seller_2830,1136,1.0,Lease,79115,Broker_875,
+c2a7c41d-e8e8-49ae-ad95-d376c179494e,2022-11-28,Emirates Living,Apartment,578363,Buyer_1971,Seller_8685,1474,3.0,Sale,23134,Broker_167,
+e9dd6cbd-377b-4cf3-a729-f1229775b95a,2025-02-03,Business Bay,Building,4989091,Buyer_4365,Seller_4277,7054,,Mortgage,199563,Broker_459,
+bb9d852a-6983-4a79-ae0c-5777208daeb0,2024-03-25,Dubai Investment Park,Building,6111693,Buyer_6698,Seller_6770,6261,,Mortgage,244467,Broker_899,Developer_40
+17526a0f-df90-4576-8261-e01634532218,2025-09-16,Sports City,Retail,673052,Buyer_9664,Seller_4555,7276,,Lease,26922,Broker_275,Developer_78
+c7246fdd-9791-4b86-884d-1a6251276baf,2024-08-02,Business Bay,Plot,499902,Buyer_9260,Seller_8777,13008,,Mortgage,19996,Broker_703,
+c0695a7b-27c3-4bde-8641-54deb54a537f,2023-08-29,Jumeirah Village Circle,Villa,3210798,Buyer_7948,Seller_4510,4712,2.0,Lease,128431,Broker_215,Developer_50
+48aac698-040e-4938-a667-210870a853f6,2025-01-09,Jumeirah Village Circle,Office,932665,Buyer_9123,Seller_6918,10446,,Mortgage,37306,Broker_839,
+8b8c7ef2-a717-4db5-a6f6-1949fcd493c7,2024-03-13,Jumeirah Lake Towers,Office,937206,Buyer_8486,Seller_6111,15547,,Sale,37488,Broker_667,
+16d64e2c-9b54-4944-90f1-24e98c4e512f,2023-02-13,International City,Villa,3249354,Buyer_7020,Seller_3937,604,6.0,Lease,129974,Broker_788,
+a0fe9786-faab-44bc-a82f-aead23384d82,2025-04-23,Discovery Gardens,Retail,1044885,Buyer_2953,Seller_3348,13937,,Lease,41795,Broker_811,
+00553524-49ac-4305-a7cc-95c401c590ef,2024-11-03,Jumeirah Village Circle,Plot,673851,Buyer_2060,Seller_6959,7523,,Lease,26954,Broker_305,
+62b145b9-8775-443b-b875-3b996923af4f,2023-05-29,Jumeirah Beach Residence,Apartment,690406,Buyer_9177,Seller_5563,6765,6.0,Mortgage,27616,Broker_707,
+8d24229e-1f53-4653-8b7e-0d7d92e4fbbc,2023-07-09,Jumeirah Beach Residence,Townhouse,1859541,Buyer_8938,Seller_9379,2784,2.0,Lease,74381,Broker_210,
+0dc4ef4b-f1ee-4208-8536-f4365274e6e5,2025-01-12,Motor City,Office,1033890,Buyer_1486,Seller_2631,2731,,Sale,41355,Broker_610,
+72968918-9c00-4806-93ff-42661e71db14,2023-12-15,Arabian Ranches,Office,1347850,Buyer_3502,Seller_5960,4156,,Sale,53914,Broker_776,Developer_73
+191f46d1-71dc-48ff-8c95-4d02f3c2e2e0,2022-12-30,Discovery Gardens,Villa,2263735,Buyer_9032,Seller_9270,2643,5.0,Lease,90549,Broker_928,Developer_79
+037e5d68-6482-49ad-9e8e-2ecc8efbe8b6,2023-05-17,Business Bay,Building,4693773,Buyer_2951,Seller_7285,15749,,Lease,187750,Broker_973,
+ef4a4041-ac57-4748-801e-7819b7912fb6,2024-02-02,Discovery Gardens,Apartment,578401,Buyer_3689,Seller_9052,4028,2.0,Lease,23136,Broker_832,
+df034a4f-1f58-44ea-816b-4c88c195b657,2023-02-25,Jumeirah Village Circle,Retail,1055265,Buyer_8797,Seller_3560,17603,,Sale,42210,Broker_500,
+403e12af-522a-49e1-ab41-cd12fe6f3676,2024-03-11,Jumeirah Beach Residence,Retail,1056187,Buyer_6250,Seller_2006,1922,,Mortgage,42247,Broker_146,
+ecb9d6ad-30f7-4527-b265-c6d4b5053e88,2025-08-20,Palm Jumeirah,Townhouse,5700093,Buyer_6591,Seller_7235,1297,4.0,Lease,228003,Broker_465,
+d067e237-02a9-4ef4-9ff6-323e089d85ce,2024-06-21,Dubai Marina,Plot,653220,Buyer_6113,Seller_2391,3146,,Lease,26128,Broker_217,
+72fe5702-08db-4532-b4dc-acfb2748ab5b,2023-03-16,Business Bay,Retail,1086089,Buyer_7921,Seller_9433,14800,,Lease,43443,Broker_120,
+a5e0ba5c-ce5f-40b1-ad34-3207c946a282,2023-08-07,Business Bay,Townhouse,2256734,Buyer_6282,Seller_2601,7121,4.0,Sale,90269,Broker_807,
+3c5327a5-ad56-40d9-b774-ed85083eb748,2023-11-19,Jumeirah Lake Towers,Office,1262325,Buyer_3730,Seller_5907,12905,,Lease,50493,Broker_306,
+926e09c2-4a67-45e9-900b-ceee4eed34ac,2024-08-02,Downtown Dubai,Building,12952340,Buyer_5708,Seller_5344,2557,,Lease,518093,Broker_687,
+d8543ea0-e1d5-40f3-9780-cbc283e613a2,2025-04-09,Dubai Hills Estate,Retail,1537227,Buyer_2552,Seller_6518,9957,,Sale,61489,Broker_680,Developer_70
+cefe49d2-c044-46d8-8149-9f6292d0e2bb,2025-05-10,International City,Villa,2357803,Buyer_5945,Seller_9268,7087,3.0,Lease,94312,Broker_779,
+ca04f92c-b320-4457-82e7-9dfa36d664d9,2022-11-24,Emirates Living,Office,1177932,Buyer_8425,Seller_9971,6917,,Sale,47117,Broker_742,Developer_33
+adf27ef4-0943-45bf-8d08-06cceacaf967,2023-03-02,Motor City,Villa,2906410,Buyer_5389,Seller_9728,7126,5.0,Lease,116256,Broker_679,Developer_17
+fb5a72b8-0862-4e81-a685-427b95c0705c,2024-12-16,Sports City,Villa,2387480,Buyer_4938,Seller_3465,6614,6.0,Lease,95499,Broker_964,
+9db494b4-cd68-4c99-917f-a23db8fb3ae0,2025-06-05,Jumeirah Lake Towers,Building,6405750,Buyer_4335,Seller_7757,9746,,Lease,256230,Broker_761,
+854e6193-2367-4d37-838d-b33334981abb,2024-12-11,Dubai Hills Estate,Office,1456456,Buyer_4144,Seller_1453,9047,,Lease,58258,Broker_575,
+aef29971-7fb9-4986-9e59-9f93d8cef9e1,2025-07-31,International City,Office,1383414,Buyer_4309,Seller_3610,9936,,Sale,55336,Broker_129,
+62453652-be0e-411f-ab0e-812cf59ed9b8,2025-07-20,City Walk,Plot,542747,Buyer_8960,Seller_1326,2812,,Sale,21709,Broker_421,
+a337ef1e-4760-48e5-8d7e-84690264519d,2025-04-13,Downtown Dubai,Office,3186579,Buyer_7502,Seller_3302,8734,,Sale,127463,Broker_684,Developer_25
+8baf11f4-fcd4-4267-88eb-aba150aa3ce2,2022-11-04,Sports City,Plot,640143,Buyer_5125,Seller_9133,3957,,Sale,25605,Broker_714,
+f5754128-80da-413a-88a1-c262a7329709,2023-08-08,Jumeirah Lake Towers,Townhouse,2308741,Buyer_4865,Seller_7928,2285,2.0,Sale,92349,Broker_279,
+17446c58-3830-4481-a99b-fb00818fb0d2,2025-06-22,City Walk,Office,1183035,Buyer_9034,Seller_9740,13278,,Mortgage,47321,Broker_215,
+c4fa3bf6-7cda-40c2-847e-b7b1c010415f,2024-03-25,International City,Office,1413500,Buyer_3374,Seller_6947,16572,,Mortgage,56540,Broker_476,Developer_12
+e948b9b9-2bd7-4cfb-bedd-b098bf45c2db,2025-06-25,Dubai Marina,Building,9132111,Buyer_4926,Seller_5144,19111,,Lease,365284,Broker_416,
+f300eba8-9a81-40be-bfa0-182a6667d395,2024-06-17,Palm Jumeirah,Building,14745922,Buyer_8248,Seller_7364,1257,,Lease,589836,Broker_361,
+42cbf8ce-7d7c-4af0-af10-644a64f74ff5,2024-11-20,Dubai Hills Estate,Townhouse,2135121,Buyer_8190,Seller_6196,7704,6.0,Lease,85404,Broker_908,
+413abda3-99a8-4d82-bc88-f33582d2824c,2023-01-12,Downtown Dubai,Building,12456196,Buyer_8718,Seller_7765,11902,,Mortgage,498247,Broker_532,Developer_22
+367c4837-f971-48a9-b357-5363d1f91c66,2025-06-01,Arabian Ranches,Plot,441339,Buyer_6764,Seller_7895,18947,,Mortgage,17653,Broker_434,
+749eaa61-6247-42b3-8fe4-c5804b475fb0,2024-10-03,Business Bay,Building,4787049,Buyer_8264,Seller_3229,1100,,Lease,191481,Broker_304,
+fca4898e-6419-4d2e-849c-d47cdd5b5e99,2024-11-25,Jumeirah Lake Towers,Retail,681806,Buyer_5089,Seller_9460,5262,,Mortgage,27272,Broker_802,
+dd62e176-aa5b-421b-be2d-7e65266a1860,2025-01-14,Jumeirah Lake Towers,Office,1241827,Buyer_5270,Seller_3842,11734,,Lease,49673,Broker_303,
+9c287cdd-8dd4-4cda-a98b-aa449fb2e965,2023-09-03,Palm Jumeirah,Villa,6096537,Buyer_4677,Seller_1339,688,5.0,Mortgage,243861,Broker_726,
+f6ed1045-124f-439c-a069-509b06a0c77c,2024-11-03,Downtown Dubai,Office,2013087,Buyer_1815,Seller_7570,15054,,Mortgage,80523,Broker_366,
+8271e74d-a0c8-4c8e-93a6-de2cfe331efb,2025-02-16,Palm Jumeirah,Villa,8519190,Buyer_1231,Seller_9615,4064,4.0,Mortgage,340767,Broker_606,
+5405c070-b0fc-4da4-83a4-4547ea7963bb,2024-04-17,Emirates Living,Villa,3405591,Buyer_5717,Seller_9096,3629,2.0,Lease,136223,Broker_976,
+91698973-2afe-4357-9c0f-431f75586e45,2024-09-22,Emirates Living,Building,4490385,Buyer_7853,Seller_3955,14386,,Sale,179615,Broker_129,
+1b9263ea-cfb8-4133-b666-28a1c938ea28,2024-05-24,City Walk,Villa,2830940,Buyer_7056,Seller_8506,1202,1.0,Lease,113237,Broker_236,Developer_98
+897da408-cfa6-4170-b8a0-6fde3ff622aa,2023-08-21,Jumeirah Beach Residence,Plot,424276,Buyer_7935,Seller_5198,3393,,Sale,16971,Broker_670,
+41b93cf1-b421-4864-b40f-0a7db3cac9b4,2023-10-20,Jumeirah Lake Towers,Villa,2574131,Buyer_1745,Seller_1087,2577,5.0,Mortgage,102965,Broker_490,
+b4f49c86-cfe5-42a5-96a5-02ff9292df10,2025-07-22,Jumeirah Beach Residence,Plot,479815,Buyer_3938,Seller_5264,6566,,Mortgage,19192,Broker_604,Developer_69
+98173eac-1290-4493-b99e-137786f87eab,2022-10-24,Dubai Investment Park,Apartment,737697,Buyer_8093,Seller_3323,2633,1.0,Lease,29507,Broker_145,Developer_73
+dbd2c6d2-d565-4f44-81dc-a17587d046b9,2023-05-18,City Walk,Plot,476207,Buyer_5635,Seller_5312,9642,,Mortgage,19048,Broker_420,
+8d41f0d8-0696-429a-9360-4d20ade1eedc,2023-01-12,Arabian Ranches,Townhouse,2188455,Buyer_3478,Seller_8208,935,2.0,Sale,87538,Broker_155,
+12522a8c-67f5-497e-9018-a2790bf494dc,2023-03-03,Dubai Marina,Office,1587882,Buyer_8150,Seller_2900,17217,,Sale,63515,Broker_552,
+a82097f4-a694-4387-9828-a164d43a354c,2025-02-26,Studio City,Office,1224518,Buyer_3425,Seller_3025,12455,,Sale,48980,Broker_308,Developer_33
+48a4cf6b-e26a-4b74-a5d0-c0f09ab41091,2024-04-04,Arabian Ranches,Plot,528058,Buyer_4479,Seller_1067,18236,,Mortgage,21122,Broker_284,
+966b35e9-aee8-46a2-b86c-b5a013e966b4,2025-04-04,Downtown Dubai,Villa,6188886,Buyer_6384,Seller_1425,2828,6.0,Mortgage,247555,Broker_224,
+c99b8330-994f-4013-9b17-9ce2ec9a591b,2025-08-16,Jumeirah Village Circle,Building,4632384,Buyer_2328,Seller_8540,16723,,Lease,185295,Broker_743,Developer_86
+58f643ef-45c2-419e-ac92-3f095a132e02,2023-04-01,Business Bay,Townhouse,3226484,Buyer_6323,Seller_3118,2231,1.0,Mortgage,129059,Broker_389,
+3a4d41f9-07e0-4263-9655-983b4edbf80b,2023-08-25,Dubai Marina,Plot,562130,Buyer_2516,Seller_7534,9361,,Sale,22485,Broker_345,Developer_61
+7773d72a-3737-439b-90d0-5cd9a86e7f98,2024-11-15,Downtown Dubai,Apartment,2074627,Buyer_7365,Seller_7592,2834,6.0,Mortgage,82985,Broker_257,
+3034297a-ecdc-4ab9-b856-025c7eb1487e,2024-01-18,Motor City,Building,5013254,Buyer_3151,Seller_6882,4149,,Lease,200530,Broker_624,
+c37bbaff-e0f8-4c6b-b07f-68e33cd2116d,2023-06-01,Discovery Gardens,Office,1240209,Buyer_2478,Seller_7922,13066,,Mortgage,49608,Broker_290,
+9eec6189-fee1-49b3-9b92-e27407afcacf,2023-11-15,International City,Apartment,582645,Buyer_8594,Seller_4673,5805,6.0,Mortgage,23305,Broker_258,Developer_77
+51e7440a-b0d7-4d66-84eb-0cf2df5dec35,2023-05-03,Sports City,Apartment,722793,Buyer_2297,Seller_8825,2960,2.0,Sale,28911,Broker_800,Developer_41
+2e030f30-1a43-42fc-a7d0-458190dc9811,2025-07-09,Sports City,Office,1088204,Buyer_2253,Seller_1738,17823,,Sale,43528,Broker_622,
+062c32c7-bc9d-4c91-b9a1-005d3cae2abb,2024-05-14,Jumeirah Village Circle,Office,1395118,Buyer_6823,Seller_5175,3679,,Mortgage,55804,Broker_116,
+96c90184-550b-4853-af4f-d2c596fdf8c9,2023-08-02,Discovery Gardens,Villa,3125809,Buyer_1741,Seller_2364,3909,6.0,Lease,125032,Broker_421,
+c4d2f3b4-6fad-4db9-8c5b-02d5f615f0aa,2024-04-20,Discovery Gardens,Building,5845909,Buyer_6592,Seller_4066,7916,,Sale,233836,Broker_180,Developer_87
+57eb43e4-ebd8-45ce-9aca-6aedbfaa52e8,2023-05-10,City Walk,Building,5856930,Buyer_9755,Seller_1293,1191,,Lease,234277,Broker_219,
+fb28c238-5bcb-4c83-9a49-bfbbdbf76efd,2023-01-22,Motor City,Office,1421117,Buyer_5961,Seller_6910,13943,,Lease,56844,Broker_189,
+5fd3b812-7048-4545-9f7e-f9bc55e102e7,2025-09-12,Business Bay,Villa,2529600,Buyer_4083,Seller_1439,2214,4.0,Mortgage,101184,Broker_248,
+8ab95eb3-6fbe-4fea-a5cd-c0fc1e64ba0c,2024-09-19,International City,Building,5691207,Buyer_2410,Seller_5930,16185,,Sale,227648,Broker_585,
+04ce5ebf-1cc1-48fb-b42e-ac31f81975d7,2023-04-17,Jumeirah Village Circle,Villa,3329226,Buyer_8947,Seller_8724,660,4.0,Mortgage,133169,Broker_348,
+5ff51a45-8d6c-4ea6-b350-43c628a89642,2025-03-18,Jumeirah Beach Residence,Apartment,746956,Buyer_8074,Seller_7810,7451,4.0,Mortgage,29878,Broker_692,
+3745de89-0dc7-4261-923d-2c8aef43e9d9,2023-07-19,Studio City,Townhouse,1306641,Buyer_8964,Seller_9410,5341,6.0,Mortgage,52265,Broker_794,Developer_72
+38b12240-8f73-4c3f-928d-5a4f5f365f92,2025-09-06,Dubai Hills Estate,Plot,519745,Buyer_7914,Seller_6174,19129,,Sale,20789,Broker_374,Developer_63
+370fcd99-6805-40b0-9bd3-1f75f911f9f0,2023-11-04,Motor City,Apartment,837081,Buyer_8345,Seller_8147,670,2.0,Lease,33483,Broker_843,
+2a0fb297-ba20-49e5-a91b-dcf7bc57c0e8,2024-07-22,Palm Jumeirah,Office,2587416,Buyer_6556,Seller_8675,5297,,Lease,103496,Broker_840,Developer_63
+c303636a-47a0-4840-a694-e74e0d9d613e,2024-11-17,Palm Jumeirah,Building,12882842,Buyer_4394,Seller_5627,3824,,Mortgage,515313,Broker_594,
+8a807f22-bd64-4bc4-89e2-fa55672bc2e4,2025-03-22,Emirates Living,Villa,2810060,Buyer_7815,Seller_9089,2987,2.0,Sale,112402,Broker_670,
+8dbc84e5-b56f-4ded-b8db-3b70a59eb3f7,2023-10-14,Business Bay,Townhouse,3080924,Buyer_3598,Seller_3862,7282,5.0,Sale,123236,Broker_926,
+59688656-1238-464e-a84b-34f9f1af9103,2025-02-09,International City,Apartment,905835,Buyer_4671,Seller_8968,2612,3.0,Lease,36233,Broker_887,
+3a32dc05-c958-4fd5-aac3-68393dee0207,2022-11-24,Studio City,Townhouse,2389360,Buyer_2706,Seller_1826,4086,4.0,Sale,95574,Broker_208,Developer_88
+f022552f-c3be-4726-8e4e-3dde4316895c,2022-12-11,Jumeirah Village Circle,Building,5468655,Buyer_2727,Seller_3736,4868,,Sale,218746,Broker_470,
+f77ac79b-720e-45e9-9f43-690adebfaf00,2022-12-13,DIFC,Plot,908156,Buyer_9165,Seller_2626,6055,,Mortgage,36326,Broker_472,
+4a406476-4ccf-4b95-bdbf-27a5e0b4fd57,2023-04-29,Dubai Investment Park,Apartment,1035213,Buyer_7811,Seller_1107,2509,4.0,Lease,41408,Broker_393,
+b3d005a7-7667-4f9b-9111-ad5014674cab,2023-06-18,Downtown Dubai,Townhouse,3458539,Buyer_6908,Seller_5021,1741,5.0,Lease,138341,Broker_906,
+d2f29298-e286-40dd-9281-87bd4a0181b9,2023-03-20,International City,Office,1611136,Buyer_9456,Seller_6927,1975,,Lease,64445,Broker_249,Developer_76
+8e8aa130-7180-4067-95a4-904fb1b64213,2023-07-15,Downtown Dubai,Apartment,1498900,Buyer_3692,Seller_8111,1003,4.0,Sale,59956,Broker_776,Developer_29
+bc394262-25f7-435b-a64e-de1d6450ad66,2022-11-15,Dubai Marina,Plot,1039524,Buyer_5845,Seller_7869,14172,,Mortgage,41580,Broker_817,
+bcdfc2fb-077e-414f-a07c-a7218fb057b7,2023-11-10,DIFC,Plot,1097899,Buyer_1129,Seller_5583,18294,,Mortgage,43915,Broker_250,Developer_67
+0f90bd97-ba26-49ac-b75e-40d2bde7c84f,2023-04-23,Emirates Living,Retail,1023346,Buyer_6656,Seller_7627,7464,,Lease,40933,Broker_186,
+45b6e7a2-1ec5-4140-b4e5-1302bb17f648,2025-01-29,Jumeirah Lake Towers,Office,1449082,Buyer_9527,Seller_9860,10303,,Sale,57963,Broker_195,
+5305fd2e-c499-4fed-a102-91d7b0587c1b,2024-11-21,DIFC,Retail,1520363,Buyer_1383,Seller_1456,18692,,Mortgage,60814,Broker_364,
+a2d8a7c4-e72b-4be1-ac05-25c1ad803459,2022-12-15,DIFC,Plot,896329,Buyer_2809,Seller_1982,13221,,Lease,35853,Broker_742,
+d54c90b1-ba48-48c3-99d0-3e1b964ea2b4,2025-02-01,Jumeirah Village Circle,Apartment,983673,Buyer_8352,Seller_5881,5189,6.0,Sale,39346,Broker_564,
+1d5c4fc6-0259-419c-9e06-8ff241bd2ae8,2022-10-18,Dubai Hills Estate,Building,8554214,Buyer_4831,Seller_6739,10804,,Lease,342168,Broker_782,Developer_83
+2ba2f30d-df38-4e4a-9f9d-ca4189f13d04,2024-05-25,Dubai Investment Park,Plot,482183,Buyer_2724,Seller_6371,17923,,Mortgage,19287,Broker_297,Developer_56
+08d0b33d-138c-448f-9d1d-bfccd580dfa2,2023-05-27,Discovery Gardens,Apartment,642069,Buyer_7751,Seller_2342,1255,1.0,Lease,25682,Broker_233,
+85ca82c9-a7cc-4f85-a151-48989daa4300,2022-11-02,Discovery Gardens,Apartment,766804,Buyer_7598,Seller_9502,6880,4.0,Lease,30672,Broker_698,
+2083ebdf-818d-488f-80ff-ef17e7025eca,2023-01-16,International City,Office,1418775,Buyer_7830,Seller_3668,5729,,Mortgage,56751,Broker_230,
+0d4fc4ba-65b4-43f4-91d9-a0a4836fe714,2022-11-28,Discovery Gardens,Villa,3444055,Buyer_9669,Seller_2934,6189,2.0,Lease,137762,Broker_584,
+d4446061-2260-45b8-820f-37c2359282ce,2025-02-13,Arabian Ranches,Retail,862679,Buyer_7694,Seller_2807,4960,,Lease,34507,Broker_685,
+da1ab02c-e8df-40ab-aa2d-a25b1b70a6da,2024-01-29,Sports City,Villa,1956048,Buyer_7135,Seller_5968,2908,4.0,Sale,78241,Broker_910,
+a20ffe8f-dcfd-4a3e-93fd-c4f9d056e3c5,2024-01-29,International City,Apartment,1084619,Buyer_5644,Seller_4532,1999,6.0,Lease,43384,Broker_102,
+18e10378-9b6b-47e6-86ad-bbdc994797d5,2023-06-12,Palm Jumeirah,Apartment,2618597,Buyer_8883,Seller_6074,5134,4.0,Lease,104743,Broker_900,
+d49b0d16-e0dc-4043-af9e-8b2b4b7a3910,2023-03-16,Dubai Investment Park,Building,3984828,Buyer_8371,Seller_8357,5881,,Mortgage,159393,Broker_433,
+567be592-774d-4fce-bb5b-f77ccb034bce,2023-07-28,International City,Office,1035570,Buyer_6554,Seller_9863,2501,,Mortgage,41422,Broker_553,Developer_92
+697cdc51-655b-49bb-9ec7-4d6a16ee7b36,2025-08-25,Downtown Dubai,Building,8159303,Buyer_6060,Seller_3028,19328,,Sale,326372,Broker_297,Developer_79
+3d32b250-001a-4a6a-93f7-1d97b995f274,2023-02-13,Dubai Marina,Retail,1438057,Buyer_9235,Seller_1305,4941,,Mortgage,57522,Broker_644,
+7304df54-29e0-4a83-bcb5-becdbc9effa7,2024-05-30,Business Bay,Townhouse,2926708,Buyer_8278,Seller_2386,7110,5.0,Mortgage,117068,Broker_428,
+41e00660-3a6d-49e7-b976-6e4bfa88e333,2025-08-28,Dubai Marina,Office,2346087,Buyer_6569,Seller_8160,6914,,Lease,93843,Broker_124,Developer_50
+01b89b7a-8ffa-4bdf-b7b6-7407114fbfbc,2025-03-25,Jumeirah Beach Residence,Townhouse,1374691,Buyer_9876,Seller_3755,2837,2.0,Sale,54987,Broker_361,Developer_29
+59087a5d-d90c-4498-ba7d-339d0748bcb9,2025-06-16,DIFC,Office,2538056,Buyer_6329,Seller_3973,1890,,Mortgage,101522,Broker_159,
+84b7624e-d445-460b-ab07-e41d68420df7,2023-12-21,Jumeirah Village Circle,Townhouse,1439500,Buyer_5225,Seller_7152,7280,1.0,Sale,57580,Broker_307,
+402181f1-268a-4956-8b01-9c7139224675,2022-12-16,Dubai Hills Estate,Office,1774138,Buyer_7308,Seller_2885,9824,,Sale,70965,Broker_425,
+a61b3d65-49be-4ca4-a3dd-59dc6463caa7,2023-07-03,International City,Apartment,831136,Buyer_4829,Seller_1305,2704,5.0,Mortgage,33245,Broker_791,
+3e9cefcd-eebb-4ca4-aae4-bd8e6fe96573,2024-01-30,Studio City,Plot,624824,Buyer_7664,Seller_8306,3749,,Mortgage,24992,Broker_612,
+8b1a4ee8-6239-4199-88a6-f076aad7ded3,2024-11-04,Dubai Investment Park,Townhouse,1940954,Buyer_5016,Seller_9806,3971,5.0,Lease,77638,Broker_142,
+23e87bd0-7ef4-4f03-bd55-20e140a82a2c,2024-11-06,Discovery Gardens,Building,5672554,Buyer_1008,Seller_1985,16800,,Lease,226902,Broker_712,
+6574cc23-8ff7-415e-9d56-9afcbce71458,2024-08-05,Jumeirah Beach Residence,Townhouse,2321472,Buyer_9361,Seller_5609,872,2.0,Mortgage,92858,Broker_646,
+05bf3907-c6f5-418c-a80d-a49021d35321,2025-02-05,DIFC,Apartment,1406467,Buyer_3288,Seller_5578,7694,4.0,Sale,56258,Broker_725,
+11358d72-da39-49d6-9f00-80fcb279277a,2024-04-27,Jumeirah Lake Towers,Plot,680892,Buyer_8417,Seller_5473,9058,,Mortgage,27235,Broker_429,
+d777b0f8-3656-4db0-9a96-3849c83c2615,2025-01-14,Discovery Gardens,Retail,836928,Buyer_1033,Seller_8807,1140,,Sale,33477,Broker_788,
+6ef4341d-afbd-4ff3-977b-8f289b31fe83,2023-08-02,Studio City,Plot,596154,Buyer_9816,Seller_2329,3540,,Mortgage,23846,Broker_131,Developer_95
+49cc5d24-94ca-4e11-a415-4dc8fcf0e4bf,2023-09-05,Discovery Gardens,Plot,393195,Buyer_6864,Seller_7336,6806,,Mortgage,15727,Broker_108,
+d7d4e36c-30e6-4c97-b658-9fd4b18dd3be,2024-07-18,Palm Jumeirah,Villa,6320027,Buyer_1324,Seller_5606,6075,6.0,Lease,252801,Broker_296,
+50d5d2ff-31be-424c-8502-2cfcee95499b,2024-06-22,DIFC,Building,10822200,Buyer_9090,Seller_6947,2205,,Lease,432888,Broker_604,Developer_87
+628a77c4-9e5b-447d-bb5a-f49d4c76c774,2023-07-26,Emirates Living,Apartment,669808,Buyer_2817,Seller_5544,5162,5.0,Lease,26792,Broker_274,
+a4848e8d-d15d-430c-9c3e-67004e3d178f,2025-06-03,Arabian Ranches,Apartment,889372,Buyer_3087,Seller_5253,5168,2.0,Mortgage,35574,Broker_846,Developer_34
+11d8f66f-2afd-4034-9380-c8f4ac9b7572,2024-05-15,Business Bay,Plot,763369,Buyer_8437,Seller_1032,14995,,Mortgage,30534,Broker_789,Developer_16
+201e9bd3-402c-4cad-bee6-4096ec993004,2023-07-04,Jumeirah Lake Towers,Office,1549246,Buyer_5489,Seller_2994,17983,,Lease,61969,Broker_607,
+832762b3-80bb-4cbc-bf33-78adfbea2b9a,2024-03-24,Dubai Marina,Plot,642887,Buyer_7882,Seller_9723,15708,,Lease,25715,Broker_105,
+851eed6f-8c91-425b-8dec-4b8072db4002,2025-08-24,Jumeirah Lake Towers,Apartment,1052855,Buyer_4696,Seller_7943,1109,2.0,Sale,42114,Broker_268,
+fc9c7077-18a8-48bc-a8e6-fa98381ec9be,2025-08-18,Downtown Dubai,Plot,1137706,Buyer_8863,Seller_8077,1787,,Mortgage,45508,Broker_916,
+0326521a-a7da-4aee-8806-3a64fe97eb90,2025-03-08,Jumeirah Lake Towers,Building,4376433,Buyer_8759,Seller_4905,12167,,Sale,175057,Broker_941,
+5a6deb7a-41a1-4cce-83dd-488cfcb88d23,2023-04-30,Dubai Hills Estate,Apartment,1392187,Buyer_2567,Seller_8314,5242,1.0,Sale,55687,Broker_162,Developer_58
+b91ec2f3-f236-4b81-9ba2-93ec6e53cc0b,2025-01-26,Jumeirah Lake Towers,Building,5926772,Buyer_2015,Seller_8240,2795,,Lease,237070,Broker_725,
+7fea7a26-2933-4f83-bef3-d1ff34bf51d3,2025-06-30,Downtown Dubai,Apartment,1878872,Buyer_5831,Seller_7249,3790,1.0,Mortgage,75154,Broker_870,
+634092b1-7422-41f4-830e-ddad261bb425,2023-05-22,Business Bay,Office,1511240,Buyer_2659,Seller_6564,1851,,Lease,60449,Broker_629,
+2e09ff51-726d-40c3-bb92-27b0a60eed3a,2025-05-29,Emirates Living,Apartment,617506,Buyer_4172,Seller_3064,5721,5.0,Lease,24700,Broker_463,
+1cff9591-07fd-4783-99ee-281e22bedb0e,2025-07-16,Discovery Gardens,Villa,2175516,Buyer_1991,Seller_3091,3053,5.0,Lease,87020,Broker_625,Developer_55
+724f5683-e8fe-4cc6-a294-de908ff6e6f4,2024-12-20,DIFC,Retail,2137841,Buyer_3415,Seller_8692,11114,,Mortgage,85513,Broker_451,
+c861b966-c4c8-4075-91af-ef774315154e,2024-12-22,Business Bay,Retail,1299294,Buyer_1939,Seller_4889,17616,,Mortgage,51971,Broker_979,
+315cde7f-aba2-41e0-989d-1c1fa09b0068,2024-08-28,Palm Jumeirah,Villa,8647234,Buyer_2120,Seller_6595,2051,6.0,Lease,345889,Broker_811,
+80202d19-24ec-47af-bd45-d1004ed13468,2023-11-27,Discovery Gardens,Retail,1066220,Buyer_5909,Seller_7859,11768,,Sale,42648,Broker_207,
+12530cf0-158b-4eed-8c31-985b35446fc6,2025-10-07,Dubai Marina,Office,1536451,Buyer_4654,Seller_4772,16287,,Mortgage,61458,Broker_318,
+6a703dae-d0ce-4109-ba28-948e90494cdf,2024-08-20,Jumeirah Lake Towers,Building,6090284,Buyer_7558,Seller_4018,1220,,Lease,243611,Broker_110,
+30d6587c-c14f-471e-8a21-861e09ec8625,2024-02-27,Business Bay,Retail,913340,Buyer_8215,Seller_4185,12793,,Sale,36533,Broker_130,
+b0c7bd01-3585-42ef-960c-4d0b74c86714,2024-04-26,DIFC,Villa,3839676,Buyer_3855,Seller_6567,7443,5.0,Sale,153587,Broker_282,
+47bf5b4e-08b9-4623-a47f-b59e7a92e509,2025-03-21,Arabian Ranches,Building,4416260,Buyer_1343,Seller_3248,13416,,Mortgage,176650,Broker_906,Developer_53
+ff5bdcc5-0e52-4360-9c79-077ffcf1cb33,2023-09-18,Emirates Living,Townhouse,1834816,Buyer_7100,Seller_3807,4816,5.0,Lease,73392,Broker_999,Developer_25
+4b0dd440-be75-4392-835a-f596b6d87126,2024-09-17,Dubai Investment Park,Villa,3141071,Buyer_9725,Seller_7196,6188,3.0,Lease,125642,Broker_713,
+5ad0663e-f447-447e-b061-463977555395,2024-09-22,Dubai Hills Estate,Apartment,1382256,Buyer_9773,Seller_5819,6968,2.0,Lease,55290,Broker_353,
+1b4586c6-17b9-47d4-839b-0413b3176275,2022-12-09,City Walk,Building,3942604,Buyer_9011,Seller_4428,3667,,Lease,157704,Broker_909,
+88c60fe5-534e-44ef-8ae3-f50c4492cd2e,2022-12-07,Downtown Dubai,Villa,5280148,Buyer_7131,Seller_9168,4750,4.0,Sale,211205,Broker_429,Developer_77
+17a73499-51ae-48b4-9940-5e5cb02ae460,2023-02-17,Motor City,Plot,684513,Buyer_5396,Seller_7569,2199,,Sale,27380,Broker_324,Developer_67
+025987bc-289a-4672-9d1f-454646fb7580,2023-05-28,Dubai Hills Estate,Office,1433066,Buyer_7178,Seller_3575,13258,,Lease,57322,Broker_663,
+835f3426-6ce7-42b4-a7aa-8d9bbc4f273b,2023-10-25,Downtown Dubai,Townhouse,3640153,Buyer_4771,Seller_1674,4311,5.0,Mortgage,145606,Broker_444,
+0c982b3e-85d6-413b-8707-0aeec402cb32,2022-12-31,Discovery Gardens,Office,1183520,Buyer_6194,Seller_5473,13529,,Sale,47340,Broker_283,
+05befe4d-1b17-4d30-9f2f-1e2e2cddda70,2025-04-29,City Walk,Plot,376560,Buyer_5825,Seller_9220,17803,,Mortgage,15062,Broker_759,
+636a57c4-7db9-42eb-8c19-7f3cb24f7e75,2025-05-21,City Walk,Villa,1922215,Buyer_6902,Seller_1627,4973,2.0,Lease,76888,Broker_301,
+3dd616ae-2e38-44da-82bc-eca89834c6f9,2024-03-31,City Walk,Townhouse,2198966,Buyer_4123,Seller_3258,7504,6.0,Mortgage,87958,Broker_656,Developer_11
+b0e9c95c-9676-4eef-803f-daeaffe5b1fc,2023-07-10,DIFC,Townhouse,4132996,Buyer_7647,Seller_1194,4366,6.0,Mortgage,165319,Broker_879,Developer_60
+e00fbbad-12c6-49dc-8bbb-51a52f7c0131,2024-08-11,Dubai Hills Estate,Villa,4222172,Buyer_8773,Seller_4829,4725,5.0,Mortgage,168886,Broker_875,
+852dfa0f-9a09-4eb2-8b9f-48e6a2f1ba74,2024-01-12,Discovery Gardens,Townhouse,2257812,Buyer_4077,Seller_8025,6808,6.0,Lease,90312,Broker_314,
+276a6f01-fb82-4d21-92a0-4a6a0fd5c352,2025-01-25,Studio City,Apartment,769832,Buyer_6006,Seller_1158,4594,6.0,Lease,30793,Broker_447,
+f05ac5bd-9186-49c3-99cf-86ff4c522029,2024-02-09,International City,Plot,613419,Buyer_6342,Seller_1380,19598,,Sale,24536,Broker_242,
+d29c5844-2838-401f-a2e9-74b3f98be2c3,2023-08-06,Jumeirah Lake Towers,Retail,1026798,Buyer_7247,Seller_4345,13800,,Sale,41071,Broker_647,
+1f98d511-9d57-4349-b9f5-a405365eac90,2023-04-04,Motor City,Apartment,744151,Buyer_5991,Seller_2527,1904,1.0,Mortgage,29766,Broker_666,
+2cd29dc8-4c9c-4229-be7c-1864af224127,2025-05-25,Motor City,Apartment,664547,Buyer_7322,Seller_5650,2186,2.0,Lease,26581,Broker_775,
+eb512568-1204-4d5b-9ba3-67fd6a7f2581,2025-09-22,Discovery Gardens,Apartment,766445,Buyer_3815,Seller_6353,7542,4.0,Lease,30657,Broker_260,Developer_26
+f99577f5-77b2-42a0-945f-04830e8cdab1,2025-05-27,Studio City,Office,1241730,Buyer_7373,Seller_4382,5257,,Sale,49669,Broker_417,
+bedc96b8-13d9-4158-8903-fde2d661caf1,2024-01-18,Motor City,Villa,2806491,Buyer_4325,Seller_9232,6371,6.0,Lease,112259,Broker_382,
+87eb568f-bda3-4ec0-8266-95e53af0422b,2023-07-20,Dubai Investment Park,Office,893734,Buyer_5044,Seller_9615,11777,,Mortgage,35749,Broker_602,
+e13d224c-0a56-4319-8e7c-16cb6ea5b2c2,2023-03-25,Dubai Marina,Plot,572828,Buyer_6681,Seller_5873,13815,,Mortgage,22913,Broker_943,Developer_32
+ebcce532-59f7-47bc-87c7-d09537b6a894,2023-05-14,International City,Villa,2064261,Buyer_8501,Seller_7302,7961,6.0,Sale,82570,Broker_815,
+615eb697-72cd-4ec5-8c41-36247beb589b,2024-06-11,Jumeirah Beach Residence,Plot,680990,Buyer_3587,Seller_5485,18620,,Lease,27239,Broker_782,Developer_99
+e44abac1-c477-4012-944e-38355609af27,2025-02-08,Emirates Living,Office,1185473,Buyer_7041,Seller_2253,4447,,Mortgage,47418,Broker_884,Developer_62
+010011e5-0464-49dd-8602-e6f3bc4addb7,2022-12-13,Discovery Gardens,Villa,2192341,Buyer_1731,Seller_8572,718,1.0,Mortgage,87693,Broker_811,
+b93edc17-abe6-40b3-b057-da0792a65e3e,2023-07-20,Discovery Gardens,Office,1128672,Buyer_4185,Seller_7499,2237,,Sale,45146,Broker_356,
+8df3513d-7950-4888-9891-a6461226a0a4,2023-03-09,Dubai Investment Park,Townhouse,2104572,Buyer_8942,Seller_8558,1058,1.0,Mortgage,84182,Broker_772,
+d6240f4e-049a-48d8-ae13-c4e4fc2dae3f,2024-03-22,Discovery Gardens,Villa,2573878,Buyer_3643,Seller_3794,7368,1.0,Mortgage,102955,Broker_202,
+65ecd4fb-fae6-4ad7-ac52-f64e75d49b2d,2024-11-04,Jumeirah Village Circle,Retail,1097111,Buyer_2271,Seller_1183,9953,,Sale,43884,Broker_551,
+8904cb8e-4d0e-4e44-8b1c-431828f20c9b,2022-10-20,Emirates Living,Plot,362055,Buyer_4541,Seller_8242,2564,,Mortgage,14482,Broker_930,
+82c7dec7-e3ac-4603-9003-e9c9e17c5ddc,2023-04-19,Jumeirah Village Circle,Office,1419891,Buyer_1858,Seller_1076,2594,,Lease,56795,Broker_885,
+88565ab3-625c-4a7b-8896-474309bc4682,2024-08-31,Dubai Hills Estate,Townhouse,3367046,Buyer_2497,Seller_1262,3954,1.0,Sale,134681,Broker_445,Developer_97
+e4e10ebf-288f-4656-ae2b-700659897bd1,2025-03-31,Downtown Dubai,Villa,6855608,Buyer_3750,Seller_3736,860,4.0,Mortgage,274224,Broker_210,Developer_51
+ee968e7c-1493-4b65-9a1b-81e94da16f35,2024-08-16,Studio City,Plot,416341,Buyer_9875,Seller_7472,15020,,Sale,16653,Broker_337,
+8cb86c4a-bf63-43ba-b4b8-fd6ea478b958,2023-07-14,Palm Jumeirah,Townhouse,3696907,Buyer_6181,Seller_1196,3688,2.0,Lease,147876,Broker_325,
+ae041ad1-9251-4d31-92dd-b75335ae4aed,2025-07-17,City Walk,Plot,568368,Buyer_2103,Seller_4580,14470,,Lease,22734,Broker_885,
+1f268ac2-cb22-402e-b00b-f21b063e5a4a,2024-10-28,Jumeirah Village Circle,Plot,537663,Buyer_5127,Seller_2552,11628,,Mortgage,21506,Broker_813,
+862d151a-0604-4201-accb-7e43ae959489,2024-01-02,Dubai Investment Park,Townhouse,1480917,Buyer_8899,Seller_2106,3245,1.0,Mortgage,59236,Broker_699,
+ded1a6b1-4d72-4e3e-988e-745f5333e968,2022-12-18,Sports City,Plot,609634,Buyer_1217,Seller_4811,1695,,Mortgage,24385,Broker_877,Developer_49
+f7d69661-a517-4594-9091-928ede98cef9,2024-06-03,Dubai Hills Estate,Plot,699963,Buyer_2300,Seller_1981,5507,,Lease,27998,Broker_610,
+d5564271-6625-47e8-90a8-75f49b9fda76,2025-07-29,Dubai Investment Park,Office,1011683,Buyer_4900,Seller_8270,11770,,Sale,40467,Broker_384,
+8bdcdf04-d527-4e26-a31b-49ec2873bfac,2023-06-18,Dubai Marina,Retail,1693231,Buyer_5726,Seller_1388,8504,,Mortgage,67729,Broker_439,
+1a26aba9-8825-4811-93c5-cf3a289fb4d2,2024-05-24,Emirates Living,Retail,664066,Buyer_4644,Seller_7250,18087,,Lease,26562,Broker_287,
+17164670-bfa6-4392-b25d-63e9fd85cb8e,2025-05-24,Business Bay,Apartment,1361262,Buyer_4153,Seller_1853,5696,2.0,Sale,54450,Broker_228,
+fed8fa17-484b-4351-b9c5-da744c436c18,2024-08-22,Studio City,Building,6283315,Buyer_4871,Seller_9313,3561,,Lease,251332,Broker_842,
+faa4cb2e-76d0-4a8f-b4ab-5d286dd02df5,2023-05-30,Arabian Ranches,Plot,419137,Buyer_3890,Seller_5079,10932,,Lease,16765,Broker_690,
+a4f16514-ae9b-423b-bf7f-9e02bc1ca536,2023-02-02,Emirates Living,Townhouse,2346656,Buyer_2310,Seller_6891,3762,4.0,Sale,93866,Broker_582,
+91b3e90e-33ae-45e8-9676-218103819110,2024-11-29,Sports City,Retail,1093004,Buyer_8897,Seller_1324,13498,,Lease,43720,Broker_974,
+78240242-dd49-4ad7-8b0f-9b3767263d0c,2024-10-20,DIFC,Retail,1743182,Buyer_5215,Seller_7233,16192,,Lease,69727,Broker_564,
+98fd0b81-c40b-4e31-8810-88645282362b,2023-12-02,Studio City,Retail,932931,Buyer_3238,Seller_8688,7413,,Sale,37317,Broker_294,
+4a191990-e299-4fb0-973a-fe6e35c6cef3,2023-01-12,Sports City,Plot,603870,Buyer_7628,Seller_7812,13931,,Mortgage,24154,Broker_482,
+dfcb4077-1ee5-40a8-8e58-7985df1f7998,2025-05-22,DIFC,Plot,1252138,Buyer_7697,Seller_1636,5078,,Lease,50085,Broker_679,
+3de84684-f0f5-4d92-8c82-f3a37051b17e,2023-11-01,International City,Townhouse,2231800,Buyer_9349,Seller_9005,5701,6.0,Lease,89272,Broker_813,
+cefbee24-d92c-4239-bca4-e6b0b5dad510,2024-06-05,Jumeirah Beach Residence,Office,1457957,Buyer_8827,Seller_1565,12842,,Mortgage,58318,Broker_823,
+f9b9ad0f-6c97-42fb-b800-0d4bda0293f9,2024-12-17,Dubai Investment Park,Townhouse,2022848,Buyer_5166,Seller_5053,5432,5.0,Mortgage,80913,Broker_961,
+711b7000-991b-4e55-9847-2c53869c8939,2023-08-19,Jumeirah Village Circle,Building,3823070,Buyer_7515,Seller_2316,17991,,Sale,152922,Broker_997,
+dda5801e-32da-4957-b0ae-8e9df964d875,2022-12-24,International City,Townhouse,2131714,Buyer_9735,Seller_7271,5301,3.0,Mortgage,85268,Broker_521,Developer_21
+5faeecd1-068e-44dd-80dc-ece70850da76,2023-11-09,Jumeirah Village Circle,Plot,550414,Buyer_3338,Seller_5407,7865,,Mortgage,22016,Broker_507,
+f4a5c03d-32e1-41de-b15d-17ba39192e23,2025-10-11,Business Bay,Villa,4132285,Buyer_2587,Seller_2144,6838,6.0,Lease,165291,Broker_637,
+f1a57d7f-197b-4062-923c-b29bbb981ed5,2024-10-18,DIFC,Plot,901498,Buyer_7138,Seller_4053,5401,,Sale,36059,Broker_598,
+4e2a18db-15cf-496e-8089-b534cce60be4,2024-08-05,Jumeirah Village Circle,Office,1316357,Buyer_4041,Seller_4292,2932,,Mortgage,52654,Broker_287,Developer_34
+c8ddaa65-3da1-4718-aae1-e59ff5e0d1ff,2025-03-05,City Walk,Building,4930773,Buyer_3721,Seller_2307,10605,,Sale,197230,Broker_486,
+af24045f-2808-4ce6-83b2-c364f1045b88,2024-06-21,Downtown Dubai,Townhouse,2594759,Buyer_8829,Seller_8949,6011,1.0,Sale,103790,Broker_162,
+b9bb65da-c353-4e25-84ad-521880b93e3d,2025-07-21,Business Bay,Plot,720012,Buyer_2586,Seller_4458,18115,,Sale,28800,Broker_484,
+44232261-2516-4632-b173-015145248a93,2023-11-24,City Walk,Office,1237514,Buyer_8036,Seller_6514,13149,,Mortgage,49500,Broker_451,Developer_40
+dc4377dd-5653-4d94-80c0-9332cdee72ff,2025-06-19,Palm Jumeirah,Plot,1223662,Buyer_6833,Seller_6410,4282,,Sale,48946,Broker_567,Developer_61
+8ea8dbba-7cb8-4ac2-a8c6-75c15cabc5eb,2022-10-24,Dubai Investment Park,Apartment,897069,Buyer_5578,Seller_5072,3518,4.0,Mortgage,35882,Broker_802,
+8a9013bd-41e4-4e02-8459-43bade9dce54,2024-09-25,Motor City,Retail,890269,Buyer_1051,Seller_6278,1544,,Mortgage,35610,Broker_468,Developer_51
+94a11aef-292c-491b-b5b2-9a0046b661ed,2023-07-18,Discovery Gardens,Villa,2811835,Buyer_2333,Seller_6707,4005,4.0,Mortgage,112473,Broker_977,
+5a58705e-59d7-4d46-8360-5f4e0f26fe52,2024-09-10,Jumeirah Village Circle,Plot,484700,Buyer_3345,Seller_9520,19739,,Mortgage,19388,Broker_616,
+71d39aef-a337-468c-8b74-c76bb5a06070,2023-03-03,Motor City,Building,3804814,Buyer_3753,Seller_8311,4790,,Lease,152192,Broker_778,
+e4267842-6277-4743-bc18-b17450fe49ae,2025-04-14,Dubai Hills Estate,Villa,2867560,Buyer_2728,Seller_8125,6363,1.0,Sale,114702,Broker_434,Developer_45
+38abf73c-9ee2-45dd-985c-6394bff1f5ba,2023-02-12,Dubai Hills Estate,Plot,616237,Buyer_3016,Seller_3224,18515,,Mortgage,24649,Broker_842,
+41087e7b-2338-4d2f-bffb-69ada4a0401e,2025-06-04,Jumeirah Lake Towers,Building,4283321,Buyer_6623,Seller_7176,13505,,Mortgage,171332,Broker_757,Developer_65
+2769d35f-b9b9-49be-9d07-9e781ac94e3a,2024-02-27,Dubai Hills Estate,Villa,3084780,Buyer_2436,Seller_2824,1230,3.0,Mortgage,123391,Broker_706,Developer_24
+93d94b6e-e185-4b85-85d0-3177bc722dd3,2023-08-28,Palm Jumeirah,Villa,8108320,Buyer_1027,Seller_6092,1006,5.0,Mortgage,324332,Broker_294,Developer_64
+41993f5a-0497-4c14-9ee3-c55bd1f772c7,2025-01-29,Jumeirah Lake Towers,Building,4777583,Buyer_9515,Seller_4639,4492,,Lease,191103,Broker_109,
+53d89633-a581-4109-8b72-ec534d716725,2024-02-15,Discovery Gardens,Townhouse,1442322,Buyer_4586,Seller_9189,6070,4.0,Sale,57692,Broker_715,
+c6f0ced6-5b6d-490c-a894-cc33012b2413,2022-12-21,Dubai Marina,Retail,1247531,Buyer_3022,Seller_5480,19807,,Lease,49901,Broker_746,Developer_73
+b3d9ddfa-7539-4ff2-847b-d62a3a61019c,2025-06-16,DIFC,Plot,1238892,Buyer_6458,Seller_3501,7901,,Mortgage,49555,Broker_929,
+3109f90b-5ebd-4ed3-b569-3d2dd365f0e1,2023-01-20,Dubai Marina,Building,9324203,Buyer_7419,Seller_5900,6216,,Sale,372968,Broker_661,
+78fdcf7f-45b1-4f38-8ccd-3ff3109c3185,2023-11-01,International City,Plot,515697,Buyer_7412,Seller_7407,3353,,Mortgage,20627,Broker_844,
+21ebf70a-debe-48b7-a0cc-2381d9e7d171,2023-07-31,Emirates Living,Plot,649688,Buyer_2594,Seller_3144,11597,,Mortgage,25987,Broker_986,Developer_48
+175fa387-ee1e-4d18-915a-4f3f2be703ff,2025-01-06,Discovery Gardens,Plot,407293,Buyer_8239,Seller_8904,10538,,Sale,16291,Broker_314,
+16b38a11-6e19-43b7-99f2-98b7671b01e3,2023-10-04,Emirates Living,Plot,577933,Buyer_2670,Seller_3418,13338,,Lease,23117,Broker_795,Developer_17
+d51126f3-4570-4caa-bdd1-44d9216b7661,2024-10-12,Jumeirah Village Circle,Townhouse,2487440,Buyer_1859,Seller_2922,4722,6.0,Lease,99497,Broker_707,
+51d407e1-52b5-485c-b902-b91bce6512af,2024-05-31,Dubai Investment Park,Plot,602892,Buyer_1556,Seller_2946,8892,,Lease,24115,Broker_600,
+eb3a01cb-d1e8-4d01-952c-9dda8e76fba2,2025-04-14,Arabian Ranches,Plot,610820,Buyer_8596,Seller_7260,10018,,Mortgage,24432,Broker_768,
+aa294d9a-4e85-40bc-9f27-bc129966b39f,2025-02-07,Business Bay,Apartment,812904,Buyer_9015,Seller_9351,2342,1.0,Mortgage,32516,Broker_686,Developer_71
+27dc005b-1aca-490e-a2f3-b5e31a66ca93,2024-10-09,City Walk,Plot,610875,Buyer_7290,Seller_8932,15210,,Lease,24435,Broker_685,
+60242d1e-8482-42e5-bdf9-eb1905aaebc8,2024-10-01,Jumeirah Lake Towers,Apartment,959710,Buyer_7640,Seller_1323,3725,5.0,Mortgage,38388,Broker_902,Developer_72
+beebfcec-7de9-4e41-b101-2b4aea368c82,2025-02-02,Downtown Dubai,Retail,2314801,Buyer_4399,Seller_2922,6920,,Mortgage,92592,Broker_811,
+71b0d03b-3942-47a8-8ccb-436cc8e66cdf,2025-02-05,Studio City,Office,1512430,Buyer_1641,Seller_3110,19844,,Sale,60497,Broker_768,
+4ade61dd-eab0-4c34-87cd-180b4fb6189d,2025-08-04,Studio City,Townhouse,2332827,Buyer_2386,Seller_3043,4646,3.0,Lease,93313,Broker_657,
+2161b215-59e3-4e8f-b30b-32556f81934f,2022-11-16,Business Bay,Villa,2958864,Buyer_5807,Seller_9750,4144,2.0,Mortgage,118354,Broker_602,
+084674f4-5675-4c1b-a660-c4e6f02c2639,2022-12-04,Sports City,Townhouse,2023776,Buyer_4438,Seller_2622,5928,1.0,Sale,80951,Broker_137,
+6e661b63-7930-4f6c-9e1a-f71bbd747fdf,2025-01-13,DIFC,Building,11545555,Buyer_4539,Seller_6882,10089,,Sale,461822,Broker_846,
+14e4a1f7-3b33-431d-b131-9811b185e035,2023-08-25,Downtown Dubai,Retail,1581258,Buyer_3675,Seller_7554,15944,,Sale,63250,Broker_360,
+e7772b18-3df6-4dc9-b853-9f1dd3f9cfe9,2024-04-11,Dubai Investment Park,Retail,758370,Buyer_4156,Seller_7097,19469,,Mortgage,30334,Broker_763,Developer_87
+6d537b92-07a5-4b2d-96e5-7c72bcd5b75d,2024-01-06,Arabian Ranches,Office,1530116,Buyer_8104,Seller_7208,1849,,Mortgage,61204,Broker_353,
+7db678eb-4690-4ba7-a47a-79270e35f271,2023-07-04,Jumeirah Village Circle,Retail,699293,Buyer_2080,Seller_6396,3915,,Lease,27971,Broker_441,Developer_28
+ba18d3c9-d39b-4632-9879-6806548a65a5,2023-09-03,Dubai Hills Estate,Townhouse,1781398,Buyer_4640,Seller_7203,1360,1.0,Sale,71255,Broker_639,Developer_49
+ed0d2ab9-b78c-4823-9311-b76dbe4c0c07,2024-03-16,Motor City,Apartment,856217,Buyer_5440,Seller_2623,7844,1.0,Sale,34248,Broker_425,Developer_59
+631c9a23-68a9-4dcc-a61c-ba544c99c4c8,2022-10-22,Arabian Ranches,Townhouse,2275667,Buyer_7597,Seller_8812,5352,2.0,Lease,91026,Broker_109,
+7e1ef126-2288-472c-b7b9-7efacc3e080e,2023-08-31,Dubai Investment Park,Plot,394228,Buyer_5380,Seller_1866,13129,,Mortgage,15769,Broker_896,
+051321bc-9c58-461f-803f-7565101b4e45,2023-04-30,International City,Plot,510225,Buyer_6799,Seller_8678,17457,,Lease,20409,Broker_382,Developer_76
+9e641b87-6516-4c18-81e7-c44cc9aa9e8f,2025-04-19,Dubai Hills Estate,Townhouse,2885260,Buyer_6007,Seller_7660,6812,3.0,Sale,115410,Broker_749,
+e38170c0-fded-4595-bd54-56cd5df60d28,2025-06-19,Dubai Hills Estate,Apartment,913448,Buyer_2385,Seller_5683,5039,4.0,Sale,36537,Broker_534,
+7a25aa63-c2f4-4904-924a-ae26cd3a680a,2022-10-20,Dubai Investment Park,Office,1258156,Buyer_3042,Seller_7643,1455,,Mortgage,50326,Broker_294,Developer_10
+9c98ccf3-377b-429f-8728-b4c90309e041,2023-11-08,International City,Plot,537013,Buyer_5001,Seller_9652,2387,,Mortgage,21480,Broker_559,Developer_96
+b2f5a66f-4ed9-4eda-9683-422c49bb02f4,2023-09-24,Sports City,Villa,2055924,Buyer_3184,Seller_9416,3394,1.0,Lease,82236,Broker_607,
+b1b43213-62c2-4a58-b984-0bfa0fc382ea,2024-05-21,Palm Jumeirah,Apartment,1873142,Buyer_9832,Seller_2931,2876,3.0,Lease,74925,Broker_400,
+8088fc75-3a10-4eff-9506-2a9c20383102,2023-07-31,Business Bay,Plot,742185,Buyer_4562,Seller_5994,17892,,Sale,29687,Broker_574,Developer_72
+5b259858-bee2-4cb3-bb9b-8b99b088da3f,2023-03-17,Dubai Marina,Townhouse,1901134,Buyer_6382,Seller_5888,3399,1.0,Sale,76045,Broker_458,Developer_33
+a5951e0a-4502-4a96-879a-37d8500ca819,2023-05-16,Jumeirah Beach Residence,Townhouse,1271168,Buyer_9061,Seller_4236,1194,5.0,Mortgage,50846,Broker_257,
+538e9d43-b91c-435c-a487-4cf6ae78fec4,2024-05-20,Motor City,Apartment,647153,Buyer_4704,Seller_8711,3738,3.0,Lease,25886,Broker_473,
+34f52c51-8e79-426a-b9fd-9c2a184b9772,2025-03-06,Arabian Ranches,Retail,1141272,Buyer_8185,Seller_8198,6302,,Sale,45650,Broker_462,Developer_10
+f2a9be46-bb06-4b47-b926-a77f400aa654,2025-03-02,Palm Jumeirah,Building,14955670,Buyer_4105,Seller_5667,2319,,Sale,598226,Broker_504,
+c7b8390a-f695-4395-8943-423850e4ad62,2024-09-02,Jumeirah Lake Towers,Apartment,649775,Buyer_8852,Seller_5354,1473,4.0,Lease,25991,Broker_663,
+1d218fd8-45ef-4993-a378-366266e7146c,2023-07-19,Dubai Investment Park,Townhouse,2206373,Buyer_9222,Seller_7370,1576,1.0,Sale,88254,Broker_911,
+04097bf7-287f-4835-89be-b3f71a62eba1,2024-06-17,Dubai Investment Park,Townhouse,1890001,Buyer_1852,Seller_6605,4019,5.0,Mortgage,75600,Broker_108,
+f578ff54-b7f0-43be-8fa9-a22518a8eac4,2023-05-20,DIFC,Townhouse,3370087,Buyer_5059,Seller_3498,6474,5.0,Sale,134803,Broker_355,
+d3788030-1447-4a30-960d-3755a5ffbdb4,2024-05-26,Jumeirah Village Circle,Building,4422357,Buyer_8031,Seller_4250,16528,,Mortgage,176894,Broker_901,Developer_99
+68898324-3ec5-4298-8b30-437341b390ee,2024-12-14,Sports City,Retail,744148,Buyer_4758,Seller_2973,5335,,Lease,29765,Broker_139,
+258ea35d-f9ec-40b7-868a-ec721e5d25da,2024-09-01,Emirates Living,Villa,2496030,Buyer_2489,Seller_1834,3615,4.0,Mortgage,99841,Broker_413,Developer_39
+bb989b76-059a-42e6-be27-dc47cfbbe099,2025-06-11,Dubai Hills Estate,Townhouse,2515597,Buyer_9353,Seller_7997,5774,1.0,Lease,100623,Broker_212,
+de16fce7-020c-43e6-8649-81e0fb4bddd6,2024-05-27,City Walk,Townhouse,2156597,Buyer_6240,Seller_1779,1988,1.0,Sale,86263,Broker_153,
+870eb357-55c5-49d9-a463-3bd8995565e5,2024-03-20,Jumeirah Lake Towers,Villa,2249304,Buyer_2650,Seller_8059,2014,3.0,Lease,89972,Broker_472,
+b440035c-dfa5-418a-93c4-022cf6428083,2025-01-21,Jumeirah Village Circle,Apartment,934610,Buyer_6426,Seller_6907,6572,3.0,Mortgage,37384,Broker_897,
+f65bc401-79ad-4b01-9458-de8237991e5a,2024-08-10,Palm Jumeirah,Villa,7219836,Buyer_7292,Seller_2429,7767,1.0,Sale,288793,Broker_744,Developer_25
+2d33a06d-6779-4c20-8c29-f5b2b0d42e45,2024-09-19,Dubai Marina,Retail,1860072,Buyer_4160,Seller_8303,4232,,Sale,74402,Broker_659,
+614baea8-4bb7-46b8-b683-ff6a1c7e8390,2024-08-27,DIFC,Plot,928745,Buyer_9741,Seller_3517,2435,,Sale,37149,Broker_296,
+dc11c485-f9dd-44f6-88f1-f8e3add28271,2023-11-03,City Walk,Building,6487034,Buyer_6996,Seller_8347,4847,,Lease,259481,Broker_169,
+ae1ecbfa-f4be-43a9-9b9e-72c95ff0a60a,2024-11-07,Sports City,Retail,1128257,Buyer_5491,Seller_3112,10491,,Sale,45130,Broker_679,
+1dc0bfa0-5a43-4180-8f79-091550ff1d38,2023-01-05,Emirates Living,Plot,635086,Buyer_9723,Seller_9412,3457,,Sale,25403,Broker_548,Developer_59
+6166f5c4-1d57-46a5-addb-366e54f9d195,2024-04-06,Studio City,Building,4865864,Buyer_4390,Seller_4015,1117,,Sale,194634,Broker_685,
+5f094ee9-7f81-4b73-952b-6e9f9bb9d9ab,2022-12-18,Business Bay,Building,6883220,Buyer_9602,Seller_5240,10942,,Sale,275328,Broker_403,Developer_80
+9d7d7c0a-cc07-4f2a-9324-6d0f1fe085ce,2022-10-18,Jumeirah Village Circle,Villa,2141876,Buyer_4902,Seller_5781,820,6.0,Sale,85675,Broker_384,Developer_44

@@ -1,0 +1,501 @@
+investor_id,investor_name,investor_type,nationality,investment_strategy,total_investments,total_value_aed,active_since,preferred_areas,risk_score,liquidity_score
+001a582a-b6d9-4231-a986-77b8f3739d02,Investor_5079,Individual,Pakistan,Mixed Portfolio,8,1187899,2017-07-08,"Palm Jumeirah,Jumeirah Lake Towers,Downtown Dubai",0.95,0.9
+049ad105-2ba6-4e9e-accf-23a6fa264f8f,Investor_3189,Fund,Russia,Mixed Portfolio,19,44571790,2024-02-24,Palm Jumeirah,0.3,0.97
+452c2507-e894-4df6-af40-0fef4f993897,Investor_5194,Company,UAE,Mixed Portfolio,43,79283995,2023-08-07,"City Walk,Emirates Living,Discovery Gardens,Jumeirah Village Circle",0.39,0.28
+ac50a460-f7c7-4142-8101-7af94617101d,Investor_7479,Family Office,India,REIT,15,98953695,2016-08-24,"Palm Jumeirah,Dubai Investment Park,Motor City,Dubai Marina",0.55,0.51
+b1be1426-a906-44f9-bc09-83f4a929fdfa,Investor_4094,Company,China,REIT,47,25213769,2017-07-12,"Business Bay,DIFC,Arabian Ranches",0.9,0.84
+50b5a3cd-4232-49a9-a8ab-92d08b9b4032,Investor_4077,Family Office,Saudi Arabia,Flip,5,58229772,2022-01-15,"Jumeirah Beach Residence,Jumeirah Village Circle,Dubai Investment Park,Palm Jumeirah",0.78,0.11
+6b21edaa-35eb-42f9-aecf-8ce7c560d973,Investor_7191,Individual,Russia,Buy & Hold,8,2818926,2016-03-24,Dubai Investment Park,0.32,0.18
+41504534-c8e6-4920-b756-2f1eb1669966,Investor_1221,Company,UAE,Buy & Hold,35,99801898,2020-12-29,Emirates Living,0.23,0.78
+72656325-18cc-447e-895c-4f20931e2207,Investor_3672,REIT,UK,Development,31,21738427,2022-01-21,Studio City,0.72,0.66
+f8c21c7a-ecf1-4830-9c15-86d3603c8e0e,Investor_1347,Individual,UAE,Buy & Hold,35,40827566,2023-08-22,"International City,Dubai Investment Park,Business Bay,Discovery Gardens,Jumeirah Village Circle",0.12,0.48
+b2a326d3-311c-4f46-ab96-8bbf17ae5d61,Investor_6788,Company,UK,Flip,44,52639439,2017-02-02,Motor City,0.25,0.2
+38072e98-79e2-4cd2-afc6-fb9bd6f6d8d6,Investor_5617,Individual,USA,Buy & Hold,40,45791783,2023-06-19,"Downtown Dubai,Dubai Marina,Dubai Investment Park",0.26,0.58
+b84272e2-496d-412d-84fc-34800de78b3a,Investor_3971,Government,Russia,Flip,43,93229150,2021-05-29,"DIFC,Palm Jumeirah,Jumeirah Village Circle,Dubai Investment Park,Dubai Hills Estate",0.7,0.94
+b89e942d-2807-4430-ac2e-c0fc91ace08e,Investor_2251,Family Office,UAE,Flip,50,89027250,2023-02-23,"Dubai Investment Park,Jumeirah Beach Residence,Discovery Gardens",0.75,0.81
+019ebcff-519d-4a82-aa06-affd1257786b,Investor_2102,REIT,Saudi Arabia,Mixed Portfolio,28,98537060,2021-09-01,"Downtown Dubai,Jumeirah Lake Towers",1.0,0.26
+d5e917b0-1d7c-4147-83e5-8a156ea53b50,Investor_6777,REIT,USA,REIT,28,65597455,2017-01-05,"Jumeirah Lake Towers,Dubai Investment Park,Dubai Hills Estate,Emirates Living",0.48,0.55
+7e85199d-228d-4386-a52b-75c48e37b798,Investor_9070,Government,France,Mixed Portfolio,15,52623796,2023-11-08,"International City,Sports City,Dubai Hills Estate,Palm Jumeirah,Dubai Marina",0.31,0.1
+5d31026b-2a8b-48ba-b4e7-c417fc9ebf8e,Investor_6937,Individual,France,REIT,9,15784930,2024-02-14,"Palm Jumeirah,Dubai Investment Park,DIFC",0.51,0.85
+896f6a08-5bb3-4913-9860-f395f9185a47,Investor_7898,Government,Pakistan,Flip,15,8498162,2016-05-31,"Jumeirah Village Circle,Dubai Investment Park",0.44,0.12
+59ef7753-bedd-4358-bbca-c6aa27cba59a,Investor_7089,REIT,UAE,Buy & Hold,43,79061980,2023-12-18,"Arabian Ranches,Business Bay,Dubai Investment Park,Studio City",0.23,0.32
+c0bbac39-eae9-469c-be4e-b177ca1fa696,Investor_7823,Individual,India,Flip,31,19805567,2016-05-26,"DIFC,Motor City,International City,Palm Jumeirah,Arabian Ranches",0.5,0.68
+d8e2e43a-3479-4bc6-9db5-28df8b17b480,Investor_5698,Individual,Saudi Arabia,Flip,4,87228754,2024-06-06,"Arabian Ranches,Sports City,Studio City,Business Bay,Emirates Living",0.85,0.71
+651f23db-bc5b-42dc-b708-c4ab6985e468,Investor_5227,REIT,China,Mixed Portfolio,20,96207723,2022-03-29,"Arabian Ranches,City Walk,Downtown Dubai,Sports City",0.44,0.96
+339790bb-911d-4a7d-9a34-576da12244ba,Investor_4471,Family Office,Russia,Mixed Portfolio,4,30381121,2020-05-23,"Studio City,Downtown Dubai",0.83,0.52
+84938a1a-feab-4977-9cd9-499f523fb629,Investor_7637,Fund,Russia,Flip,4,50858951,2017-07-16,"Emirates Living,City Walk,Jumeirah Village Circle,Dubai Marina",0.17,0.64
+c5b8d01d-2dd9-4a46-9a6a-2006e86c0dd0,Investor_1459,Fund,Pakistan,Development,11,73688015,2023-08-06,Emirates Living,0.64,0.78
+6abb7eab-f0b4-4689-a465-2a52a9cdc2c2,Investor_4075,Fund,France,Flip,41,5344197,2022-02-04,"Downtown Dubai,Dubai Marina,Motor City",0.14,0.38
+6e0f7876-7cb3-4599-b843-7595775a1e36,Investor_1138,Fund,USA,Development,26,68137866,2022-08-09,"Jumeirah Beach Residence,Palm Jumeirah,Dubai Investment Park",0.73,0.19
+239ddd33-fcf2-4928-92d5-a8fa92d3ccb0,Investor_9250,REIT,Saudi Arabia,Mixed Portfolio,50,21157712,2024-07-10,"Jumeirah Beach Residence,Motor City,Dubai Marina,Dubai Investment Park,Downtown Dubai",0.24,0.52
+102f41c2-8073-429d-961d-3a0c24be3268,Investor_2528,Family Office,Pakistan,Flip,44,88807942,2023-03-19,"Sports City,Studio City",0.99,0.65
+2cb73594-0200-4360-9933-13881087b815,Investor_6593,Government,Germany,Flip,22,40036097,2020-10-01,"International City,Dubai Marina,Jumeirah Beach Residence,Jumeirah Village Circle,Discovery Gardens",1.0,0.65
+6ff94258-8963-4fc3-bdbc-1649091bcc65,Investor_9151,Company,Saudi Arabia,Buy & Hold,10,42546065,2018-08-27,Motor City,0.18,0.38
+9a8543db-f5d9-4244-b3c9-622894a35a44,Investor_3645,Fund,Saudi Arabia,Development,37,49765094,2020-10-29,Downtown Dubai,0.26,0.79
+0655d73c-5eb3-4f45-b69f-d8a1120bd195,Investor_8753,Fund,UK,REIT,42,19850509,2023-05-27,"Motor City,Dubai Marina,Palm Jumeirah,International City,Dubai Investment Park",0.46,0.87
+1150668e-17ac-4320-a3d4-d1574c19415e,Investor_3113,Family Office,Germany,Development,33,84836675,2021-04-10,"Downtown Dubai,International City,Discovery Gardens",0.34,0.89
+6be4ba7b-83aa-44cc-b8a4-7fe7d4fa7871,Investor_1699,Family Office,China,Buy & Hold,48,33858752,2016-12-10,"Business Bay,Dubai Investment Park,Jumeirah Village Circle,Sports City,Emirates Living",0.24,0.46
+9a8ad807-4558-4fde-a941-1effd820e61a,Investor_4654,Individual,Russia,REIT,43,13549776,2020-11-16,"Discovery Gardens,Studio City,Jumeirah Village Circle,Dubai Marina",0.26,0.2
+1bab3f7e-70a5-4ff8-8b1d-00c10dae4b62,Investor_8096,REIT,Pakistan,REIT,22,9653222,2021-03-26,"Motor City,Emirates Living,Studio City",0.2,0.51
+cfa6e9aa-a8e3-4e31-b33d-21e6ddc68d50,Investor_3551,Government,Germany,Flip,41,29651477,2021-03-14,"Dubai Marina,Jumeirah Beach Residence,Studio City,Discovery Gardens,Sports City",0.43,0.49
+34e9403b-2067-4959-a5ed-a00ef5ac708b,Investor_4496,REIT,UAE,Flip,2,92760827,2020-01-18,"City Walk,Arabian Ranches,Downtown Dubai",0.23,0.35
+b6004592-8c3d-48d5-993b-59fc1cafce06,Investor_5887,Individual,Germany,REIT,34,29736673,2017-04-13,"Arabian Ranches,Dubai Marina,Downtown Dubai",0.91,0.49
+9634c5d3-c7d4-4e75-bdc9-cc346f3792cd,Investor_3695,Fund,Pakistan,Development,27,65642647,2019-06-17,"Arabian Ranches,International City,Palm Jumeirah,Discovery Gardens,Motor City",0.61,0.84
+620ef5ce-42f1-4129-922c-05c0c04b1fbb,Investor_4253,Government,Saudi Arabia,Mixed Portfolio,40,20410197,2021-02-27,"Business Bay,Dubai Investment Park,Discovery Gardens",0.94,0.55
+49082bbf-8ef8-47ad-be53-318bd2f568f1,Investor_2861,Fund,Russia,Development,34,97943591,2024-09-30,"Dubai Investment Park,Discovery Gardens,Jumeirah Village Circle,Business Bay",0.3,0.98
+5a0fa003-4268-4a09-88ad-2a646ee5ed95,Investor_9947,REIT,India,Mixed Portfolio,25,30009455,2020-11-20,"Emirates Living,Business Bay",0.43,0.43
+3d744ef6-bd8e-40b1-afe9-c7443283014a,Investor_6029,Fund,France,Buy & Hold,45,67992183,2017-07-07,"International City,Studio City,Palm Jumeirah,Arabian Ranches",0.85,0.48
+c43b1002-374b-4caa-bafd-a3878bb69b60,Investor_2857,Fund,India,REIT,28,51079518,2022-10-22,"Arabian Ranches,International City,Jumeirah Beach Residence,Dubai Investment Park,Sports City",0.69,0.71
+876b664b-3f23-4b9d-9b7a-b185eedf93b3,Investor_5640,Family Office,China,Buy & Hold,6,14933416,2023-10-14,International City,0.19,0.77
+72e62331-4008-48fb-aeff-6c9fabdc9f5c,Investor_9924,Government,Saudi Arabia,REIT,33,79011850,2024-06-04,"International City,Emirates Living,Dubai Hills Estate",0.8,0.6
+cd7a0fc5-3cd8-4040-a00d-c0d7122949e1,Investor_4204,Individual,Germany,Buy & Hold,23,63269929,2020-02-28,"Business Bay,Palm Jumeirah,Dubai Hills Estate,City Walk",0.36,0.89
+c303bf0e-c676-4f6f-80df-66601980e009,Investor_6036,Fund,Russia,Flip,1,56640853,2024-06-04,Business Bay,0.24,0.44
+8f2dfc77-ef0e-4733-b552-52be961b0655,Investor_6201,Government,USA,Flip,37,58716265,2022-01-29,"Jumeirah Beach Residence,Emirates Living,Studio City,International City,Business Bay",0.82,0.62
+50ce743b-9c15-473d-8a71-81c2488f5d9d,Investor_7396,Company,India,REIT,21,70427754,2023-01-06,"Dubai Hills Estate,Jumeirah Village Circle,Dubai Investment Park,City Walk",0.21,0.62
+dc1f6bb2-8d4f-4eaa-b9a8-71377ccab3ff,Investor_5263,REIT,France,Flip,21,28348550,2023-09-30,Business Bay,0.49,0.67
+473ecebf-9d82-4cef-9331-276535290784,Investor_3507,Government,UAE,Mixed Portfolio,46,73970485,2023-11-28,"Jumeirah Beach Residence,Business Bay,Dubai Investment Park,Dubai Hills Estate,Jumeirah Lake Towers",0.67,0.42
+df2e893a-a96d-4a65-b681-3f1874721b39,Investor_4633,Company,UK,Flip,35,33917490,2016-08-24,"City Walk,Dubai Marina,Studio City,Sports City",0.94,0.66
+a5d58dd8-f932-4d54-84e1-7288cbf57ca5,Investor_2694,Family Office,Saudi Arabia,REIT,39,17466411,2023-08-04,"DIFC,City Walk",0.91,0.18
+34cd9f02-4d30-42ce-816a-37ce16459f87,Investor_6921,REIT,Pakistan,REIT,7,66905864,2015-11-14,International City,0.17,0.96
+d55de524-c4f4-4403-ae6e-29afde67fa92,Investor_4445,Individual,Russia,REIT,21,86033882,2019-09-26,"Arabian Ranches,DIFC",0.11,0.26
+50592726-3af0-4ed0-bd89-9b4ad77ab386,Investor_1515,Government,Saudi Arabia,Development,23,65949433,2017-11-27,"Studio City,Business Bay,Arabian Ranches,City Walk,Palm Jumeirah",0.33,0.21
+6a59cd00-5296-4035-b66c-94540fd1acd5,Investor_1484,Government,France,Buy & Hold,34,69685213,2016-04-04,"Emirates Living,Palm Jumeirah",0.2,0.3
+b290046f-a801-43e4-a13d-a978f5964d1e,Investor_3270,Fund,Pakistan,Buy & Hold,47,93825211,2023-05-16,"City Walk,Motor City,Emirates Living",0.96,0.41
+b9e46948-2a9d-4db7-9bb4-2bef7d613721,Investor_5822,Government,Germany,REIT,28,69807596,2020-04-21,"City Walk,Arabian Ranches",0.28,0.86
+2a7c61dc-f289-4875-bce9-af0ba0c48ea3,Investor_5605,Family Office,Russia,Buy & Hold,38,79863503,2021-04-18,"Emirates Living,Motor City",0.49,0.5
+cf7bb4b7-4fd0-4e4a-ab1b-cc664e822399,Investor_5451,Government,USA,Mixed Portfolio,7,82509842,2020-06-30,"Emirates Living,Palm Jumeirah,Sports City,Discovery Gardens",0.67,0.16
+dab879ff-4296-4422-965a-94613a63d98a,Investor_1553,Company,France,Development,38,56003534,2021-07-01,"Sports City,Palm Jumeirah,Jumeirah Beach Residence,Business Bay,Dubai Marina",0.26,0.39
+2668d6fb-5811-4db0-a5f2-d0c06e4091bc,Investor_6861,Company,Pakistan,Buy & Hold,14,89174955,2020-08-15,"Dubai Investment Park,Jumeirah Lake Towers,Jumeirah Village Circle",0.11,0.72
+08e06156-195c-475b-a0ac-7fe7d652816c,Investor_6388,Family Office,Pakistan,REIT,37,44159218,2022-03-08,"Downtown Dubai,Jumeirah Beach Residence,DIFC,Motor City,Jumeirah Village Circle",0.57,0.19
+6d8512e3-9ee0-4755-8810-a541098e00c7,Investor_2225,Fund,China,REIT,44,59412302,2021-03-24,"Emirates Living,Studio City,Dubai Marina",0.82,0.55
+b7772605-4962-4c2b-afcc-067c4d697f24,Investor_7901,Fund,Saudi Arabia,Buy & Hold,29,23969985,2018-01-17,"Jumeirah Beach Residence,Dubai Hills Estate,Business Bay",0.36,0.68
+4703a9e0-0360-4b3e-9ecb-eae89784256d,Investor_1076,Government,Germany,Development,9,55064349,2024-05-17,"Sports City,Dubai Marina,Jumeirah Lake Towers,Motor City,Business Bay",0.16,0.19
+7e5f494a-108a-4aea-a8af-602c930a6f66,Investor_5931,REIT,UK,Development,49,47415774,2020-04-20,Studio City,0.8,0.54
+4ade290b-947c-4613-9840-f738ca049894,Investor_7444,Individual,UK,REIT,32,87046600,2023-06-06,"Jumeirah Village Circle,Business Bay,Dubai Hills Estate",0.14,0.11
+cc429953-6208-4113-be12-0de837c1a6d0,Investor_6289,Individual,Russia,Flip,11,12813404,2022-08-25,"Studio City,Business Bay,Dubai Marina",0.33,0.81
+e915a4b3-35ae-4e17-b37a-d94cc1a3de92,Investor_1786,Individual,UK,Buy & Hold,17,45201786,2017-01-28,"Jumeirah Beach Residence,City Walk,Arabian Ranches,Discovery Gardens,Downtown Dubai",0.63,0.21
+833ca861-e9f4-4191-af25-0e7bce96f0d4,Investor_3424,Fund,China,REIT,41,60965761,2017-04-18,Sports City,0.57,0.62
+15bad498-bc03-4262-a6d4-ee29b42d2e46,Investor_9029,Family Office,UK,Development,50,99094983,2019-05-18,"Downtown Dubai,City Walk",0.79,0.74
+bb268312-e303-4938-a393-ba429f41c325,Investor_4971,Fund,Pakistan,Buy & Hold,5,67384860,2024-02-12,"Business Bay,Emirates Living",0.52,0.45
+2bcc6a3b-fdf8-4111-b027-bc2eba8a22ab,Investor_2712,REIT,USA,Flip,38,71819264,2019-01-10,"DIFC,Discovery Gardens,Dubai Investment Park",0.86,0.2
+62a7f05f-6417-4b97-9bf4-b50b46db8c10,Investor_4584,Company,USA,REIT,29,84279154,2019-01-12,"Jumeirah Beach Residence,Emirates Living",0.16,0.48
+01525157-f0fe-4651-a122-1a610ee2a4d7,Investor_6032,Family Office,China,Buy & Hold,10,62868214,2023-08-04,Dubai Hills Estate,0.11,0.51
+4e7d2c00-282b-47b4-8733-52835f36ca45,Investor_1468,Fund,Germany,Mixed Portfolio,29,48238845,2021-10-24,Studio City,0.18,0.49
+b4ccdf82-7155-48f1-bd81-cd788fbc1e0f,Investor_7503,Company,France,REIT,33,45793758,2024-03-12,"City Walk,Palm Jumeirah,Jumeirah Village Circle,Business Bay",0.68,0.76
+f9eb9cc1-2fe9-47eb-916a-24f6d91b432a,Investor_4177,REIT,UK,Flip,26,24708904,2018-02-16,"Sports City,Motor City,International City",0.2,0.14
+515b9adf-7ec1-4f8d-97eb-e2b252f6cdd9,Investor_2819,Company,Pakistan,Buy & Hold,4,5789956,2018-05-04,"Dubai Hills Estate,Downtown Dubai,Jumeirah Village Circle",0.35,0.89
+447f2167-f3ad-488e-a798-10d972be5103,Investor_7628,Family Office,Russia,REIT,7,30512907,2016-07-23,"Motor City,Emirates Living,Arabian Ranches",0.81,0.41
+15656b1a-0a13-482c-ab6d-f77e84329596,Investor_5718,Fund,UAE,Buy & Hold,12,68543749,2016-12-07,"Motor City,DIFC,Dubai Hills Estate,Downtown Dubai,Arabian Ranches",0.71,0.25
+f28669f8-8421-4588-8e14-3b8d685a3a9a,Investor_8458,Fund,India,Buy & Hold,43,64699826,2019-12-29,"Business Bay,Arabian Ranches,City Walk",0.89,0.25
+30879be2-4183-4b6c-b718-ec25cdaa7957,Investor_6769,Individual,Germany,Mixed Portfolio,1,66539501,2022-01-06,"Jumeirah Village Circle,Dubai Marina,Business Bay,DIFC",0.71,0.36
+fb3b3c89-05fc-4641-a2c5-bf96a548d0c6,Investor_9606,Company,France,Flip,49,20674031,2016-02-05,Jumeirah Village Circle,0.37,0.76
+10aa0899-b0b4-440a-9eff-690ba4ffccba,Investor_9039,REIT,USA,Mixed Portfolio,17,90041184,2019-05-03,"Palm Jumeirah,Discovery Gardens,Business Bay",0.84,0.37
+64f95b9a-f444-4199-9683-a652458327ba,Investor_9484,Fund,China,REIT,8,37230390,2017-02-06,"Business Bay,Dubai Investment Park,International City,Motor City,Jumeirah Village Circle",0.69,0.23
+910a20ae-ab2c-4f31-ad72-e76391542cc2,Investor_1506,REIT,Pakistan,Mixed Portfolio,48,94389511,2019-12-17,"Emirates Living,Downtown Dubai,Studio City",0.93,0.44
+7555a23a-7650-43ad-8fb7-cdbc0585ea83,Investor_5487,Individual,France,REIT,34,24481693,2021-10-25,"Jumeirah Lake Towers,Jumeirah Beach Residence,International City",0.95,0.35
+73ff301a-e63f-430e-9fb4-2e38a1e5d36e,Investor_1673,Company,China,Mixed Portfolio,45,47073515,2017-12-03,International City,0.82,0.61
+d027e346-73ee-4a42-9187-f7e2982e3a2d,Investor_5725,Fund,Saudi Arabia,Buy & Hold,32,93009836,2023-02-21,"Dubai Investment Park,Sports City,DIFC,Motor City",0.6,0.25
+aa37b484-0ec0-40b2-876a-28f143d3cd2a,Investor_5722,REIT,Saudi Arabia,Development,1,61915814,2024-05-01,"DIFC,Jumeirah Village Circle",0.15,0.38
+a27e4a0a-b061-4462-9acd-f9040248ff7d,Investor_6771,REIT,UAE,Buy & Hold,17,19484302,2020-11-11,"Sports City,Dubai Investment Park,Downtown Dubai",0.74,0.23
+b4a46dc4-d6fd-4736-9879-ca18e40cacf5,Investor_4223,Family Office,Russia,Mixed Portfolio,6,40030787,2022-05-03,Motor City,0.94,0.32
+a8f4f41b-af5a-4ddf-bbeb-d05dcf39bf8c,Investor_7328,Family Office,Russia,REIT,7,36065845,2021-05-27,"DIFC,Arabian Ranches,International City,Jumeirah Lake Towers,Sports City",0.82,0.23
+8d27d6ba-517c-4d86-939b-332db122e91f,Investor_5096,Company,India,REIT,36,27779547,2021-05-31,"Downtown Dubai,DIFC,Discovery Gardens",0.59,0.44
+8de107f2-dafe-458b-ab98-2f0e11dc9879,Investor_2573,REIT,India,Mixed Portfolio,29,94165006,2021-04-11,"Palm Jumeirah,Discovery Gardens,Studio City,Emirates Living,Dubai Hills Estate",0.48,0.47
+3f609de6-c9f9-45d6-994d-2cb33bc6b79c,Investor_1432,Individual,Russia,Buy & Hold,49,19869078,2017-11-22,"Dubai Hills Estate,Sports City,Palm Jumeirah",0.21,0.59
+78a8ddf2-5b33-44d1-8c22-641908a393b0,Investor_5806,Government,UAE,REIT,9,55081976,2017-04-11,Discovery Gardens,0.83,0.89
+feb4c48a-f121-4c81-8699-29c3974b014c,Investor_1890,REIT,Saudi Arabia,Buy & Hold,18,88225409,2023-08-04,"Jumeirah Village Circle,DIFC,Motor City",0.72,0.88
+6b1f4c13-94be-4575-aaa2-b11312ba674d,Investor_9369,Individual,UAE,Flip,34,20347740,2018-06-27,"Dubai Investment Park,Dubai Hills Estate,Studio City,Motor City",0.67,0.75
+7106265d-1b7a-46a7-add7-de3367790b6a,Investor_8945,Individual,China,Flip,8,10011655,2024-10-15,"Jumeirah Village Circle,Sports City",0.19,0.28
+647f5d56-5528-4ba1-bc79-ffcf5193310d,Investor_1403,REIT,France,REIT,26,8469640,2023-06-05,"Jumeirah Beach Residence,Motor City,Arabian Ranches",0.84,0.86
+09197cb8-f12a-4759-ae19-6c4ef4248201,Investor_5264,Government,China,REIT,43,83833614,2023-05-30,"Dubai Investment Park,Business Bay,Arabian Ranches,Downtown Dubai",0.84,0.69
+0c0d90ee-f8e7-4085-bb7b-c689e023d562,Investor_9380,Company,France,Flip,31,65487117,2021-07-16,"Jumeirah Village Circle,Motor City,Palm Jumeirah",0.7,0.45
+f5490115-9d70-4b89-ab14-c091ba90cad2,Investor_2758,Family Office,Germany,REIT,28,20886575,2024-06-23,"Discovery Gardens,Jumeirah Village Circle,Jumeirah Beach Residence",0.11,0.37
+a0b71d9c-ed6e-4a62-8fa9-26a0acea748a,Investor_8282,Family Office,UAE,Development,9,63801428,2016-09-06,"City Walk,Business Bay,Arabian Ranches,Motor City",0.55,0.87
+59424e45-b92f-4d75-902d-6ace3f1cbebf,Investor_6715,Company,France,REIT,33,9424279,2022-11-01,"Palm Jumeirah,Jumeirah Lake Towers",0.51,0.87
+c27e6f46-5a0d-44d2-91c4-e027715e18f5,Investor_5560,Company,UK,REIT,5,87588420,2019-05-14,"Motor City,Arabian Ranches,City Walk,Downtown Dubai",0.73,0.63
+6305517a-7048-4232-986b-137dfedf5252,Investor_6703,Government,China,Mixed Portfolio,26,10069088,2024-04-14,Arabian Ranches,0.31,0.7
+af5e64dd-47d4-4454-8f3c-f4e60b9adcc6,Investor_8805,REIT,USA,Flip,50,99334222,2015-11-14,"Jumeirah Village Circle,Arabian Ranches",0.76,0.45
+6875258c-e630-493d-bf70-3a7fedfed532,Investor_2054,REIT,UAE,Mixed Portfolio,17,16364411,2024-05-15,Discovery Gardens,0.79,0.65
+4c560bdc-943c-4c61-8d72-6b9a3366c8ad,Investor_3851,Individual,USA,Buy & Hold,45,61332161,2020-07-22,"Studio City,Emirates Living",0.28,0.54
+62e81488-6d63-4903-a960-938cecfce276,Investor_5687,Family Office,Pakistan,Flip,48,22755295,2019-12-04,"Emirates Living,Downtown Dubai,Business Bay,Jumeirah Lake Towers,Discovery Gardens",0.19,0.13
+5bfa9016-4c6a-48cb-870b-320f36c5bd12,Investor_1085,Company,USA,REIT,37,74360838,2023-12-26,"Arabian Ranches,Sports City,Motor City",0.27,0.29
+b4098fa3-5e95-4252-a86f-885c8e40aa2b,Investor_9205,REIT,USA,Development,40,75987083,2023-03-31,Discovery Gardens,0.48,0.44
+3f4541b6-2e36-4baa-a393-20111a313b88,Investor_2280,Individual,India,Mixed Portfolio,20,14544314,2023-06-20,"Dubai Hills Estate,Dubai Marina,Jumeirah Lake Towers,Business Bay",0.3,0.95
+f2dc781e-2dc0-43ef-8d15-cbbcdd9eca88,Investor_7396,Fund,USA,Buy & Hold,11,39663966,2023-12-14,"Dubai Hills Estate,Sports City,DIFC,Emirates Living,Motor City",0.15,0.73
+c599eb67-334b-42a2-9b12-2af5b551243f,Investor_8716,Individual,UK,Buy & Hold,3,46371664,2020-01-24,"Emirates Living,Jumeirah Lake Towers,Dubai Marina",0.23,0.59
+fd447278-f050-4d0f-acb5-702068d87a43,Investor_6400,Family Office,UAE,Flip,32,10786069,2018-06-20,"Dubai Marina,Palm Jumeirah,Downtown Dubai,Emirates Living,DIFC",0.77,0.94
+959c0ae3-30b8-4ee0-8fb7-b765e1662c1d,Investor_8844,Government,India,Development,47,6602379,2023-08-16,Motor City,0.56,0.69
+05eaa714-39ae-40e5-995b-a7280e11b17b,Investor_8824,REIT,UK,Flip,2,8429830,2024-06-30,"Studio City,Jumeirah Beach Residence",0.71,0.76
+cfc307dc-c91b-4376-b0e8-8b5ed06e8ae7,Investor_8899,Government,UAE,REIT,50,51630659,2016-12-28,"International City,Studio City",0.59,0.2
+11552dd8-741f-4596-897b-d7476311eae5,Investor_7024,Individual,USA,Flip,22,59589370,2024-02-21,"Dubai Hills Estate,Downtown Dubai",0.63,0.3
+100a798c-d42e-409a-a193-a97b9a286b90,Investor_9785,Family Office,China,Buy & Hold,1,97613524,2021-12-27,Downtown Dubai,0.15,0.49
+48d3494c-1eff-46c7-af42-065fe7a183de,Investor_1716,Fund,USA,Development,39,88940656,2022-01-19,"Dubai Investment Park,Jumeirah Beach Residence,Motor City",0.69,0.69
+9c5b84a4-6c5f-4b34-a345-1ea66a4bbade,Investor_5099,Individual,France,Flip,32,95657748,2016-07-18,"Dubai Hills Estate,Discovery Gardens,DIFC",0.95,0.8
+ee88a4ea-f144-4f84-a001-5b0c9c010066,Investor_5001,Fund,France,Development,21,94653330,2018-09-20,"Jumeirah Village Circle,Dubai Marina,Palm Jumeirah,Discovery Gardens,Emirates Living",0.73,0.66
+0f0fbdbe-a7fc-473a-87c7-5476637a0ff7,Investor_2285,Fund,Pakistan,Flip,34,31942008,2021-05-15,"Emirates Living,Jumeirah Village Circle,Palm Jumeirah,Motor City,International City",0.81,0.13
+687bf905-e478-4817-b9a8-0e41a1108cde,Investor_8213,Company,Germany,Buy & Hold,2,67962229,2024-05-30,"City Walk,Jumeirah Beach Residence,DIFC",0.84,0.18
+11ce3047-7b2c-4a0b-a118-d52fc269b557,Investor_7290,Fund,Germany,Buy & Hold,25,52628627,2019-10-24,Dubai Hills Estate,0.29,0.27
+9119b245-ef05-4747-bba9-19f14a6016ff,Investor_9724,REIT,UAE,Development,3,73685498,2016-03-26,"Business Bay,Jumeirah Lake Towers,City Walk",0.83,0.63
+7d86a865-26f0-4a0f-882b-da9dc5a846a5,Investor_6586,Individual,China,REIT,28,98875074,2016-07-17,Jumeirah Village Circle,0.6,0.96
+331a882c-3fe9-4b59-bc85-4ddc3cb62f42,Investor_5709,Family Office,France,REIT,28,77853413,2016-09-22,"Sports City,City Walk,Arabian Ranches,Emirates Living,Dubai Hills Estate",0.77,0.93
+7d7ee87d-1ebb-4aae-9b40-1e9231afc0eb,Investor_1248,Company,UK,Development,6,34545387,2016-02-21,"DIFC,Jumeirah Lake Towers,Jumeirah Beach Residence,Business Bay,Studio City",0.35,0.34
+e7f1a49c-3bea-429c-8da9-960f3ff5470e,Investor_1202,Fund,Saudi Arabia,Development,37,89687917,2021-03-11,"Arabian Ranches,Discovery Gardens,Sports City",0.12,0.11
+9f40c43e-4960-4519-a106-91e0a6211c04,Investor_6877,Individual,Germany,Mixed Portfolio,14,55842825,2024-02-19,"Downtown Dubai,City Walk,Jumeirah Lake Towers,Dubai Marina,Dubai Hills Estate",0.26,0.79
+6ce5f915-2983-4db9-b555-01e20367ac7e,Investor_5252,Fund,Germany,Flip,15,85602558,2022-11-01,"Dubai Marina,Dubai Hills Estate",0.2,0.13
+278407c5-30f2-4236-87d0-f55eebf6fb28,Investor_9302,Family Office,Germany,Mixed Portfolio,21,6631183,2018-08-02,"Dubai Marina,City Walk",0.98,0.11
+893d2888-b767-4e99-9bfc-bb6e0796584a,Investor_9854,Fund,UAE,Mixed Portfolio,16,47939919,2023-07-26,Sports City,0.5,0.56
+e3a3745c-b8f1-4bea-ad1f-598eaeca60dc,Investor_4343,Company,USA,Mixed Portfolio,24,92404455,2020-02-16,International City,0.89,0.23
+a32539ce-c9a0-4f86-a7e3-137b3d083e8b,Investor_6902,Fund,USA,REIT,42,51293477,2019-07-07,"Business Bay,Arabian Ranches,Palm Jumeirah",0.14,0.94
+12d9c753-3ba2-4edb-b738-d4bb96a61a00,Investor_1418,Government,Saudi Arabia,Mixed Portfolio,14,43024344,2019-01-23,"Palm Jumeirah,Emirates Living,Jumeirah Beach Residence,International City,DIFC",0.13,0.75
+04076fd4-bfcb-4d67-b7bb-df9c936e47be,Investor_2285,REIT,Saudi Arabia,Flip,37,68578073,2018-05-08,"International City,Jumeirah Village Circle,Dubai Marina,DIFC,Dubai Hills Estate",0.69,0.57
+434931b2-d2ab-440a-9b07-6b84854a5b6e,Investor_5410,Fund,Pakistan,Mixed Portfolio,19,33753017,2021-02-07,"Palm Jumeirah,Dubai Hills Estate",0.51,0.77
+006d8c45-617c-4e78-93fc-5a05c19f6778,Investor_4949,Individual,Germany,REIT,24,11695820,2020-11-04,"Sports City,Downtown Dubai,Palm Jumeirah,Jumeirah Lake Towers,Dubai Hills Estate",0.64,0.5
+bd875de4-202e-4f0a-bc0d-5381bfe2cacd,Investor_4764,REIT,China,Flip,35,33875817,2016-01-31,"Dubai Investment Park,City Walk,DIFC,Arabian Ranches",0.38,0.17
+3027146c-9a3b-4663-bf2a-179f3ddc803a,Investor_9274,REIT,India,Mixed Portfolio,32,85910129,2016-02-16,"Arabian Ranches,Discovery Gardens",0.11,0.21
+f300d1a2-046d-49b9-9d20-ab45f2749ff2,Investor_8698,Fund,Saudi Arabia,Flip,3,58904194,2024-07-09,"Downtown Dubai,Dubai Investment Park",0.56,0.58
+28c3c16b-fcc4-4795-adaf-1fec47bab01b,Investor_7919,REIT,USA,Flip,26,94540186,2018-07-18,"DIFC,Jumeirah Village Circle",0.4,0.84
+308af9cc-7b84-43eb-9d47-8f841d3885a7,Investor_2765,Fund,UAE,Buy & Hold,48,48641606,2019-10-04,"Discovery Gardens,International City,DIFC,Jumeirah Beach Residence",0.53,0.22
+3e153481-470c-4e4e-87e7-27d08f874d4a,Investor_9345,Company,Saudi Arabia,Flip,1,80665373,2018-02-20,"Discovery Gardens,Jumeirah Beach Residence,Jumeirah Lake Towers",0.49,0.56
+e81c1cc7-8150-4938-979d-f192dee750ad,Investor_5576,Government,Saudi Arabia,Flip,20,67208728,2020-12-18,Sports City,0.91,0.62
+57c59813-d332-41f0-a81f-cf9cb0b4d332,Investor_5673,REIT,USA,REIT,21,24946564,2023-03-09,Emirates Living,0.49,0.35
+44c85688-4625-4087-b80e-1392292b56b9,Investor_6150,Government,Saudi Arabia,Development,19,23225454,2023-06-18,"City Walk,Motor City,Discovery Gardens",0.3,0.25
+b764b7e3-4f29-4768-a43b-301f421d0f47,Investor_2738,Fund,Pakistan,Development,10,13881682,2022-06-21,"Sports City,Arabian Ranches,Business Bay,DIFC,Motor City",0.96,0.59
+8295a3c7-5061-4e7d-a998-ac3f70f69f02,Investor_1109,Company,Germany,Buy & Hold,24,28265115,2021-08-18,"International City,Discovery Gardens,Dubai Investment Park,Studio City,Dubai Hills Estate",0.37,0.2
+bc45bed5-8456-40f1-8068-656413c81d1b,Investor_2965,Family Office,Germany,REIT,32,36306850,2023-10-26,"City Walk,Jumeirah Village Circle",0.97,0.82
+a3b82691-66e5-43ab-85f4-f5a187e95b9c,Investor_4644,Family Office,Saudi Arabia,Development,11,69056464,2021-01-11,"Discovery Gardens,Sports City,Downtown Dubai",0.74,0.38
+5e26060c-60b2-484c-85c0-91bf2458efe3,Investor_8100,Individual,Saudi Arabia,Mixed Portfolio,21,26554877,2018-07-13,Business Bay,0.32,0.63
+bafd2ff8-a68d-4e5e-b342-8646c3971b7b,Investor_4205,Company,UK,REIT,10,66029451,2022-09-10,"DIFC,Dubai Investment Park,Emirates Living,Jumeirah Lake Towers",0.89,0.96
+0db89bf0-6697-4559-98ff-36cfc64ef858,Investor_4509,Family Office,UAE,REIT,5,66859451,2018-07-15,"Emirates Living,Arabian Ranches,Dubai Marina,Studio City,Palm Jumeirah",0.34,0.44
+57355cda-b33b-416a-8049-e2a0f52b8889,Investor_4845,Government,USA,REIT,34,89173123,2022-10-09,"Dubai Hills Estate,DIFC,Motor City",0.54,0.67
+2cb83c45-66dc-41b6-ba2b-d7bd1dd41634,Investor_6851,Government,France,REIT,19,13956471,2022-05-03,DIFC,0.48,0.5
+b62bbfb4-1179-49eb-8fcc-448cd7a2ec6a,Investor_7960,Company,Saudi Arabia,Flip,30,43802832,2017-05-20,Palm Jumeirah,0.73,0.73
+ec882fa3-b007-4621-b878-ea08b8939be1,Investor_9014,REIT,China,REIT,44,32522381,2024-06-19,"City Walk,Sports City,Emirates Living",0.9,0.8
+3f6a6f3a-1d1b-46af-8f1a-28ef993a2fdb,Investor_6295,Individual,UK,Development,27,53529918,2019-11-01,"Jumeirah Beach Residence,City Walk,Dubai Marina,Dubai Investment Park",0.54,0.3
+a1d5b569-1663-4082-bb39-a7835df20fb5,Investor_1747,Family Office,UK,REIT,27,30703731,2018-05-16,"Studio City,Emirates Living",0.8,0.2
+7bea23a6-8462-4e80-85b8-ee08f208d39f,Investor_6401,Government,India,Mixed Portfolio,35,3673605,2016-09-09,Jumeirah Beach Residence,0.18,0.73
+05072dd8-0b31-48d2-8819-a5deb386168a,Investor_2039,Fund,UAE,Mixed Portfolio,14,49599937,2018-10-14,"Arabian Ranches,Jumeirah Beach Residence",0.87,0.31
+557e8e93-1ab8-4690-8c72-61dc9ca8efae,Investor_7125,Company,USA,REIT,14,75215849,2016-07-26,"Business Bay,Dubai Marina",0.86,0.78
+9aaa1c02-6959-477e-8209-fb9bb4d655ad,Investor_2679,Government,France,REIT,32,6675419,2023-01-12,"DIFC,Business Bay,Dubai Hills Estate",0.67,0.72
+a6fba60c-622e-4bd1-b08e-78c071f14b05,Investor_5463,Individual,Saudi Arabia,REIT,42,54787880,2023-04-27,"Downtown Dubai,Studio City,Sports City",0.55,0.73
+06ee7e9f-4a7b-451f-b98e-09b5cd4c54dc,Investor_7805,Family Office,UAE,Buy & Hold,48,73705468,2018-01-03,"Jumeirah Village Circle,Jumeirah Beach Residence",0.27,0.65
+cc51a690-3ba2-4385-97bf-920719e18933,Investor_6303,Fund,Russia,Mixed Portfolio,48,4144983,2021-05-27,"Discovery Gardens,Emirates Living,Jumeirah Village Circle",0.34,0.69
+10fd3ffc-ac61-46ec-8045-f2a2189e47e8,Investor_7169,REIT,UK,REIT,6,30830286,2020-03-26,"City Walk,Motor City,DIFC,Discovery Gardens,Palm Jumeirah",0.58,0.32
+f806463a-b1d6-4395-b3bc-418681dc2e36,Investor_9143,Individual,Russia,Development,49,74360915,2016-10-11,Discovery Gardens,0.3,0.98
+cf6a6c74-5e54-492a-97ad-3664b6ea9fc6,Investor_4802,REIT,Germany,Development,31,76585152,2023-07-27,"Jumeirah Lake Towers,Dubai Investment Park,Downtown Dubai",0.19,0.25
+9a80b6a9-c8ac-42bf-8bb3-02c34e35655f,Investor_5095,REIT,Saudi Arabia,Flip,26,83743681,2019-06-25,"Dubai Hills Estate,Dubai Marina,Motor City,Dubai Investment Park,Emirates Living",0.38,0.4
+28c09dce-d2ea-4f2b-8234-8768abe0b0a6,Investor_1598,Company,USA,Mixed Portfolio,39,55564107,2024-09-23,"Emirates Living,Motor City,Sports City",0.38,0.69
+c1feaa62-9aee-4bcb-93fa-8f5e9e895c6e,Investor_8559,Fund,Germany,Mixed Portfolio,36,99390898,2023-11-17,International City,0.73,0.44
+d1a15b19-4823-4e01-8220-de302791f3cb,Investor_3655,Individual,France,Buy & Hold,11,27490232,2019-11-19,Dubai Marina,0.9,0.55
+a185a8c9-38fc-492a-aef2-50fa40a6472f,Investor_9594,Family Office,Germany,Flip,48,74428512,2020-02-07,"Business Bay,DIFC,Jumeirah Village Circle,Emirates Living",1.0,0.75
+f80fa0c6-724e-48b0-8eca-ff03c1cf6b4e,Investor_5441,Family Office,France,Development,40,50879577,2018-06-20,"Dubai Investment Park,DIFC",0.57,0.28
+e4cfadb4-ab85-4bc1-a3e3-ff5adc0b42ba,Investor_7082,Government,France,Mixed Portfolio,17,64365536,2019-08-08,"Jumeirah Lake Towers,Dubai Investment Park",0.25,0.74
+d001e66d-70ba-4926-b1e9-921ffef74d3d,Investor_1160,REIT,USA,REIT,12,21179511,2019-07-07,Business Bay,0.38,0.27
+eab779a4-f707-41cc-9513-52b5688fa9cb,Investor_2537,Family Office,France,REIT,22,13712374,2024-02-08,"Discovery Gardens,Arabian Ranches,Downtown Dubai,Sports City,Jumeirah Lake Towers",0.6,0.3
+50abe206-4969-4d1f-a587-5a8c3c1f0304,Investor_1231,Family Office,Pakistan,Development,19,58198985,2018-03-28,"Palm Jumeirah,Jumeirah Beach Residence,City Walk",0.61,0.68
+b57e22d0-6ed0-4419-a808-32dbcab894fb,Investor_2269,Company,China,Flip,7,99067267,2022-05-13,"Arabian Ranches,City Walk,Jumeirah Village Circle",0.21,0.57
+02a6de8f-57c9-4d42-8217-31312fedee46,Investor_7274,Family Office,USA,Mixed Portfolio,50,80479708,2018-01-03,"Motor City,Emirates Living,Arabian Ranches",0.1,0.31
+18598ad8-bbff-4f1e-91f7-0dfe26c05b98,Investor_2496,Company,China,Flip,10,23121549,2019-06-17,Jumeirah Lake Towers,0.17,0.97
+d97cac4d-c84e-4fdf-8ecc-77178298b4e0,Investor_9383,Company,Germany,REIT,43,64309036,2021-02-14,"Sports City,Jumeirah Village Circle,Dubai Hills Estate",0.6,0.44
+71f2f164-0fb7-4f90-b631-34cfe24a3151,Investor_8773,REIT,USA,Development,34,43543251,2018-11-03,Emirates Living,0.96,0.95
+c964513e-b29a-4df5-93b5-398bd3f9b809,Investor_3341,Fund,Russia,Mixed Portfolio,29,66779236,2016-12-29,"Jumeirah Village Circle,International City,Palm Jumeirah",0.26,0.88
+5f6b18e7-5138-40ff-815d-3c078d7c3392,Investor_6668,REIT,Russia,Flip,40,76134281,2022-08-25,"Palm Jumeirah,Arabian Ranches,Business Bay,Jumeirah Village Circle",0.5,0.57
+76674735-aec9-4878-ada3-842304efea15,Investor_6085,Individual,USA,Buy & Hold,24,35059134,2019-02-25,City Walk,0.13,0.35
+e994b007-701e-48dd-91c7-d9b4b1ef0c2d,Investor_7525,REIT,UAE,Development,18,84922374,2024-02-24,"Business Bay,Motor City,Discovery Gardens,Dubai Hills Estate,Downtown Dubai",0.53,0.89
+b0e7a15c-0f85-4f23-88f8-f52debbe59d3,Investor_2702,Government,UAE,Development,2,83264795,2016-10-16,"Arabian Ranches,Dubai Investment Park",0.17,0.85
+076b6b94-3cc9-4a11-9466-d1196df68836,Investor_1918,Individual,Germany,Buy & Hold,21,14082934,2018-09-09,"Emirates Living,Business Bay,Jumeirah Lake Towers",0.85,0.86
+7e668ae1-4321-43b4-98fd-4506131f749f,Investor_3772,Fund,China,Development,34,2902027,2017-05-04,"International City,Dubai Marina,Downtown Dubai,Jumeirah Village Circle",0.84,0.55
+bdb21aac-fbe2-4c79-ae65-0c826938072b,Investor_5368,Family Office,Saudi Arabia,Flip,29,6973820,2021-09-13,"Emirates Living,Sports City,International City,Downtown Dubai,Jumeirah Lake Towers",0.77,0.85
+00b4ea91-3655-4e93-af0c-5b6bdc590c5d,Investor_6098,Individual,UK,Mixed Portfolio,23,16799382,2020-12-17,"Downtown Dubai,Discovery Gardens,Studio City,Dubai Marina",0.93,0.26
+a828645e-367d-4018-8129-10e4b6780f0e,Investor_4041,Individual,USA,Mixed Portfolio,41,3698765,2016-03-11,"Business Bay,Emirates Living",0.67,0.51
+e45a2b39-cf8e-4052-8a6b-10d246596410,Investor_5042,Family Office,UK,Flip,48,18815365,2021-04-23,Jumeirah Beach Residence,0.74,0.26
+af4a8fd7-2a74-408b-a160-8fee84a68279,Investor_6169,Company,Russia,Flip,13,37614518,2022-07-22,"DIFC,City Walk",0.73,0.34
+9669c84d-c794-4e3c-a0e4-d8d2c8db18ed,Investor_6818,REIT,China,Development,23,87144415,2018-12-04,"Arabian Ranches,Dubai Marina,Jumeirah Beach Residence,Downtown Dubai",0.58,0.29
+816c161a-001f-40ae-99fd-23f06705749c,Investor_8108,Family Office,USA,Development,14,46926778,2016-12-11,"Studio City,City Walk,Downtown Dubai,Sports City,Jumeirah Beach Residence",0.29,0.3
+fee922b5-562e-4936-8061-cb406ed44807,Investor_1515,Fund,Saudi Arabia,Mixed Portfolio,43,85706642,2022-09-13,"Dubai Investment Park,Discovery Gardens,Jumeirah Lake Towers,Arabian Ranches",0.61,0.69
+49a901d3-5c63-4945-8e04-bca70b3050ee,Investor_6281,Individual,Saudi Arabia,Development,1,22307131,2020-01-24,"Jumeirah Lake Towers,Studio City,Jumeirah Village Circle,Downtown Dubai",0.92,0.38
+b55de18e-f038-4931-88fd-38e3717789b1,Investor_9958,REIT,India,Buy & Hold,29,83760305,2019-09-03,"International City,Jumeirah Beach Residence,Motor City,Studio City,Jumeirah Village Circle",0.33,0.44
+db944510-ff48-461c-8897-b14337307eb8,Investor_8906,Fund,Russia,Development,3,32447622,2016-03-26,"Jumeirah Village Circle,International City,Sports City,Jumeirah Beach Residence,Dubai Investment Park",0.96,0.46
+8d07dc93-3401-4d51-85dc-1b0292165e89,Investor_3687,Individual,France,Flip,20,81108005,2016-12-19,"Emirates Living,Dubai Investment Park,Sports City,Jumeirah Lake Towers,Arabian Ranches",0.81,0.15
+994f183c-be88-4c96-a514-1eaccc86a661,Investor_6067,Individual,India,Development,30,54149397,2022-12-08,"Business Bay,Dubai Investment Park,Emirates Living,Discovery Gardens",0.25,0.38
+af981c6c-8f1b-4367-b492-a6eb45607fd9,Investor_4869,Company,Pakistan,REIT,6,98191672,2022-01-17,"Studio City,Palm Jumeirah",0.1,0.24
+568aa6b0-81f9-4084-9152-01bd1299e9d4,Investor_8713,Individual,France,REIT,45,29520176,2019-06-30,"Discovery Gardens,Dubai Hills Estate,Jumeirah Village Circle,Emirates Living",0.22,0.79
+693e6b5d-31d6-4547-aa49-68f61439bb88,Investor_7551,Company,USA,Development,44,99028884,2020-01-11,"Jumeirah Beach Residence,Downtown Dubai,Palm Jumeirah,Dubai Hills Estate,Jumeirah Lake Towers",0.77,0.63
+1806dace-4392-40a2-9895-e9085fc0263c,Investor_3918,Company,Pakistan,Development,24,46614022,2019-03-03,Jumeirah Beach Residence,0.92,0.68
+96dd9522-fcef-4082-ae86-01cab77a187f,Investor_9191,Company,Pakistan,Buy & Hold,14,41525421,2019-11-28,Jumeirah Lake Towers,0.45,0.26
+9bde53b2-fad4-417a-9cec-183efe954548,Investor_5668,Company,UK,REIT,44,65512027,2024-05-26,"International City,Arabian Ranches,Sports City",0.46,0.57
+abf8ee03-bc38-49a5-9867-3141d92a7c95,Investor_8617,Individual,Saudi Arabia,Development,44,99337391,2023-08-27,"Business Bay,Arabian Ranches,Jumeirah Lake Towers,Downtown Dubai",0.62,0.45
+94f6f9b5-c198-4238-96ac-18673dcb9bb5,Investor_1189,REIT,Germany,REIT,28,8316381,2021-05-24,"City Walk,Jumeirah Village Circle,Discovery Gardens,Studio City",0.44,0.53
+3cac1265-3823-44b1-92b7-37f4dbd2f0f0,Investor_9765,Fund,USA,Buy & Hold,12,57917057,2018-10-30,"Downtown Dubai,Dubai Investment Park,Business Bay,Arabian Ranches",0.95,0.74
+232564dc-b336-439a-8fd6-7843bd36687a,Investor_4237,Fund,France,Mixed Portfolio,47,62067638,2019-11-30,Discovery Gardens,0.35,0.21
+4283b86c-fc14-46d8-8f49-18eff3b5f383,Investor_8540,REIT,USA,Buy & Hold,39,93125389,2020-08-25,"International City,Jumeirah Lake Towers,DIFC",0.79,0.12
+20507122-ed42-4523-b52b-3ab568bf4b72,Investor_3928,Fund,UK,Development,27,3351359,2019-10-13,"DIFC,Dubai Marina,Jumeirah Village Circle",0.42,0.13
+e8ee78c9-eb8e-4135-b62e-2dc7dc2ac889,Investor_7491,Family Office,Pakistan,Flip,6,72804498,2023-09-24,"Dubai Investment Park,Motor City",0.49,0.35
+ed64eadd-c7fd-4304-8506-057a10b24fdb,Investor_4999,REIT,France,Mixed Portfolio,30,6454740,2023-12-07,"Palm Jumeirah,Dubai Marina,Dubai Investment Park",0.65,0.75
+32e1d5be-4587-46cb-b877-bd1480d566ac,Investor_7257,Individual,France,Buy & Hold,22,86461939,2016-05-22,"International City,Jumeirah Beach Residence,Business Bay",0.27,0.77
+5c1d39b9-5fab-4f18-ad41-f33529326e55,Investor_2298,Family Office,Russia,Buy & Hold,13,77624246,2021-11-12,"Sports City,Dubai Hills Estate,Dubai Marina",0.44,0.53
+a93f8a8d-170b-4217-ad49-24d47233e271,Investor_5502,REIT,India,Development,33,91119103,2024-04-11,"Jumeirah Beach Residence,Arabian Ranches,DIFC,Dubai Investment Park,Business Bay",0.47,0.12
+2c47c7ae-e8aa-42a9-9770-ee5abbb37f21,Investor_3126,REIT,UK,Development,30,81407082,2015-12-06,"Jumeirah Village Circle,Dubai Hills Estate,Sports City",0.12,0.39
+172375d5-728c-4b8d-9cff-b27b85f51fff,Investor_5715,Individual,China,REIT,38,57474093,2017-09-02,"Jumeirah Lake Towers,Jumeirah Beach Residence,Motor City,Discovery Gardens,City Walk",0.11,0.41
+bc0115d5-2f0e-4a88-85c0-71ca0b373cba,Investor_8280,Fund,India,REIT,48,67971243,2022-06-06,"Arabian Ranches,Jumeirah Beach Residence,City Walk,Emirates Living,Business Bay",0.69,0.61
+1330ca86-2ab9-468e-b42c-516e703f6a63,Investor_8971,Individual,France,Development,6,28857050,2016-05-27,"Palm Jumeirah,DIFC,Sports City,Jumeirah Beach Residence,Arabian Ranches",0.51,0.52
+b42a55ae-906b-4abe-97b7-30ff620e8d20,Investor_3731,Company,China,Development,37,58919082,2020-02-18,DIFC,0.6,0.54
+433fa089-4c2a-4cb6-acb9-ecc36cb9fa4a,Investor_7148,Company,France,Flip,25,82486500,2023-05-29,Jumeirah Beach Residence,0.3,0.99
+09b01ab7-3de1-4a41-9a2e-e6b08d1d28e6,Investor_5740,Government,India,Flip,50,99577647,2020-04-17,"International City,Palm Jumeirah,Emirates Living,Motor City,DIFC",0.35,0.79
+28c82a2d-2ee1-4f62-96c4-8d1c03055ff2,Investor_2730,Family Office,USA,Mixed Portfolio,35,72472067,2020-05-23,"Jumeirah Beach Residence,Motor City",0.78,0.36
+ddfa4367-492e-486e-9497-7e1fa999b27e,Investor_3571,REIT,India,REIT,19,1447935,2018-10-26,"Discovery Gardens,Arabian Ranches,Jumeirah Village Circle",0.45,0.69
+ed24287b-8f53-4c50-bec1-c58cb8fab9ad,Investor_7722,REIT,Pakistan,Buy & Hold,40,31090623,2023-03-28,"Sports City,Downtown Dubai,International City,Business Bay,Arabian Ranches",0.65,0.25
+4a7d6aef-3d3b-4da0-b5d5-175714383aff,Investor_8731,Family Office,Saudi Arabia,Development,2,81710835,2015-12-07,"Studio City,Sports City,Emirates Living,International City",0.92,0.51
+96a1b087-83b0-48ff-96dd-63dd64e27dee,Investor_4920,Family Office,India,REIT,46,27814729,2021-03-04,"DIFC,Downtown Dubai",0.91,0.29
+6ee6f718-ed08-438f-bf18-17cf24fffd12,Investor_8523,REIT,Pakistan,Mixed Portfolio,29,33465073,2015-11-09,"Discovery Gardens,Sports City",0.68,0.82
+cedbeca1-c1d2-4c6c-a390-16111764efba,Investor_3609,Fund,Pakistan,REIT,47,10374071,2024-09-17,International City,0.88,1.0
+ae5d05c1-9f71-4383-9a8a-96714cec7acd,Investor_2152,REIT,Russia,Development,46,73120748,2023-06-08,"Studio City,Business Bay,Discovery Gardens,Dubai Hills Estate,International City",0.75,0.36
+376ddb8e-e546-401d-ae95-91fc89ca6796,Investor_1653,REIT,USA,REIT,46,69660380,2017-09-25,"International City,Jumeirah Village Circle,Sports City,Downtown Dubai",0.86,0.78
+b6a16993-0674-477c-8357-4671460962ca,Investor_2831,Government,India,Development,27,89118904,2020-12-24,"Dubai Hills Estate,Motor City",0.29,0.19
+08891997-4a18-4220-af74-47efcc90fe16,Investor_2213,Family Office,Germany,REIT,49,33846895,2016-04-20,"Jumeirah Lake Towers,DIFC,Discovery Gardens",0.4,0.51
+02c6f28a-d5fe-46c4-b521-33e0a4003c31,Investor_5510,Fund,China,Buy & Hold,49,19793298,2023-02-17,"DIFC,Business Bay,Dubai Hills Estate,Discovery Gardens,Arabian Ranches",0.61,0.74
+fb55b21b-12ca-4b6f-b08b-3b0df2f23231,Investor_3593,Fund,China,Development,31,96707821,2019-11-10,"Dubai Investment Park,Studio City,Sports City",0.65,0.87
+fba890d0-2377-44ac-b1b0-a6799ea8a33f,Investor_4734,Fund,UAE,Flip,38,41662142,2023-02-16,"Business Bay,City Walk,Palm Jumeirah,Motor City,Sports City",0.77,1.0
+6d178756-cbed-4e8a-9f52-280f998d7e34,Investor_8814,REIT,China,Flip,23,87416288,2023-01-16,"Sports City,Jumeirah Lake Towers,Palm Jumeirah,Emirates Living,International City",0.93,0.68
+ddafda40-d6ea-4dcd-85c2-6caae708d2eb,Investor_8897,Government,India,REIT,25,2910266,2017-04-16,Jumeirah Lake Towers,0.3,0.29
+50cbc51c-628e-4802-b1b8-bed90847212f,Investor_5559,Company,China,Buy & Hold,42,27433135,2020-10-16,"Discovery Gardens,Business Bay,Dubai Hills Estate,Palm Jumeirah",0.28,0.7
+e67d7534-c0b6-4104-8146-b0b0a23cd724,Investor_2619,REIT,USA,Mixed Portfolio,5,37436564,2018-08-02,"Studio City,Downtown Dubai,Dubai Marina,Dubai Hills Estate,DIFC",0.57,0.32
+02dd00e1-4815-4d6a-b1f4-3bb5c9adeb45,Investor_3993,Family Office,Pakistan,Flip,45,97285157,2019-09-04,"Dubai Marina,City Walk",0.6,0.18
+5dc97b6e-dac0-4427-8ac4-b03ec2ff2640,Investor_2043,Company,India,Mixed Portfolio,20,9169177,2022-06-18,"Dubai Hills Estate,Motor City",0.52,0.58
+a598af64-cf1c-4733-9af8-1f8134b8e1c1,Investor_6224,Individual,Saudi Arabia,Flip,31,16623801,2019-11-01,Motor City,0.28,0.59
+d017097f-0ac0-4306-90c2-cf762a76e7df,Investor_8982,Company,UK,Mixed Portfolio,1,79076270,2019-12-21,Discovery Gardens,0.8,0.28
+183ad459-9cf4-435e-830d-37b6bb909e26,Investor_8475,Family Office,UAE,Development,49,55649280,2018-01-17,"Motor City,Arabian Ranches,Jumeirah Lake Towers",0.56,0.56
+5a5d1749-58e4-4240-baaf-45089b08a83d,Investor_5909,Family Office,UK,Mixed Portfolio,16,46787342,2021-09-14,"Sports City,DIFC,Discovery Gardens,Dubai Marina,Jumeirah Beach Residence",0.95,0.54
+116f3dd5-cb2b-4793-a8f8-b4f77d0c5341,Investor_9348,Fund,Germany,REIT,11,24997481,2024-01-21,"DIFC,Jumeirah Village Circle,Discovery Gardens,Arabian Ranches",0.67,0.58
+3f726034-b7ec-441e-a545-03afd086d44a,Investor_4171,Company,Saudi Arabia,Flip,14,42231731,2019-03-01,"Jumeirah Lake Towers,Sports City,Motor City",0.19,0.37
+c0b463c3-3388-4f63-80cb-fdb386815336,Investor_4445,Government,China,Flip,21,21990005,2022-08-21,"Arabian Ranches,Studio City,Sports City,Motor City",0.96,0.98
+bee2919a-729f-4108-8995-7a11dc834fbb,Investor_7830,Family Office,UK,Flip,17,64348307,2021-05-21,"Dubai Investment Park,DIFC,Jumeirah Lake Towers",0.75,0.85
+aff604ba-5c0a-4bde-a7ca-70987a4f5001,Investor_8368,Fund,UK,REIT,37,53820340,2016-03-28,"Business Bay,Jumeirah Beach Residence,Dubai Marina,Emirates Living",0.42,0.82
+c2b6dabc-bcb2-41eb-95bd-6022eedef489,Investor_5492,REIT,UAE,Flip,14,89859467,2016-10-02,"DIFC,Palm Jumeirah,Business Bay",0.39,0.81
+cc2eaef9-275e-465a-a422-158c3dda77e0,Investor_4267,Fund,Pakistan,Mixed Portfolio,33,60069644,2021-09-19,Downtown Dubai,0.32,0.39
+a612a121-90ee-455d-92e4-4be7ea6b9240,Investor_8698,REIT,UAE,REIT,45,95823302,2019-05-01,"City Walk,Jumeirah Beach Residence",0.15,0.15
+0f313f3f-51b5-44a3-966d-f2dc0861b204,Investor_5522,Fund,France,Development,29,39149420,2023-07-19,"Dubai Investment Park,Downtown Dubai,Jumeirah Lake Towers,Jumeirah Beach Residence",0.76,0.84
+5425d695-19bb-43f7-abac-92e8de500381,Investor_5896,Company,China,Flip,36,12811852,2019-11-16,"Jumeirah Lake Towers,City Walk",0.6,0.84
+4faa4a95-3e10-450e-b996-55492c622d78,Investor_1358,Family Office,India,Buy & Hold,45,96482852,2016-07-02,"Palm Jumeirah,Discovery Gardens,Emirates Living",0.27,0.52
+a5d5a53a-ae85-4913-938a-354c4824dd05,Investor_6934,REIT,USA,Flip,44,95497375,2021-11-20,"Business Bay,Dubai Investment Park,Jumeirah Village Circle",0.68,0.48
+981fcaad-5aae-40f7-8e97-5836360a0f2b,Investor_1786,REIT,France,Buy & Hold,33,51126880,2024-08-10,"International City,Dubai Marina,Jumeirah Lake Towers,Jumeirah Beach Residence,City Walk",0.54,0.62
+0b8ed2a8-8f37-4538-bbe9-a1379f3910b6,Investor_2099,Family Office,Saudi Arabia,Mixed Portfolio,6,75932501,2016-01-14,Studio City,0.24,0.56
+b3b6a40d-d26c-4a9a-a8e1-300bd84b16a7,Investor_8675,Individual,China,Flip,49,10809109,2016-03-09,"City Walk,Discovery Gardens,Sports City,Motor City",0.89,0.77
+25887166-529e-42f2-ac2e-39d02ed14385,Investor_6413,Family Office,Saudi Arabia,Flip,42,78205227,2020-12-24,"Sports City,International City,Business Bay,Emirates Living",0.62,0.11
+d2470d10-d192-44ec-9c46-77bcfa77050d,Investor_1309,REIT,UAE,Flip,21,58331055,2023-02-07,"Dubai Hills Estate,Jumeirah Lake Towers,Discovery Gardens",0.69,0.28
+b4d7470c-cd45-4162-b014-a1607813e024,Investor_6810,Government,China,Flip,13,20902315,2022-06-24,"Arabian Ranches,Jumeirah Village Circle,Business Bay",0.58,0.95
+2825e79f-6eec-4f4e-8a4d-c3b6aa675d20,Investor_3086,Individual,France,Development,5,44951077,2021-04-03,"Emirates Living,Studio City",0.37,0.48
+e187331b-9add-4e3d-9564-cdffacdc79b5,Investor_4817,Fund,Pakistan,Development,2,19429726,2019-11-11,Jumeirah Beach Residence,0.12,0.88
+7b3052ac-a176-48a4-9a91-383b334df1b7,Investor_4417,Family Office,Russia,Buy & Hold,29,59860762,2020-04-24,"Emirates Living,Jumeirah Beach Residence",0.63,0.21
+e184d389-2880-4664-88f5-b2d083bafb8c,Investor_9301,Company,China,Mixed Portfolio,8,22861785,2016-04-21,"Jumeirah Village Circle,Motor City",0.77,0.42
+3bc2c630-9176-4fcc-8831-33f07c24a1a4,Investor_7801,Fund,Pakistan,Flip,6,69036333,2020-10-03,"City Walk,Sports City,Jumeirah Village Circle,Dubai Hills Estate",0.11,0.44
+a7189045-7ea4-4f5a-89ef-8c473de07711,Investor_7558,REIT,Saudi Arabia,Development,24,42605042,2024-01-22,"DIFC,Dubai Hills Estate,Downtown Dubai,Jumeirah Lake Towers",0.68,0.45
+34a8284a-fd24-4760-bc9e-d77a92d339fd,Investor_1259,REIT,UK,Development,3,19889241,2021-12-31,"Business Bay,Dubai Investment Park",0.57,0.23
+fa7220d0-a6cf-4367-b995-28df8f3521dd,Investor_1638,REIT,UAE,Mixed Portfolio,14,89711501,2021-07-03,"International City,Arabian Ranches,Studio City",0.26,0.94
+b61619cd-d0e7-4fd4-8882-7ddee17e5c92,Investor_3975,Company,USA,Buy & Hold,11,5023864,2019-03-19,"DIFC,Jumeirah Beach Residence",0.66,0.92
+be3cb381-c153-43b2-970f-9258becbfeee,Investor_6260,Fund,UAE,Buy & Hold,22,4824787,2019-07-07,Dubai Investment Park,0.92,0.14
+b5be3a72-b4a6-4561-a074-223cfe63ee92,Investor_9604,REIT,India,Flip,7,3005006,2020-11-17,"Downtown Dubai,International City",0.99,0.2
+d142a266-8ce0-4a27-a889-4c629482925c,Investor_8609,REIT,Russia,Mixed Portfolio,29,19039586,2018-01-10,DIFC,0.53,0.91
+1003006d-c0bd-4fdd-953c-916306bb2569,Investor_3100,Fund,USA,Mixed Portfolio,24,83357282,2017-04-18,Motor City,0.54,0.85
+dd6027b5-6214-4bde-a35d-fb6fc60ca28b,Investor_4215,Government,India,Flip,33,18422482,2023-03-11,"Downtown Dubai,Jumeirah Village Circle",0.75,0.35
+8abecfcf-eb47-4c35-b2f3-32d29770b442,Investor_2724,Government,Pakistan,Flip,17,25780183,2016-08-08,"Jumeirah Lake Towers,Discovery Gardens,City Walk",0.78,0.22
+b8b3e561-05de-4328-bcec-41637de5ec22,Investor_7140,REIT,India,Mixed Portfolio,48,5593643,2016-05-27,"Dubai Marina,Emirates Living,Arabian Ranches,Business Bay",0.23,0.13
+4e277d65-8ac4-446d-b76d-2b03b1d40bde,Investor_3652,Company,Russia,Development,1,77784181,2019-05-26,"Palm Jumeirah,Emirates Living,Jumeirah Beach Residence,Dubai Hills Estate",0.99,0.51
+88be3be7-5176-4de3-9888-9fea548813dc,Investor_9943,Fund,Germany,Buy & Hold,48,38487708,2017-06-10,"Jumeirah Lake Towers,Studio City,Arabian Ranches,Dubai Investment Park,Motor City",0.83,0.54
+fc74c5f6-add7-448f-bc5c-385c27d7af01,Investor_8476,Government,Saudi Arabia,Development,49,70668788,2021-11-04,Palm Jumeirah,0.48,0.12
+45a7409c-1f83-4951-820c-0f2cd9c03e60,Investor_3068,Government,Saudi Arabia,Flip,30,15916551,2023-06-11,"DIFC,Dubai Investment Park,Palm Jumeirah,Sports City,Dubai Hills Estate",0.49,0.99
+23864572-9576-445e-b567-ef88c95e525d,Investor_9269,Individual,India,REIT,33,27156080,2023-03-15,"Business Bay,Emirates Living",0.76,0.42
+14ba858c-f9af-4170-a7d8-cff72806b706,Investor_3486,Government,China,Mixed Portfolio,34,7307591,2015-10-26,"Palm Jumeirah,Dubai Hills Estate,Arabian Ranches,Motor City,Downtown Dubai",0.19,0.25
+0c733364-9ae1-443e-b62e-6e3031b79861,Investor_4707,Family Office,India,Mixed Portfolio,40,57910429,2022-07-10,"Dubai Marina,Jumeirah Beach Residence,DIFC",0.45,0.57
+5ff79818-26cf-4a59-8ee8-aacbd35b9863,Investor_8807,REIT,Germany,Development,9,97844485,2021-06-05,Downtown Dubai,0.33,0.6
+20500775-806f-43aa-bc01-7cc7e23cfdc4,Investor_4420,Fund,China,Mixed Portfolio,5,8948672,2016-04-27,"Dubai Investment Park,Studio City,Motor City,International City",0.24,0.97
+49f0c8d7-eedf-46ac-a414-60a8a980167b,Investor_7410,Company,India,REIT,26,80378566,2022-08-15,"Palm Jumeirah,Downtown Dubai",0.3,0.95
+a3bed3ab-ef15-4c16-8d90-80831ce5c290,Investor_7577,Company,Saudi Arabia,Mixed Portfolio,44,21380452,2022-06-25,"Dubai Investment Park,City Walk,Jumeirah Lake Towers,Business Bay",0.67,0.57
+f12dd2b7-e8ca-4e5a-9ce2-3780730f2adb,Investor_2681,Government,China,REIT,15,89640264,2019-11-16,"Jumeirah Village Circle,Discovery Gardens,Dubai Investment Park",0.16,0.98
+fa72f17a-e60e-4363-a3d1-42d235b23388,Investor_6593,Family Office,UK,Buy & Hold,25,35286237,2023-07-11,"International City,Arabian Ranches,Motor City,Jumeirah Beach Residence",0.36,0.57
+69a80d78-39b9-4441-ac63-62b3accf1741,Investor_6940,Individual,Pakistan,REIT,45,59046122,2020-01-23,Jumeirah Village Circle,0.88,0.35
+fd96586d-f9f9-438f-b46e-0f5722d0f3ed,Investor_5519,Family Office,UK,Mixed Portfolio,22,57323846,2017-04-24,"Palm Jumeirah,Downtown Dubai,Business Bay",0.19,0.83
+891c5d99-64c7-4331-8541-330bc8f91829,Investor_9109,Company,Pakistan,Mixed Portfolio,28,90339143,2021-10-23,Motor City,0.6,0.85
+f0e74d4e-304e-45b8-933f-3591ad85bde1,Investor_9502,REIT,Russia,Buy & Hold,39,15468359,2018-03-03,Jumeirah Village Circle,0.21,0.79
+971087ad-0844-4fc0-8e49-b0d329066588,Investor_7911,Fund,Russia,Buy & Hold,23,87850744,2015-12-14,"Discovery Gardens,Sports City,Dubai Marina,Emirates Living",0.83,0.67
+f7b6f56c-70cf-4902-852c-7ab13ec41880,Investor_1420,REIT,Pakistan,Mixed Portfolio,12,4240609,2017-09-20,"Jumeirah Village Circle,DIFC,International City",0.82,0.76
+64c27bbe-f345-48fd-a524-16b479c5ead9,Investor_6875,Fund,USA,Development,16,38128982,2019-10-16,Jumeirah Lake Towers,0.51,0.99
+88fb57bf-f968-411c-86a9-dd61704b92ab,Investor_3631,Fund,Pakistan,Mixed Portfolio,50,74454371,2017-07-09,"Jumeirah Beach Residence,Palm Jumeirah,Arabian Ranches",0.86,0.87
+36cdf747-14ec-4fff-a9d6-12eb0dc67c1c,Investor_6763,Fund,China,Mixed Portfolio,48,31544052,2021-03-29,"Jumeirah Village Circle,Downtown Dubai,Jumeirah Beach Residence",0.38,0.55
+7c3d20c1-e58a-4657-82ef-3dea2dc5ac32,Investor_7270,Company,Pakistan,Development,46,66154738,2020-11-09,"Discovery Gardens,Palm Jumeirah,Arabian Ranches",0.96,0.39
+2d72ab5c-7752-4da8-bd82-e5d4b83bff9e,Investor_4109,Individual,China,Development,33,94983051,2017-08-03,"DIFC,Arabian Ranches,Jumeirah Beach Residence,Studio City,Palm Jumeirah",0.17,0.18
+66bb0061-5f25-44d1-865e-01e218bcd879,Investor_7629,Family Office,UK,Flip,46,46656032,2018-10-25,"Jumeirah Beach Residence,Dubai Investment Park,Studio City",0.19,0.96
+730b7018-051e-4871-9196-f9e28a017e34,Investor_2346,Fund,USA,Flip,29,6472438,2022-01-12,"Dubai Investment Park,City Walk,Business Bay,Dubai Hills Estate,Jumeirah Village Circle",0.85,0.98
+c46bb67c-2a1b-428e-b27a-249045621f1a,Investor_4700,Company,Germany,Flip,10,2666763,2021-06-18,"Business Bay,Motor City",0.85,0.47
+5fda6f21-fc56-4b2b-b103-6be4f7a08a2b,Investor_4149,Government,Russia,Flip,34,78966489,2020-04-23,"Jumeirah Beach Residence,City Walk,Palm Jumeirah,Studio City,Discovery Gardens",0.34,0.43
+1f988310-5822-4733-89ba-f07d2455159b,Investor_6245,Company,France,Development,5,94039603,2023-04-14,"Dubai Hills Estate,Dubai Investment Park,Jumeirah Village Circle",0.98,0.81
+2bd95286-825a-4dca-bdba-8842f1f7173f,Investor_8794,Government,France,Development,7,82079800,2022-03-27,"Studio City,Dubai Hills Estate,Discovery Gardens",0.34,0.85
+2d513c0d-af4c-432d-8710-c03db27e4f4b,Investor_8174,REIT,Germany,Mixed Portfolio,28,9678217,2022-11-14,Studio City,0.5,0.69
+c1ff699a-aaac-4194-adda-fa21b263746b,Investor_8809,Fund,India,Buy & Hold,44,48568410,2024-01-22,"City Walk,Business Bay,Motor City",0.49,0.79
+a948f8c5-cf14-44ce-9cc3-58aebc054c62,Investor_7492,Company,Pakistan,REIT,20,73262247,2016-12-21,"Jumeirah Lake Towers,Dubai Hills Estate,International City",0.23,0.59
+b12a2987-a968-480c-a26c-78756f3df85a,Investor_6152,Family Office,UAE,Mixed Portfolio,4,96578284,2016-04-30,"Jumeirah Village Circle,Downtown Dubai,Sports City",0.58,0.76
+1f0dbac7-429c-435a-b1aa-bb72622f2bb0,Investor_4188,Family Office,Pakistan,Mixed Portfolio,50,25070716,2022-10-04,Motor City,0.76,0.4
+e0ccc0fe-e724-465f-81d5-0821c64d7b0f,Investor_7611,Individual,China,REIT,27,52175972,2016-12-24,"Dubai Investment Park,Jumeirah Lake Towers,Arabian Ranches,Dubai Marina",0.38,0.26
+149624d5-4413-435e-843a-3c212b5f273e,Investor_5128,REIT,Germany,Buy & Hold,12,35964465,2020-04-15,"Dubai Hills Estate,Palm Jumeirah",0.99,0.67
+50792905-59c0-48d7-97dd-14701602ee9f,Investor_8401,Fund,Saudi Arabia,Mixed Portfolio,17,3738143,2017-12-29,Studio City,0.15,0.44
+f817340e-0f98-4942-b080-6f951f6d5225,Investor_1028,Company,France,Buy & Hold,1,44870361,2020-06-23,"Business Bay,Palm Jumeirah,Downtown Dubai",0.96,0.27
+94a420c9-34fb-474d-97be-461fd5f94296,Investor_9162,Government,India,Mixed Portfolio,14,47338397,2023-09-14,"Palm Jumeirah,Arabian Ranches",0.9,0.74
+00c8033b-d279-474c-aa49-7c3a185b9485,Investor_9312,Company,India,REIT,2,84494515,2024-05-10,"Jumeirah Village Circle,DIFC,Sports City,Dubai Marina,Arabian Ranches",0.71,0.63
+efd12b67-7242-41e1-9d41-dae332b3b2ac,Investor_2633,Company,Germany,Flip,39,21837653,2017-11-30,"Discovery Gardens,Jumeirah Beach Residence,Studio City",0.95,0.7
+f86a1e91-757c-4456-8eef-8eaa804af202,Investor_6543,Individual,Pakistan,Development,10,33138616,2019-04-15,"Jumeirah Beach Residence,Dubai Marina",0.42,0.92
+100a1380-9fb5-4676-921a-53ccdbcae154,Investor_2618,REIT,France,Buy & Hold,43,88886323,2021-03-13,"Studio City,Sports City,Jumeirah Beach Residence,Motor City,City Walk",0.68,0.35
+335635fd-198c-42ef-9ac2-d0cad7604f75,Investor_8338,Company,Pakistan,Development,41,58219594,2020-04-04,"Jumeirah Beach Residence,Downtown Dubai,Motor City,Business Bay",0.54,0.39
+d9bb4041-bda7-4f10-ac04-8158476c95d5,Investor_7370,REIT,UK,REIT,50,39546517,2016-02-23,Sports City,0.85,0.27
+8d6ed0c8-b573-4c68-8e71-611fdedb3889,Investor_6031,Individual,China,Mixed Portfolio,35,24267818,2017-08-08,"Dubai Marina,Business Bay,Studio City",0.97,0.45
+d5874a30-cf6c-47ef-9c54-8af862b8ac8f,Investor_9810,Fund,UAE,REIT,48,69232914,2018-11-30,"Sports City,Palm Jumeirah",0.71,0.14
+1e590b51-97d8-48ef-9bb2-aa6197390c15,Investor_2616,Company,Germany,Flip,15,96618129,2021-03-14,Emirates Living,0.55,0.61
+578473e0-0033-4d83-8ff3-bd6ba701d235,Investor_1255,Government,UAE,REIT,14,93528295,2023-06-27,"Business Bay,Dubai Hills Estate,Jumeirah Lake Towers",0.99,0.99
+abb733b3-847b-4448-a9fd-16d5301b6cdb,Investor_7091,Company,Russia,Buy & Hold,10,20014547,2018-01-28,"City Walk,International City",0.71,0.74
+ca4f44d7-9e94-4961-ae9c-7ccaf8ec8e1e,Investor_6074,Family Office,Pakistan,Development,27,93647982,2024-09-04,"International City,Jumeirah Beach Residence,City Walk,Studio City",0.91,0.84
+2a83a671-65d3-4f04-afff-0b6d6649767f,Investor_5152,REIT,China,Buy & Hold,41,93948882,2020-05-10,Discovery Gardens,0.22,0.72
+02170fb3-c496-4769-b558-c4470ad29823,Investor_2874,Individual,Saudi Arabia,Flip,32,9925521,2022-09-25,"Jumeirah Lake Towers,Arabian Ranches,City Walk,Studio City,Palm Jumeirah",0.94,0.46
+81424593-11bc-4684-a600-03170e9e4759,Investor_5693,Government,UK,Mixed Portfolio,17,15561556,2016-04-03,Jumeirah Beach Residence,0.84,0.9
+d7ddac90-df82-4a97-af3b-8cfdef9a8444,Investor_9158,Individual,Pakistan,Flip,34,5790926,2019-07-14,"Jumeirah Village Circle,Studio City,Dubai Hills Estate,Business Bay",0.85,0.27
+b7651e30-ec14-49f4-a6a6-86969efe75b4,Investor_2104,Family Office,Pakistan,REIT,40,50781610,2019-11-17,"Discovery Gardens,Dubai Marina",0.7,0.55
+bd21a421-620e-45cc-a1db-7be78bbbf679,Investor_4447,Company,USA,Buy & Hold,37,2907386,2023-01-29,"City Walk,Arabian Ranches,Palm Jumeirah",0.52,0.91
+3abc251c-f781-4349-9399-8fdcf9602057,Investor_7411,Individual,Russia,Flip,19,68859758,2024-01-29,"Arabian Ranches,Emirates Living",0.4,0.75
+67666c26-a3d2-4d88-bce1-f959337a2626,Investor_8217,Individual,Saudi Arabia,Flip,39,71941666,2021-07-25,"Arabian Ranches,Dubai Investment Park,Jumeirah Lake Towers,Business Bay,Dubai Marina",0.72,0.47
+e5a4521c-938b-4140-8ae9-fb23bd7e000f,Investor_1286,Government,China,Flip,47,44171972,2020-08-20,Dubai Investment Park,0.91,0.72
+e7f5f2b9-837b-4105-a52c-4ebedec77a5a,Investor_7245,Individual,UAE,Mixed Portfolio,4,53013029,2016-03-03,"Jumeirah Village Circle,Dubai Hills Estate,Dubai Marina,DIFC,City Walk",0.17,0.68
+9ee184ec-07a9-47f2-8584-89d7c469e9cf,Investor_7325,REIT,UK,Mixed Portfolio,25,61353847,2016-05-26,"Motor City,City Walk",0.41,0.99
+40b2e9a4-a8a0-4fe4-ab44-c0272b35fd72,Investor_8850,REIT,India,REIT,35,49336521,2022-04-13,"DIFC,Arabian Ranches",0.97,0.45
+54612af0-6da6-46c8-a7e8-412e3c06bad9,Investor_3626,Fund,USA,Buy & Hold,28,41246214,2023-03-06,Discovery Gardens,0.47,0.89
+fe0f41d0-a69c-4bdf-a28d-efb5dde58d88,Investor_7590,Company,India,Development,14,55464528,2020-01-26,"Discovery Gardens,Studio City,Sports City,Emirates Living",0.52,0.4
+4d022e02-f3c8-45ae-84fa-405146a0c766,Investor_7535,Family Office,India,Mixed Portfolio,14,34018516,2022-05-11,"Emirates Living,Palm Jumeirah",0.91,0.59
+153467c5-63e9-4198-97db-ed5840964798,Investor_7140,REIT,UK,Flip,26,19969191,2019-07-08,Studio City,0.69,0.37
+a1dcf516-43da-4221-8fdc-855b07008259,Investor_7752,Government,UAE,Flip,14,46323065,2018-08-09,"Jumeirah Beach Residence,Sports City",0.49,0.95
+2ed773cd-e200-4200-92e3-2ccd6ae0b548,Investor_4382,Individual,Russia,Mixed Portfolio,43,24131189,2021-09-22,"Dubai Investment Park,Jumeirah Beach Residence,Emirates Living,Downtown Dubai,Motor City",0.38,0.32
+cfc82f9d-990d-47d0-891a-4a041e905314,Investor_3139,Family Office,Germany,Development,40,83184856,2018-11-03,Jumeirah Village Circle,0.81,0.18
+e2771338-0aeb-4614-8c18-b90640c94b20,Investor_1864,Individual,USA,Buy & Hold,21,48874974,2022-07-07,"Emirates Living,DIFC",0.86,0.43
+50b544a3-93be-42c5-8980-159f21259f10,Investor_8317,Fund,Germany,Development,46,24517361,2021-07-17,"Jumeirah Village Circle,Arabian Ranches,Dubai Investment Park",0.25,0.21
+959f84e5-126a-4ec4-a072-bcc7c37b4a92,Investor_7712,Government,India,Mixed Portfolio,36,85380335,2019-07-11,"Dubai Hills Estate,Jumeirah Village Circle,Dubai Investment Park",0.92,0.19
+67b8a795-1527-4c6a-ad1d-b6bf9795ecf3,Investor_3221,Individual,Russia,REIT,25,65005756,2022-11-17,Palm Jumeirah,0.94,0.63
+1f846129-4f34-402b-91a5-d6bc3e55951f,Investor_8329,Company,UAE,REIT,43,77072327,2020-12-07,"Downtown Dubai,Palm Jumeirah,Studio City",0.26,0.66
+511ea45d-3719-4f86-9a3e-221e0ad35a2c,Investor_7449,Family Office,India,Buy & Hold,43,27458585,2017-09-05,"DIFC,Downtown Dubai,Palm Jumeirah",0.64,0.82
+43d2a6cf-7f61-44ce-995f-6a5116619d36,Investor_7844,Individual,India,Development,17,26772910,2019-01-13,"Sports City,Business Bay,Motor City",0.39,0.25
+33f42372-1459-48a6-b239-3bcc09079463,Investor_4912,Family Office,UK,Development,29,59109521,2021-01-02,City Walk,0.77,0.78
+63b7400b-bc20-4b4a-8eb4-9a646e4a565b,Investor_2314,REIT,USA,Mixed Portfolio,3,18535526,2017-10-16,Business Bay,0.37,0.28
+0e6a1e25-a77a-43c5-b19f-970bf0d16610,Investor_7226,REIT,Russia,Buy & Hold,45,91181417,2021-10-04,"Jumeirah Lake Towers,Palm Jumeirah,International City,Emirates Living",0.74,0.22
+666fb7b3-caf2-427b-8d57-d3472e710219,Investor_5285,Fund,France,Flip,32,38801233,2021-10-19,Discovery Gardens,0.93,0.18
+9984cd69-d595-45b1-9977-4f077c4e2d48,Investor_6220,Family Office,France,Buy & Hold,2,18250444,2016-03-30,Dubai Hills Estate,0.17,0.44
+d78694e6-8e84-4a66-8044-1839daa4bfda,Investor_4882,Company,Saudi Arabia,Buy & Hold,1,98053794,2024-08-21,"Downtown Dubai,Dubai Investment Park,Discovery Gardens",0.67,0.4
+8a2be6f0-eab1-4cd4-8fec-ef965940befd,Investor_2733,Family Office,China,Buy & Hold,4,95509095,2023-03-27,"Downtown Dubai,Arabian Ranches",0.18,0.96
+b8642608-7038-484d-972d-736a91b76818,Investor_8093,Individual,Pakistan,Flip,4,97231316,2023-11-25,"Jumeirah Lake Towers,Sports City,Emirates Living,Dubai Hills Estate",0.84,0.74
+9242246a-9221-4543-9a21-41026fadaf6e,Investor_4048,REIT,Germany,Development,47,91752569,2018-02-25,Discovery Gardens,0.27,0.11
+6f4ecafd-e8be-46a2-afd0-f3063a64473b,Investor_4239,Company,UK,Flip,35,78233454,2022-09-01,Downtown Dubai,0.27,0.86
+c426312e-1aff-4e9f-bc57-6f4804907a66,Investor_3661,Company,Russia,Mixed Portfolio,19,81739206,2020-03-02,"DIFC,Emirates Living,International City,Dubai Investment Park,Motor City",0.41,0.32
+024286ee-4eea-4f09-96bc-8d1a54b34a03,Investor_5123,Individual,UK,Flip,5,9270439,2024-02-01,"Palm Jumeirah,Dubai Marina,International City,Sports City",0.71,0.91
+7e4a1e84-df33-4cb6-8d3d-38e942eaa8ac,Investor_1196,REIT,Saudi Arabia,Development,38,49516995,2016-12-17,"Downtown Dubai,City Walk,Jumeirah Lake Towers,Dubai Hills Estate,Arabian Ranches",0.77,0.53
+3e636eec-2cd8-4610-940b-5d890b3ad44e,Investor_5919,REIT,Germany,Development,35,26539627,2022-03-26,"Arabian Ranches,Dubai Marina,Palm Jumeirah,Emirates Living,Dubai Hills Estate",0.89,0.39
+49e65895-d4a1-4014-a06e-f4f7e234c98d,Investor_8596,REIT,Germany,REIT,10,20070042,2016-07-07,"International City,Business Bay,Dubai Investment Park,Jumeirah Beach Residence",0.39,0.99
+6984363a-907f-4296-87a0-41840b9762aa,Investor_3447,Family Office,Russia,Development,1,59301666,2015-12-01,"Dubai Investment Park,Arabian Ranches",0.3,0.11
+ea4dc394-28ad-4047-96c3-aa1da3e788c8,Investor_3455,REIT,UK,Development,13,3909930,2019-03-19,"Arabian Ranches,DIFC,City Walk,Jumeirah Village Circle",0.27,0.65
+8003a924-dc6d-4ee3-b5ab-0d3a89086970,Investor_8091,REIT,Russia,Flip,32,90360714,2024-02-14,"Jumeirah Village Circle,Downtown Dubai,Jumeirah Lake Towers",0.74,0.65
+798af3e9-999e-4626-a9a5-8b680cd4cf1f,Investor_4852,Company,France,REIT,14,56880935,2019-04-16,DIFC,0.67,0.4
+c68cca37-75aa-4b7d-8514-00e41806f2e6,Investor_8028,Fund,China,Buy & Hold,39,18371542,2018-11-07,"Jumeirah Lake Towers,Palm Jumeirah,Dubai Investment Park",0.43,0.97
+ad4224aa-353b-46f1-afb4-f2c1cd852032,Investor_1290,Individual,Germany,Development,27,34032305,2022-06-11,"Dubai Hills Estate,Jumeirah Lake Towers,Motor City",0.81,0.6
+8d07f8a6-f1f2-46ac-bfb5-efb0a1ef62a6,Investor_6424,Government,Pakistan,Flip,21,85917104,2018-05-16,"Dubai Hills Estate,Studio City",0.54,0.52
+adae7065-4652-425f-86ec-89d7d6454842,Investor_6135,Individual,France,Buy & Hold,25,20911932,2017-10-18,"Downtown Dubai,Sports City,Motor City",0.52,0.91
+32534994-f9f6-446c-a717-6dd4791580a8,Investor_5358,Family Office,Saudi Arabia,REIT,25,26928411,2015-12-01,"Dubai Investment Park,Palm Jumeirah,Dubai Marina",0.53,0.3
+68e18c8a-609a-474c-9be4-2463a5a9ea1f,Investor_6361,Individual,USA,Mixed Portfolio,31,76413975,2023-02-25,"Jumeirah Lake Towers,Motor City,Studio City",0.64,0.58
+fb0b361c-e990-45b8-b02c-565836ab3ac6,Investor_4083,Family Office,China,Mixed Portfolio,8,40677387,2016-07-25,Emirates Living,0.57,0.55
+c6c23690-e052-42aa-81f8-cb1c919c6a53,Investor_7160,Company,Russia,Buy & Hold,20,36029200,2022-07-02,"DIFC,Business Bay",0.13,0.68
+6fb57caa-796d-4fb3-868e-b0a73b40ee57,Investor_2289,REIT,USA,REIT,50,20812515,2019-10-13,"Studio City,Arabian Ranches,Discovery Gardens,Jumeirah Beach Residence",0.38,0.94
+718f9db9-c6bc-4286-aa1a-5f584f053b47,Investor_5521,REIT,Pakistan,Mixed Portfolio,30,39220213,2022-12-18,"Dubai Investment Park,Jumeirah Lake Towers,Business Bay,Dubai Marina,Motor City",0.88,0.6
+f02578ff-fd13-4d1b-b64d-495560acc6ff,Investor_3322,Fund,USA,REIT,36,4417889,2017-09-27,"Jumeirah Lake Towers,Jumeirah Beach Residence,Arabian Ranches,Motor City",0.65,0.78
+012b5776-f80d-4751-b4b9-777e5d02079a,Investor_5635,Family Office,USA,Mixed Portfolio,49,77306755,2024-05-07,"Dubai Marina,Dubai Investment Park,Motor City,Studio City,Discovery Gardens",0.23,0.19
+2ddd6fee-5fde-4294-855f-9cdda83d20c3,Investor_4850,Company,Saudi Arabia,Development,23,46386805,2023-11-18,"Jumeirah Lake Towers,Downtown Dubai,Motor City,Emirates Living",0.59,0.57
+7c300894-ac47-4d3b-9427-6a0d0a2a44a4,Investor_7487,Family Office,India,Mixed Portfolio,6,28817237,2019-10-05,"Jumeirah Village Circle,City Walk",0.3,0.15
+68c80457-2e7d-4d2c-8975-fee357f9d8a4,Investor_1396,Family Office,UAE,Flip,31,6690138,2024-04-26,"Dubai Hills Estate,Dubai Investment Park",0.96,0.22
+5b7bc693-f1de-42d3-af87-d13211f31e6b,Investor_6291,Fund,Russia,REIT,2,69484185,2016-03-16,"Motor City,Business Bay,International City",0.6,0.14
+8dd5bd1b-dd1c-440b-8ef1-33f5ccf52ed2,Investor_1589,Government,Pakistan,Flip,38,66963322,2024-09-16,"Downtown Dubai,Palm Jumeirah,Arabian Ranches",0.46,0.24
+5279c2f1-c8b0-41a2-97e6-428f8b6db369,Investor_5610,Individual,UK,Mixed Portfolio,24,69569102,2020-06-08,"Emirates Living,City Walk",0.4,0.39
+add38f21-1a81-4da4-8871-06d2b5f6dcfe,Investor_7432,Fund,Saudi Arabia,Development,29,4867816,2019-10-18,"Sports City,Jumeirah Beach Residence,Emirates Living,Downtown Dubai,Dubai Marina",0.14,0.82
+698222d4-5443-4d54-8595-5f10e15d2357,Investor_4368,Family Office,Pakistan,Mixed Portfolio,48,41078726,2017-01-20,"DIFC,Palm Jumeirah",0.52,0.68
+6c98a212-390c-4b7b-b620-58249edef248,Investor_5134,Company,Pakistan,Mixed Portfolio,2,42594284,2024-08-26,"Arabian Ranches,Jumeirah Lake Towers",0.29,0.95
+86065a70-da69-4a15-893c-faa60355ec5f,Investor_6363,REIT,Germany,REIT,39,23180457,2019-04-12,"Studio City,DIFC,Dubai Hills Estate,Dubai Marina",0.65,0.9
+57e24efb-ce8e-420e-861a-24ad4350112e,Investor_1819,Individual,UAE,Development,1,41727906,2019-10-20,"Arabian Ranches,Jumeirah Village Circle,Dubai Marina,Studio City",0.29,0.27
+68d03099-3bf8-4c7c-b814-51b1e3122fa6,Investor_7108,REIT,Saudi Arabia,Development,27,88728193,2024-07-16,"Dubai Marina,Jumeirah Village Circle,DIFC",0.23,0.51
+d8002196-7e1f-4b97-b49e-e526a82154b0,Investor_2971,Company,UAE,REIT,12,2925224,2023-07-12,Dubai Hills Estate,0.51,0.9
+d0d25cc1-a86e-4de7-aff5-2cae5d1dc169,Investor_5475,Family Office,UK,Buy & Hold,45,76595538,2019-05-31,Dubai Investment Park,0.29,0.46
+289ecac4-2298-4498-9392-7681358eff8a,Investor_1489,REIT,UAE,REIT,28,63505408,2020-03-01,"Business Bay,Dubai Marina",0.69,0.96
+055492c8-e8bb-4d7b-b188-927ae06305e0,Investor_5613,Fund,Germany,Flip,18,4276640,2017-04-06,"Emirates Living,Dubai Hills Estate,Discovery Gardens",0.83,1.0
+16a18529-3196-42aa-8aba-cae3a59c5d40,Investor_8132,Individual,France,REIT,15,97042088,2016-06-18,DIFC,0.43,0.64
+fc190ced-631e-42f1-9325-980653f35bc8,Investor_8741,REIT,France,Flip,24,89395975,2020-08-17,"Studio City,Dubai Investment Park,Jumeirah Lake Towers,Palm Jumeirah,Motor City",0.41,0.26
+13b366cb-b3c7-4ad3-b1ec-7c7df49955b2,Investor_7096,REIT,Germany,Development,50,40251912,2023-02-19,"Studio City,International City,Palm Jumeirah,Emirates Living",0.18,0.33
+e38e5264-c305-41b9-bf73-97925ec7f781,Investor_6452,Company,USA,REIT,29,73371781,2017-02-28,"Dubai Marina,Jumeirah Lake Towers",0.56,0.87
+40959b34-73d7-4380-87b1-958821ffb2c2,Investor_3376,Family Office,China,Development,35,85919213,2016-06-09,"Dubai Investment Park,Emirates Living",0.84,0.46
+fc8b04a9-4f5f-4839-af6f-ef9b7b5720ec,Investor_2833,REIT,France,Mixed Portfolio,3,70735350,2023-08-17,"Business Bay,City Walk,Arabian Ranches,Palm Jumeirah,Jumeirah Village Circle",0.72,0.81
+b8864621-71a3-43e3-b0b3-2cd6fb2b94cc,Investor_2915,REIT,USA,Development,36,54010703,2018-12-04,"Dubai Hills Estate,Palm Jumeirah,International City,Sports City",0.78,0.2
+cc98adf0-89ff-4767-8966-01d717a52ee3,Investor_8432,Family Office,India,Flip,46,1080009,2015-11-22,"Jumeirah Village Circle,Motor City,Dubai Investment Park,Discovery Gardens,Dubai Marina",0.73,0.38
+ce87d854-d7e4-4e7b-bef0-f9efe05dc601,Investor_5962,REIT,Pakistan,Mixed Portfolio,41,13963717,2022-08-25,Business Bay,0.13,0.21
+13e0fb30-9a9f-4f5b-a48d-6a4cc0869116,Investor_2168,Company,Saudi Arabia,Development,29,16965592,2020-01-22,"Jumeirah Beach Residence,Business Bay,DIFC",0.41,0.44
+d2f75df1-3f7e-4fea-ad6d-1996c708634d,Investor_8020,Fund,China,Mixed Portfolio,31,86257731,2017-11-23,"Dubai Marina,Motor City,Studio City,Dubai Hills Estate,Arabian Ranches",0.42,0.33
+4c744b52-5f3d-4288-89e9-dc22ff784aaa,Investor_7287,REIT,France,Buy & Hold,28,93421138,2018-03-17,"Palm Jumeirah,Motor City,Business Bay,Emirates Living,Sports City",0.97,0.78
+dd4d828f-731e-423a-ab07-d83139cbccc5,Investor_8780,Individual,UK,Mixed Portfolio,6,12135331,2022-01-14,Discovery Gardens,0.44,0.4
+5b70edab-3d33-4c67-9bc2-46cc46726e29,Investor_8688,Government,UAE,Development,20,75172174,2016-01-28,"Emirates Living,International City,Jumeirah Village Circle,Business Bay",0.72,0.63
+65ca2b8b-4780-48b6-b13b-a640cb6fb140,Investor_1462,Family Office,France,REIT,5,68387045,2022-10-04,"City Walk,Jumeirah Beach Residence,Dubai Marina,Dubai Investment Park",0.63,0.73
+6f7e95c8-e91c-417a-b5f3-2c16f5fd7a4c,Investor_3849,REIT,Germany,Development,11,6344079,2021-07-14,"Jumeirah Lake Towers,International City,Jumeirah Village Circle,Studio City,Downtown Dubai",0.97,0.17
+a26a8379-e67c-43e6-9b1c-81cbf83de952,Investor_8966,REIT,Pakistan,Buy & Hold,25,88761151,2022-10-23,"Dubai Marina,DIFC,Arabian Ranches,Jumeirah Village Circle",0.41,0.71
+73acbc95-23b4-48ee-832e-38f0d9adb5da,Investor_4747,REIT,Germany,Buy & Hold,7,23069861,2023-03-25,"Business Bay,Discovery Gardens",0.55,0.81
+b7d71706-a8f7-4dfd-abbf-f891cf03ebcb,Investor_1336,REIT,France,Development,41,73945272,2023-08-07,"Motor City,Dubai Marina,City Walk,Emirates Living",0.6,0.48
+03c42018-4bd5-40e3-9c91-26e62e7ac04b,Investor_2429,Individual,UK,Development,31,54865194,2019-02-07,"Dubai Investment Park,Jumeirah Village Circle",0.12,0.18
+dc19230a-24fd-4aaa-8f27-a951129aa492,Investor_4219,Company,Germany,Mixed Portfolio,24,75808730,2021-11-03,"Downtown Dubai,Arabian Ranches,International City,Dubai Marina",0.6,0.31
+822b08a9-fc44-442e-a989-a22074fcd254,Investor_5920,Company,India,REIT,1,50910011,2024-02-13,"Business Bay,Jumeirah Village Circle,City Walk,DIFC,Motor City",0.11,0.89
+e9283956-d1ef-4d9f-b99b-592e536e7228,Investor_6235,Company,Pakistan,REIT,14,26322457,2017-05-06,"Motor City,Studio City,Emirates Living,Dubai Marina",0.26,0.6
+92fd0f30-f759-4fe0-b8b8-d1786aa5727f,Investor_9870,Family Office,Saudi Arabia,Flip,43,18039689,2019-01-27,"Downtown Dubai,Motor City",0.56,0.99
+e597008a-2aa1-4016-9e03-4cbf359aa6b3,Investor_3698,Government,Pakistan,REIT,41,49549573,2022-04-06,"International City,Dubai Marina,Studio City",0.14,0.39
+4268ca98-7131-49b1-8569-cfe82f64c3ab,Investor_1453,REIT,Pakistan,Development,26,61374937,2017-12-28,"Dubai Investment Park,Motor City",0.65,0.81
+4a758b86-995d-4ca5-83ee-6ad8a37f1da8,Investor_3576,REIT,Pakistan,Mixed Portfolio,34,39604733,2019-03-20,International City,0.64,0.48
+f20411bc-2a25-4fac-b122-8bfe35ea7752,Investor_2390,Government,India,Buy & Hold,24,38230579,2020-05-19,"Discovery Gardens,Jumeirah Lake Towers,DIFC",0.85,0.64
+ac3ddf15-08b7-48a0-8210-71c3adf13228,Investor_8699,Fund,France,REIT,25,93402421,2018-03-07,"Dubai Investment Park,Motor City,Jumeirah Lake Towers,Dubai Marina,Palm Jumeirah",0.54,0.41
+f2f0bc4f-1372-4fa0-a5b3-57b2fa8d915c,Investor_2031,Government,UK,Development,18,39781804,2018-02-15,"Dubai Hills Estate,Jumeirah Lake Towers,Sports City,Discovery Gardens,Jumeirah Village Circle",0.61,0.41
+763e26b4-9f7c-4459-a7b8-8e6afee584c3,Investor_4143,Fund,USA,Mixed Portfolio,44,56235862,2021-09-01,"International City,Emirates Living,Dubai Investment Park",0.82,0.72
+56adcb46-651e-4dae-b2a1-2843bdd42989,Investor_6922,Company,France,Mixed Portfolio,21,28442758,2015-11-04,"Sports City,Arabian Ranches,Jumeirah Village Circle,Palm Jumeirah",0.75,0.36
+0a0f9b88-a862-424f-996c-9e78c6fcc227,Investor_4370,Company,China,Development,12,87902936,2019-03-21,"Dubai Hills Estate,Jumeirah Beach Residence,Motor City",0.75,0.94
+30a1f420-1213-4449-a269-eea1d6e76eac,Investor_9804,REIT,USA,Flip,17,82333763,2023-12-25,"Jumeirah Village Circle,Jumeirah Beach Residence,Sports City",0.1,0.27
+5d01effa-8648-4470-b8ef-fe762057ea3f,Investor_9110,Fund,Germany,Mixed Portfolio,38,38190613,2019-01-22,"International City,Emirates Living,City Walk,Business Bay,Sports City",0.67,0.54
+7bd227aa-0dce-45d1-a043-c4dc471e02dc,Investor_8804,Individual,Russia,REIT,21,17031606,2023-03-23,"Jumeirah Village Circle,Palm Jumeirah",0.78,0.99
+31c2c94b-3b8e-4cf0-bd99-53d97115f272,Investor_2151,Individual,UK,Buy & Hold,36,72836366,2021-10-12,"Jumeirah Village Circle,International City",0.28,0.9
+27fcd5db-0eb9-403e-8ce0-717b4988d48c,Investor_1981,Government,UAE,Buy & Hold,22,84800183,2016-09-20,"DIFC,International City,Dubai Hills Estate",0.31,0.66
+7c91a8f9-3efa-4520-983c-70062f559d90,Investor_5370,Government,France,Development,16,21361218,2024-07-13,"Jumeirah Lake Towers,Dubai Hills Estate,Arabian Ranches,Jumeirah Beach Residence,International City",0.44,0.59
+b12f44b0-56ba-4f28-acff-0fc314f74b5a,Investor_3627,Individual,Saudi Arabia,Mixed Portfolio,48,83427437,2021-10-07,"Jumeirah Village Circle,Studio City,Dubai Hills Estate,International City",0.47,0.32
+eabf306f-8210-4256-bf64-45da06a8a95e,Investor_3713,Government,India,Flip,18,15413227,2024-10-03,"DIFC,International City",0.62,0.64
+46c63311-d908-4947-bec1-6b5f6d3b720b,Investor_8309,REIT,Pakistan,Flip,7,12005469,2020-03-17,"Discovery Gardens,Dubai Investment Park,Jumeirah Beach Residence,International City",0.65,0.44
+88906cb0-e03a-4714-9558-d90499a08c0f,Investor_5451,Government,Pakistan,REIT,28,71321416,2020-12-13,"Business Bay,Motor City,Jumeirah Beach Residence",0.85,0.65
+18f946a2-743b-40df-8457-342ecf37987a,Investor_3367,Fund,Saudi Arabia,Mixed Portfolio,45,92708080,2020-07-22,"Jumeirah Beach Residence,Emirates Living",0.3,0.42
+a1b36b9e-9499-46d5-be4a-384abd28e2ae,Investor_5075,Fund,UK,Flip,25,81589106,2019-07-11,Dubai Hills Estate,0.68,0.16
+dbae091d-37c8-4c50-9323-e4fd14aa08c5,Investor_1358,Family Office,Russia,Mixed Portfolio,23,49254034,2020-07-08,Motor City,0.49,0.5
+d383b8a8-1d13-47e9-93fb-eab1cbc1aee5,Investor_2465,REIT,Russia,Development,23,31676379,2021-10-09,"City Walk,Motor City,Arabian Ranches",0.25,0.87
+8d17eb80-811a-489d-89eb-0d0228f0fbdb,Investor_9473,Family Office,China,Mixed Portfolio,13,5871204,2020-07-06,"Dubai Marina,Dubai Hills Estate,Downtown Dubai",0.74,0.24
+2fb56e81-f7c9-47a6-924d-b4ce206f7aa3,Investor_1820,Government,UK,Buy & Hold,34,35245026,2019-09-17,"DIFC,Dubai Investment Park",0.87,0.35
+78752028-c9f6-4a8f-af6c-83597df8d57b,Investor_4753,Company,Russia,Development,11,70861397,2024-01-16,"Downtown Dubai,Dubai Marina",0.62,0.8
+615235e8-de33-4ffa-bc96-cf7f6a53ca51,Investor_3882,Family Office,UK,Mixed Portfolio,31,57809533,2022-11-28,"Business Bay,Emirates Living",0.64,0.17
+4154036a-b16f-4b6e-988b-61c521ffe8c9,Investor_5408,Individual,India,Mixed Portfolio,8,63080682,2018-08-02,"Arabian Ranches,Dubai Investment Park,Studio City",0.32,0.11
+36638971-6bc6-45d3-b5e2-74fa259ae484,Investor_5461,Company,France,Buy & Hold,33,68714151,2024-02-26,"Dubai Investment Park,Arabian Ranches,Dubai Marina,Dubai Hills Estate",0.24,0.22
+6ee79b4e-de67-4d72-aa1d-2d648bd30593,Investor_7016,Government,China,Development,30,33989230,2019-09-09,"Jumeirah Village Circle,Dubai Hills Estate",0.25,0.65
+35fa355c-b46d-4821-933c-acfcdc6253f0,Investor_2098,Individual,Russia,Flip,1,39547666,2019-08-16,"Motor City,Jumeirah Beach Residence,Sports City,Discovery Gardens,City Walk",0.52,0.68
+5e19790c-dd6e-4238-b8bd-7f2e4670c292,Investor_6798,Government,China,Mixed Portfolio,46,55384837,2016-05-12,"Sports City,International City,Arabian Ranches",0.55,0.55
+865b683b-5b2d-4d99-9bc7-a4b1821a7416,Investor_4389,Individual,Saudi Arabia,Mixed Portfolio,24,41056231,2023-06-30,"International City,Jumeirah Beach Residence,Sports City,Dubai Investment Park,Arabian Ranches",0.12,0.54
+211e4755-582e-4dfb-81b6-232113d83d59,Investor_4531,Individual,Russia,Flip,29,80246161,2015-12-05,"DIFC,Jumeirah Beach Residence",0.32,0.11
+7b930617-a18a-4528-b74b-267530ef3f70,Investor_8193,Company,UK,REIT,26,63592309,2016-10-18,"Palm Jumeirah,Emirates Living,Discovery Gardens,Downtown Dubai",0.47,0.15
+490cb866-8650-4cce-b73a-b8eff5f7dca0,Investor_2659,Company,UK,Development,4,48050710,2019-07-29,"International City,Downtown Dubai,DIFC,Arabian Ranches",0.84,0.6
+0150347d-c098-4409-a7d4-be14c19716d3,Investor_8855,Individual,Saudi Arabia,Development,22,26968352,2021-04-23,"Arabian Ranches,Business Bay,Jumeirah Village Circle,Downtown Dubai,Palm Jumeirah",0.74,0.34
+31c30731-3952-4b8f-b0a5-b3163224843c,Investor_9347,Individual,Pakistan,Mixed Portfolio,24,4239995,2019-10-06,"Jumeirah Lake Towers,Discovery Gardens,Palm Jumeirah,DIFC",0.39,0.43
+736549d9-0117-4405-9c34-c0309ccbc9b9,Investor_3020,Government,Germany,REIT,28,69984106,2024-05-20,"Sports City,Downtown Dubai,Dubai Investment Park,Discovery Gardens,International City",0.44,0.69
+9e64341b-1c64-4335-a23d-20f7461270bb,Investor_5376,REIT,India,Flip,49,27351536,2023-09-30,"Jumeirah Beach Residence,City Walk,Studio City,Jumeirah Village Circle,Business Bay",0.14,0.11
+ba43df87-b4eb-44c4-b32b-df450be5c9a6,Investor_4186,Company,Russia,Mixed Portfolio,13,57047853,2015-10-29,"International City,City Walk",0.99,0.29
+969f955d-c07b-4e3a-99c5-1c0b8543269b,Investor_3677,Individual,UAE,Development,47,65782142,2015-12-19,Dubai Hills Estate,0.52,0.98
+ebf8f382-fe4d-4c03-96a6-f46883ab9fa1,Investor_9085,Family Office,Saudi Arabia,Buy & Hold,43,62687310,2020-12-12,"Palm Jumeirah,Motor City,City Walk,DIFC,Sports City",0.59,0.91
+0e67b313-8527-454d-9f04-a56afba97d12,Investor_6416,Family Office,USA,Mixed Portfolio,10,90624137,2017-02-21,"Sports City,City Walk,Dubai Hills Estate,Jumeirah Village Circle,International City",0.12,0.54
+d2005333-6237-44db-a5a4-9c8afa1929fd,Investor_9336,Fund,UK,REIT,47,55319134,2024-03-19,"DIFC,City Walk,Jumeirah Village Circle,International City,Downtown Dubai",0.6,0.86
+fd192360-67f8-463c-8f79-83483c0969b5,Investor_5075,Company,Germany,Flip,7,94600990,2018-09-17,"Palm Jumeirah,International City,Jumeirah Beach Residence,Emirates Living,DIFC",0.4,0.17
+9838d65f-c6c6-43f5-9f17-f7ab16d7c2e2,Investor_8883,Company,Saudi Arabia,Development,4,59468386,2020-03-28,"Dubai Investment Park,International City,Motor City,Business Bay",0.4,0.43
+5e3a1289-825a-4c18-be7d-854e062717e6,Investor_4861,Fund,Germany,REIT,26,79976828,2022-05-23,"International City,Dubai Hills Estate,DIFC,Jumeirah Village Circle",0.65,0.25
+c2d97a6b-999a-4264-97e2-1bd60a802269,Investor_6359,Company,China,REIT,6,14510334,2023-11-14,Business Bay,0.24,0.49
+20e941e6-cb29-43a5-8677-6ca7476086f0,Investor_3488,Individual,UAE,Buy & Hold,31,24833454,2024-06-04,"DIFC,Palm Jumeirah",0.71,0.93
+a273c95a-6735-4044-92c9-61ea586eccd0,Investor_6853,Family Office,China,Buy & Hold,3,23175662,2021-04-26,"Jumeirah Village Circle,Dubai Marina,Downtown Dubai",0.99,0.65
