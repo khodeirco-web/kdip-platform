@@ -2,9 +2,9 @@ name: Test Pipeline
 
 on:
   push:
-    branches: [main, develop]
+    branches: [main, master, develop]
   pull_request:
-    branches: [main, develop]
+    branches: [main, master, develop]
   schedule:
     - cron: '0 6 * * 0' # Weekly burn-in on Sundays at 6 AM UTC
 
